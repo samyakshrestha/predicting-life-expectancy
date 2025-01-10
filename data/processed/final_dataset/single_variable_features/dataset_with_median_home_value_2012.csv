@@ -1,0 +1,3112 @@
+County,State,State_FIPS,County_FIPS,median_home_value
+Autauga County,Alabama,01,001,137900
+Baldwin County,Alabama,01,003,172900
+Barbour County,Alabama,01,005,88700
+Bibb County,Alabama,01,007,91600
+Blount County,Alabama,01,009,115200
+Bullock County,Alabama,01,011,73900
+Butler County,Alabama,01,013,73500
+Calhoun County,Alabama,01,015,101900
+Chambers County,Alabama,01,017,78000
+Cherokee County,Alabama,01,019,99900
+Chilton County,Alabama,01,021,103700
+Choctaw County,Alabama,01,023,59300
+Clarke County,Alabama,01,025,84800
+Clay County,Alabama,01,027,80600
+Cleburne County,Alabama,01,029,91300
+Coffee County,Alabama,01,031,126400
+Colbert County,Alabama,01,033,101500
+Conecuh County,Alabama,01,035,74200
+Coosa County,Alabama,01,037,74500
+Covington County,Alabama,01,039,86700
+Crenshaw County,Alabama,01,041,70000
+Cullman County,Alabama,01,043,104700
+Dale County,Alabama,01,045,96100
+Dallas County,Alabama,01,047,73700
+DeKalb County,Alabama,01,049,89400
+Elmore County,Alabama,01,051,143900
+Escambia County,Alabama,01,053,85300
+Etowah County,Alabama,01,055,101200
+Fayette County,Alabama,01,057,72600
+Franklin County,Alabama,01,059,82000
+Geneva County,Alabama,01,061,79400
+Greene County,Alabama,01,063,77200
+Hale County,Alabama,01,065,80300
+Henry County,Alabama,01,067,100400
+Houston County,Alabama,01,069,122000
+Jackson County,Alabama,01,071,92000
+Jefferson County,Alabama,01,073,142300
+Lamar County,Alabama,01,075,69900
+Lauderdale County,Alabama,01,077,111900
+Lawrence County,Alabama,01,079,96600
+Lee County,Alabama,01,081,149300
+Limestone County,Alabama,01,083,132500
+Lowndes County,Alabama,01,085,70200
+Macon County,Alabama,01,087,77500
+Madison County,Alabama,01,089,163300
+Marengo County,Alabama,01,091,89500
+Marion County,Alabama,01,093,76400
+Marshall County,Alabama,01,095,109800
+Mobile County,Alabama,01,097,125400
+Monroe County,Alabama,01,099,76600
+Montgomery County,Alabama,01,101,123500
+Morgan County,Alabama,01,103,121100
+Perry County,Alabama,01,105,63500
+Pickens County,Alabama,01,107,82500
+Pike County,Alabama,01,109,101600
+Randolph County,Alabama,01,111,89100
+Russell County,Alabama,01,113,102000
+Saint Clair County,Alabama,01,115,132600
+Shelby County,Alabama,01,117,196000
+Sumter County,Alabama,01,119,76800
+Talladega County,Alabama,01,121,90400
+Tallapoosa County,Alabama,01,123,94600
+Tuscaloosa County,Alabama,01,125,152300
+Walker County,Alabama,01,127,83600
+Washington County,Alabama,01,129,85800
+Wilcox County,Alabama,01,131,58300
+Winston County,Alabama,01,133,80500
+Anchorage Municipality,Alaska,02,020,277100
+Bethel Census Area,Alaska,02,050,172300
+Bristol Bay Borough,Alaska,02,060,182000
+Fairbanks North Star Borough,Alaska,02,090,213500
+Haines Borough,Alaska,02,100,172400
+Juneau City and Borough,Alaska,02,110,304100
+Kenai Peninsula Borough,Alaska,02,122,202300
+Kodiak Island Borough,Alaska,02,150,233100
+Matanuska-Susitna Borough,Alaska,02,170,217700
+Nome Census Area,Alaska,02,180,135500
+North Slope Borough,Alaska,02,185,151100
+Sitka City and Borough,Alaska,02,220,319500
+Southeast Fairbanks Census Area,Alaska,02,240,178600
+Valdez-Cordova Census Area,Alaska,02,261,175100
+Wade Hampton Census Area,Alaska,02,270,104300
+Northwest Arctic Borough,Alaska,02,188,130100
+Aleutians East Borough,Alaska,02,013,120900
+Aleutians West Census Area,Alaska,02,016,204700
+Dillingham Census Area,Alaska,02,070,173300
+Lake and Peninsula Borough,Alaska,02,164,156300
+Denali Borough,Alaska,02,068,201900
+Yukon-Koyukuk Census Area,Alaska,02,290,106500
+Hoonah-Angoon Census Area,Alaska,02,105,208100
+Skagway Municipality,Alaska,02,230,306200
+Yakutat City and Borough,Alaska,02,282,148400
+Ketchikan Gateway Borough,Alaska,02,130,262200
+Petersburg Borough,Alaska,02,195,206000
+Prince of Wales-Hyder Census Area,Alaska,02,198,156300
+Wrangell City and Borough,Alaska,02,275,163200
+Apache County,Arizona,04,001,85200
+Cochise County,Arizona,04,003,151800
+Coconino County,Arizona,04,005,237200
+Gila County,Arizona,04,007,140500
+Graham County,Arizona,04,009,125500
+Greenlee County,Arizona,04,011,79300
+Maricopa County,Arizona,04,013,193900
+Mohave County,Arizona,04,015,144700
+Navajo County,Arizona,04,017,122000
+Pima County,Arizona,04,019,177500
+Pinal County,Arizona,04,021,123300
+Santa Cruz County,Arizona,04,023,145700
+Yavapai County,Arizona,04,025,199200
+La Paz County,Arizona,04,012,96300
+Yuma County,Arizona,04,027,125300
+Arkansas County,Arkansas,05,001,76700
+Ashley County,Arkansas,05,003,63600
+Baxter County,Arkansas,05,005,119700
+Benton County,Arkansas,05,007,150700
+Boone County,Arkansas,05,009,105300
+Bradley County,Arkansas,05,011,63900
+Calhoun County,Arkansas,05,013,57600
+Carroll County,Arkansas,05,015,117200
+Chicot County,Arkansas,05,017,55600
+Clark County,Arkansas,05,019,86700
+Clay County,Arkansas,05,021,61200
+Cleburne County,Arkansas,05,023,118800
+Cleveland County,Arkansas,05,025,67800
+Columbia County,Arkansas,05,027,78200
+Conway County,Arkansas,05,029,84500
+Craighead County,Arkansas,05,031,116500
+Crawford County,Arkansas,05,033,101100
+Crittenden County,Arkansas,05,035,100200
+Cross County,Arkansas,05,037,75900
+Dallas County,Arkansas,05,039,54500
+Desha County,Arkansas,05,041,59300
+Drew County,Arkansas,05,043,80700
+Faulkner County,Arkansas,05,045,135300
+Franklin County,Arkansas,05,047,92500
+Fulton County,Arkansas,05,049,89700
+Garland County,Arkansas,05,051,131500
+Grant County,Arkansas,05,053,100200
+Greene County,Arkansas,05,055,95200
+Hempstead County,Arkansas,05,057,71800
+Hot Spring County,Arkansas,05,059,81600
+Howard County,Arkansas,05,061,72900
+Independence County,Arkansas,05,063,85900
+Izard County,Arkansas,05,065,75800
+Jackson County,Arkansas,05,067,57600
+Jefferson County,Arkansas,05,069,81100
+Johnson County,Arkansas,05,071,85000
+Lafayette County,Arkansas,05,073,51600
+Lawrence County,Arkansas,05,075,57400
+Lee County,Arkansas,05,077,52100
+Lincoln County,Arkansas,05,079,64100
+Little River County,Arkansas,05,081,78600
+Logan County,Arkansas,05,083,82400
+Lonoke County,Arkansas,05,085,119100
+Madison County,Arkansas,05,087,95000
+Marion County,Arkansas,05,089,91600
+Miller County,Arkansas,05,091,89400
+Mississippi County,Arkansas,05,093,75600
+Monroe County,Arkansas,05,095,52500
+Montgomery County,Arkansas,05,097,75500
+Nevada County,Arkansas,05,099,64700
+Newton County,Arkansas,05,101,74900
+Ouachita County,Arkansas,05,103,68600
+Perry County,Arkansas,05,105,78400
+Phillips County,Arkansas,05,107,59200
+Pike County,Arkansas,05,109,74200
+Poinsett County,Arkansas,05,111,67200
+Polk County,Arkansas,05,113,84100
+Pope County,Arkansas,05,115,107700
+Prairie County,Arkansas,05,117,74900
+Pulaski County,Arkansas,05,119,140600
+Randolph County,Arkansas,05,121,68100
+Saint Francis County,Arkansas,05,123,67800
+Saline County,Arkansas,05,125,137700
+Scott County,Arkansas,05,127,79100
+Searcy County,Arkansas,05,129,85200
+Sebastian County,Arkansas,05,131,113100
+Sevier County,Arkansas,05,133,70000
+Sharp County,Arkansas,05,135,75700
+Stone County,Arkansas,05,137,90400
+Union County,Arkansas,05,139,74200
+Van Buren County,Arkansas,05,141,83500
+Washington County,Arkansas,05,143,150000
+White County,Arkansas,05,145,98600
+Woodruff County,Arkansas,05,147,58600
+Yell County,Arkansas,05,149,84300
+Alameda County,California,06,001,514900
+Alpine County,California,06,003,371300
+Amador County,California,06,005,286500
+Butte County,California,06,007,237400
+Calaveras County,California,06,009,276200
+Colusa County,California,06,011,210300
+Contra Costa County,California,06,013,433800
+Del Norte County,California,06,015,227700
+El Dorado County,California,06,017,378400
+Fresno County,California,06,019,212100
+Glenn County,California,06,021,222300
+Humboldt County,California,06,023,300400
+Imperial County,California,06,025,155800
+Inyo County,California,06,027,246200
+Kern County,California,06,029,171200
+Kings County,California,06,031,192000
+Lake County,California,06,033,200500
+Lassen County,California,06,035,189400
+Los Angeles County,California,06,037,443300
+Madera County,California,06,039,210300
+Marin County,California,06,041,810700
+Mariposa County,California,06,043,242900
+Mendocino County,California,06,045,353400
+Merced County,California,06,047,161600
+Modoc County,California,06,049,158200
+Mono County,California,06,051,355600
+Monterey County,California,06,053,390400
+Napa County,California,06,055,460400
+Nevada County,California,06,057,379900
+Orange County,California,06,059,537600
+Placer County,California,06,061,354900
+Plumas County,California,06,063,251200
+Riverside County,California,06,065,248100
+Sacramento County,California,06,067,249800
+San Benito County,California,06,069,361700
+San Bernardino County,California,06,071,241500
+San Diego County,California,06,073,419400
+San Francisco County,California,06,075,750900
+San Joaquin County,California,06,077,225400
+San Luis Obispo County,California,06,079,449300
+San Mateo County,California,06,081,734100
+Santa Barbara County,California,06,083,482400
+Santa Clara County,California,06,085,656600
+Santa Cruz County,California,06,087,576500
+Shasta County,California,06,089,233400
+Sierra County,California,06,091,265600
+Siskiyou County,California,06,093,215200
+Solano County,California,06,095,290500
+Sonoma County,California,06,097,430900
+Stanislaus County,California,06,099,192200
+Sutter County,California,06,101,204200
+Tehama County,California,06,103,189500
+Trinity County,California,06,105,258800
+Tulare County,California,06,107,172100
+Tuolumne County,California,06,109,282500
+Ventura County,California,06,111,465600
+Yolo County,California,06,113,329000
+Yuba County,California,06,115,180700
+Alamosa County,Colorado,08,003,133200
+Archuleta County,Colorado,08,007,291300
+Baca County,Colorado,08,009,72300
+Bent County,Colorado,08,011,70600
+Chaffee County,Colorado,08,015,256300
+Cheyenne County,Colorado,08,017,81700
+Clear Creek County,Colorado,08,019,278700
+Conejos County,Colorado,08,021,106300
+Costilla County,Colorado,08,023,90400
+Crowley County,Colorado,08,025,80400
+Custer County,Colorado,08,027,224000
+Delta County,Colorado,08,029,198600
+Dolores County,Colorado,08,033,123000
+Douglas County,Colorado,08,035,335300
+Eagle County,Colorado,08,037,491500
+Elbert County,Colorado,08,039,334400
+El Paso County,Colorado,08,041,217500
+Fremont County,Colorado,08,043,161100
+Garfield County,Colorado,08,045,323100
+Gilpin County,Colorado,08,047,295800
+Grand County,Colorado,08,049,282200
+Gunnison County,Colorado,08,051,327400
+Huerfano County,Colorado,08,055,159100
+Jackson County,Colorado,08,057,121800
+Kiowa County,Colorado,08,061,76100
+Kit Carson County,Colorado,08,063,118400
+Lake County,Colorado,08,065,163800
+La Plata County,Colorado,08,067,336800
+Larimer County,Colorado,08,069,245200
+Las Animas County,Colorado,08,071,143200
+Lincoln County,Colorado,08,073,105700
+Logan County,Colorado,08,075,121200
+Mesa County,Colorado,08,077,216600
+Moffat County,Colorado,08,081,184800
+Montezuma County,Colorado,08,083,187900
+Montrose County,Colorado,08,085,200900
+Morgan County,Colorado,08,087,138900
+Otero County,Colorado,08,089,90900
+Ouray County,Colorado,08,091,400300
+Park County,Colorado,08,093,249600
+Phillips County,Colorado,08,095,126900
+Pitkin County,Colorado,08,097,618900
+Prowers County,Colorado,08,099,83900
+Pueblo County,Colorado,08,101,140500
+Rio Blanco County,Colorado,08,103,212000
+Rio Grande County,Colorado,08,105,136500
+Routt County,Colorado,08,107,407700
+Saguache County,Colorado,08,109,131300
+San Miguel County,Colorado,08,113,489800
+Sedgwick County,Colorado,08,115,83200
+Summit County,Colorado,08,117,460500
+Teller County,Colorado,08,119,230400
+Washington County,Colorado,08,121,112900
+Yuma County,Colorado,08,125,123200
+Adams County,Colorado,08,001,188100
+Arapahoe County,Colorado,08,005,230900
+Boulder County,Colorado,08,013,354300
+Broomfield County,Colorado,08,014,274900
+Denver County,Colorado,08,031,246300
+Jefferson County,Colorado,08,059,260800
+Weld County,Colorado,08,123,192100
+Fairfield County,Connecticut,09,001,447500
+Hartford County,Connecticut,09,003,246400
+Litchfield County,Connecticut,09,005,272000
+Middlesex County,Connecticut,09,007,299600
+New Haven County,Connecticut,09,009,263900
+New London County,Connecticut,09,011,260600
+Tolland County,Connecticut,09,013,261300
+Windham County,Connecticut,09,015,219300
+Kent County,Delaware,10,001,205100
+New Castle County,Delaware,10,003,251200
+Sussex County,Delaware,10,005,241800
+Alachua County,Florida,12,001,176300
+Baker County,Florida,12,003,126200
+Bay County,Florida,12,005,163000
+Bradford County,Florida,12,007,117500
+Brevard County,Florida,12,009,157200
+Broward County,Florida,12,011,199900
+Calhoun County,Florida,12,013,74400
+Charlotte County,Florida,12,015,154300
+Citrus County,Florida,12,017,126000
+Clay County,Florida,12,019,167900
+Collier County,Florida,12,021,280700
+Columbia County,Florida,12,023,120900
+Miami-Dade County,Florida,12,086,221900
+DeSoto County,Florida,12,027,98400
+Dixie County,Florida,12,029,88900
+Duval County,Florida,12,031,161200
+Escambia County,Florida,12,033,137300
+Flagler County,Florida,12,035,180300
+Franklin County,Florida,12,037,159800
+Gadsden County,Florida,12,039,112000
+Gilchrist County,Florida,12,041,107300
+Glades County,Florida,12,043,84400
+Gulf County,Florida,12,045,126300
+Hamilton County,Florida,12,047,72300
+Hardee County,Florida,12,049,89500
+Hendry County,Florida,12,051,89100
+Hernando County,Florida,12,053,128400
+Highlands County,Florida,12,055,104800
+Hillsborough County,Florida,12,057,170000
+Holmes County,Florida,12,059,87300
+Indian River County,Florida,12,061,165500
+Jackson County,Florida,12,063,90600
+Jefferson County,Florida,12,065,113800
+Lafayette County,Florida,12,067,154000
+Lake County,Florida,12,069,155500
+Lee County,Florida,12,071,161400
+Leon County,Florida,12,073,189100
+Levy County,Florida,12,075,101200
+Liberty County,Florida,12,077,80300
+Madison County,Florida,12,079,85600
+Manatee County,Florida,12,081,175100
+Marion County,Florida,12,083,130900
+Martin County,Florida,12,085,214300
+Monroe County,Florida,12,087,417400
+Nassau County,Florida,12,089,195300
+Okaloosa County,Florida,12,091,188200
+Okeechobee County,Florida,12,093,110800
+Orange County,Florida,12,095,185800
+Osceola County,Florida,12,097,146200
+Palm Beach County,Florida,12,099,216200
+Pasco County,Florida,12,101,131200
+Pinellas County,Florida,12,103,161600
+Polk County,Florida,12,105,120200
+Putnam County,Florida,12,107,97300
+Saint Johns County,Florida,12,109,256000
+Saint Lucie County,Florida,12,111,135500
+Santa Rosa County,Florida,12,113,166300
+Sarasota County,Florida,12,115,191600
+Seminole County,Florida,12,117,204000
+Sumter County,Florida,12,119,187600
+Suwannee County,Florida,12,121,105400
+Taylor County,Florida,12,123,88800
+Union County,Florida,12,125,107900
+Volusia County,Florida,12,127,158900
+Wakulla County,Florida,12,129,145100
+Walton County,Florida,12,131,164200
+Washington County,Florida,12,133,88500
+Appling County,Georgia,13,001,83700
+Atkinson County,Georgia,13,003,73100
+Bacon County,Georgia,13,005,71600
+Baker County,Georgia,13,007,74200
+Baldwin County,Georgia,13,009,106200
+Banks County,Georgia,13,011,137800
+Barrow County,Georgia,13,013,131900
+Bartow County,Georgia,13,015,137600
+Ben Hill County,Georgia,13,017,75100
+Berrien County,Georgia,13,019,77000
+Bibb County,Georgia,13,021,123300
+Bleckley County,Georgia,13,023,84500
+Brantley County,Georgia,13,025,65600
+Brooks County,Georgia,13,027,100600
+Bryan County,Georgia,13,029,189100
+Bulloch County,Georgia,13,031,137700
+Burke County,Georgia,13,033,78100
+Butts County,Georgia,13,035,132300
+Calhoun County,Georgia,13,037,57900
+Camden County,Georgia,13,039,162200
+Candler County,Georgia,13,043,79400
+Carroll County,Georgia,13,045,126000
+Catoosa County,Georgia,13,047,130300
+Charlton County,Georgia,13,049,76500
+Chatham County,Georgia,13,051,175900
+Chattahoochee County,Georgia,13,053,84400
+Chattooga County,Georgia,13,055,74800
+Cherokee County,Georgia,13,057,194400
+Clarke County,Georgia,13,059,161100
+Clay County,Georgia,13,061,74600
+Clayton County,Georgia,13,063,111200
+Clinch County,Georgia,13,065,70700
+Cobb County,Georgia,13,067,203000
+Coffee County,Georgia,13,069,79000
+Colquitt County,Georgia,13,071,84500
+Columbia County,Georgia,13,073,171400
+Cook County,Georgia,13,075,91200
+Coweta County,Georgia,13,077,175000
+Crawford County,Georgia,13,079,89700
+Crisp County,Georgia,13,081,98500
+Dade County,Georgia,13,083,118700
+Dawson County,Georgia,13,085,191200
+Decatur County,Georgia,13,087,105900
+DeKalb County,Georgia,13,089,178000
+Dodge County,Georgia,13,091,67900
+Dooly County,Georgia,13,093,66600
+Dougherty County,Georgia,13,095,101900
+Douglas County,Georgia,13,097,146900
+Early County,Georgia,13,099,81600
+Echols County,Georgia,13,101,92000
+Effingham County,Georgia,13,103,156900
+Elbert County,Georgia,13,105,85100
+Emanuel County,Georgia,13,107,72700
+Evans County,Georgia,13,109,89600
+Fannin County,Georgia,13,111,163900
+Fayette County,Georgia,13,113,239500
+Floyd County,Georgia,13,115,115000
+Forsyth County,Georgia,13,117,265900
+Franklin County,Georgia,13,119,129700
+Fulton County,Georgia,13,121,246200
+Gilmer County,Georgia,13,123,148500
+Glascock County,Georgia,13,125,70200
+Glynn County,Georgia,13,127,171300
+Gordon County,Georgia,13,129,118500
+Grady County,Georgia,13,131,104900
+Greene County,Georgia,13,133,136700
+Gwinnett County,Georgia,13,135,180700
+Habersham County,Georgia,13,137,143200
+Hall County,Georgia,13,139,169400
+Hancock County,Georgia,13,141,71400
+Haralson County,Georgia,13,143,109400
+Harris County,Georgia,13,145,214200
+Hart County,Georgia,13,147,115000
+Heard County,Georgia,13,149,88900
+Henry County,Georgia,13,151,158900
+Houston County,Georgia,13,153,135800
+Irwin County,Georgia,13,155,77600
+Jackson County,Georgia,13,157,162900
+Jasper County,Georgia,13,159,123000
+Jeff Davis County,Georgia,13,161,78700
+Jefferson County,Georgia,13,163,69700
+Jenkins County,Georgia,13,165,66400
+Johnson County,Georgia,13,167,67000
+Jones County,Georgia,13,169,137000
+Lamar County,Georgia,13,171,119800
+Lanier County,Georgia,13,173,127700
+Laurens County,Georgia,13,175,88100
+Lee County,Georgia,13,177,150700
+Liberty County,Georgia,13,179,126800
+Lincoln County,Georgia,13,181,103700
+Long County,Georgia,13,183,102700
+Lowndes County,Georgia,13,185,134000
+Lumpkin County,Georgia,13,187,169100
+McDuffie County,Georgia,13,189,105000
+McIntosh County,Georgia,13,191,116500
+Macon County,Georgia,13,193,72400
+Madison County,Georgia,13,195,127600
+Marion County,Georgia,13,197,75300
+Meriwether County,Georgia,13,199,93900
+Miller County,Georgia,13,201,83600
+Mitchell County,Georgia,13,205,79300
+Monroe County,Georgia,13,207,150700
+Montgomery County,Georgia,13,209,76100
+Morgan County,Georgia,13,211,175700
+Murray County,Georgia,13,213,98400
+Muscogee County,Georgia,13,215,132900
+Newton County,Georgia,13,217,137100
+Oconee County,Georgia,13,219,241400
+Oglethorpe County,Georgia,13,221,131300
+Paulding County,Georgia,13,223,142700
+Peach County,Georgia,13,225,120000
+Pickens County,Georgia,13,227,168400
+Pierce County,Georgia,13,229,82400
+Pike County,Georgia,13,231,156400
+Polk County,Georgia,13,233,104400
+Pulaski County,Georgia,13,235,81300
+Putnam County,Georgia,13,237,161000
+Quitman County,Georgia,13,239,66800
+Rabun County,Georgia,13,241,174600
+Randolph County,Georgia,13,243,66200
+Richmond County,Georgia,13,245,102500
+Rockdale County,Georgia,13,247,156200
+Schley County,Georgia,13,249,96700
+Screven County,Georgia,13,251,77200
+Seminole County,Georgia,13,253,71500
+Spalding County,Georgia,13,255,119200
+Stephens County,Georgia,13,257,104600
+Stewart County,Georgia,13,259,45900
+Sumter County,Georgia,13,261,88500
+Talbot County,Georgia,13,263,74500
+Taliaferro County,Georgia,13,265,72600
+Tattnall County,Georgia,13,267,84200
+Taylor County,Georgia,13,269,64200
+Telfair County,Georgia,13,271,62200
+Terrell County,Georgia,13,273,76900
+Thomas County,Georgia,13,275,122900
+Tift County,Georgia,13,277,115300
+Toombs County,Georgia,13,279,89900
+Towns County,Georgia,13,281,166500
+Treutlen County,Georgia,13,283,61600
+Troup County,Georgia,13,285,124500
+Turner County,Georgia,13,287,81500
+Twiggs County,Georgia,13,289,67600
+Union County,Georgia,13,291,188500
+Upson County,Georgia,13,293,89900
+Walker County,Georgia,13,295,107400
+Walton County,Georgia,13,297,160000
+Ware County,Georgia,13,299,84300
+Warren County,Georgia,13,301,65800
+Washington County,Georgia,13,303,80700
+Wayne County,Georgia,13,305,82600
+Webster County,Georgia,13,307,50500
+Wheeler County,Georgia,13,309,57600
+White County,Georgia,13,311,173400
+Whitfield County,Georgia,13,313,123300
+Wilcox County,Georgia,13,315,71800
+Wilkes County,Georgia,13,317,102300
+Wilkinson County,Georgia,13,319,72000
+Worth County,Georgia,13,321,80600
+Hawaii County,Hawaii,15,001,326900
+Honolulu County,Hawaii,15,003,557800
+Kauai County,Hawaii,15,007,513600
+Kalawao County,Hawaii,15,005,-666666666
+Maui County,Hawaii,15,009,563500
+Ada County,Idaho,16,001,193300
+Adams County,Idaho,16,003,142900
+Bannock County,Idaho,16,005,143200
+Bear Lake County,Idaho,16,007,131600
+Benewah County,Idaho,16,009,124000
+Bingham County,Idaho,16,011,135900
+Blaine County,Idaho,16,013,404900
+Boise County,Idaho,16,015,195800
+Bonner County,Idaho,16,017,227900
+Bonneville County,Idaho,16,019,157500
+Boundary County,Idaho,16,021,174200
+Butte County,Idaho,16,023,112300
+Camas County,Idaho,16,025,165400
+Canyon County,Idaho,16,027,134400
+Caribou County,Idaho,16,029,114100
+Cassia County,Idaho,16,031,124700
+Clearwater County,Idaho,16,035,141000
+Custer County,Idaho,16,037,154500
+Elmore County,Idaho,16,039,142000
+Franklin County,Idaho,16,041,163000
+Fremont County,Idaho,16,043,142500
+Gem County,Idaho,16,045,155500
+Gooding County,Idaho,16,047,127400
+Idaho County,Idaho,16,049,148400
+Jefferson County,Idaho,16,051,159500
+Jerome County,Idaho,16,053,136500
+Kootenai County,Idaho,16,055,201400
+Latah County,Idaho,16,057,189800
+Lemhi County,Idaho,16,059,182800
+Lewis County,Idaho,16,061,118200
+Lincoln County,Idaho,16,063,126500
+Madison County,Idaho,16,065,171600
+Minidoka County,Idaho,16,067,107600
+Nez Perce County,Idaho,16,069,168500
+Oneida County,Idaho,16,071,121000
+Owyhee County,Idaho,16,073,129600
+Payette County,Idaho,16,075,134000
+Power County,Idaho,16,077,147800
+Shoshone County,Idaho,16,079,138800
+Teton County,Idaho,16,081,226600
+Twin Falls County,Idaho,16,083,150300
+Valley County,Idaho,16,085,244200
+Washington County,Idaho,16,087,134400
+Adams County,Illinois,17,001,102500
+Alexander County,Illinois,17,003,58000
+Bond County,Illinois,17,005,101900
+Boone County,Illinois,17,007,164700
+Brown County,Illinois,17,009,85400
+Bureau County,Illinois,17,011,103700
+Calhoun County,Illinois,17,013,115600
+Carroll County,Illinois,17,015,99600
+Cass County,Illinois,17,017,76400
+Champaign County,Illinois,17,019,149000
+Christian County,Illinois,17,021,82000
+Clark County,Illinois,17,023,86300
+Clay County,Illinois,17,025,75500
+Clinton County,Illinois,17,027,128700
+Coles County,Illinois,17,029,91100
+Cook County,Illinois,17,031,244900
+Crawford County,Illinois,17,033,74700
+Cumberland County,Illinois,17,035,82400
+DeKalb County,Illinois,17,037,179300
+De Witt County,Illinois,17,039,105100
+Douglas County,Illinois,17,041,98800
+DuPage County,Illinois,17,043,298500
+Edgar County,Illinois,17,045,72500
+Edwards County,Illinois,17,047,62100
+Effingham County,Illinois,17,049,112800
+Fayette County,Illinois,17,051,79600
+Ford County,Illinois,17,053,91500
+Franklin County,Illinois,17,055,63900
+Fulton County,Illinois,17,057,81800
+Gallatin County,Illinois,17,059,59700
+Greene County,Illinois,17,061,73300
+Grundy County,Illinois,17,063,186500
+Hamilton County,Illinois,17,065,75100
+Hancock County,Illinois,17,067,80100
+Hardin County,Illinois,17,069,72400
+Henderson County,Illinois,17,071,84400
+Henry County,Illinois,17,073,108800
+Iroquois County,Illinois,17,075,99400
+Jackson County,Illinois,17,077,96900
+Jasper County,Illinois,17,079,82800
+Jefferson County,Illinois,17,081,86000
+Jersey County,Illinois,17,083,118900
+Jo Daviess County,Illinois,17,085,141200
+Johnson County,Illinois,17,087,92500
+Kane County,Illinois,17,089,233800
+Kankakee County,Illinois,17,091,149200
+Kendall County,Illinois,17,093,229400
+Knox County,Illinois,17,095,80400
+Lake County,Illinois,17,097,267700
+LaSalle County,Illinois,17,099,126900
+Lawrence County,Illinois,17,101,65200
+Lee County,Illinois,17,103,113000
+Livingston County,Illinois,17,105,108300
+Logan County,Illinois,17,107,97000
+McDonough County,Illinois,17,109,86500
+McHenry County,Illinois,17,111,233400
+McLean County,Illinois,17,113,156600
+Macon County,Illinois,17,115,92500
+Macoupin County,Illinois,17,117,93600
+Madison County,Illinois,17,119,124900
+Marion County,Illinois,17,121,71800
+Marshall County,Illinois,17,123,103500
+Mason County,Illinois,17,125,81600
+Massac County,Illinois,17,127,82700
+Menard County,Illinois,17,129,116800
+Mercer County,Illinois,17,131,95100
+Monroe County,Illinois,17,133,198300
+Montgomery County,Illinois,17,135,81100
+Morgan County,Illinois,17,137,91600
+Moultrie County,Illinois,17,139,94100
+Ogle County,Illinois,17,141,151400
+Peoria County,Illinois,17,143,124000
+Perry County,Illinois,17,145,77200
+Piatt County,Illinois,17,147,120800
+Pike County,Illinois,17,149,76500
+Pope County,Illinois,17,151,93000
+Pulaski County,Illinois,17,153,52700
+Putnam County,Illinois,17,155,128600
+Randolph County,Illinois,17,157,89300
+Richland County,Illinois,17,159,79400
+Rock Island County,Illinois,17,161,114000
+Saint Clair County,Illinois,17,163,125700
+Saline County,Illinois,17,165,71700
+Sangamon County,Illinois,17,167,124100
+Schuyler County,Illinois,17,169,75500
+Scott County,Illinois,17,171,80800
+Shelby County,Illinois,17,173,87000
+Stark County,Illinois,17,175,86600
+Stephenson County,Illinois,17,177,103400
+Tazewell County,Illinois,17,179,130600
+Union County,Illinois,17,181,89700
+Vermilion County,Illinois,17,183,77200
+Wabash County,Illinois,17,185,80000
+Warren County,Illinois,17,187,83000
+Washington County,Illinois,17,189,104800
+Wayne County,Illinois,17,191,72500
+White County,Illinois,17,193,67700
+Whiteside County,Illinois,17,195,99400
+Will County,Illinois,17,197,228900
+Williamson County,Illinois,17,199,90300
+Winnebago County,Illinois,17,201,127500
+Woodford County,Illinois,17,203,156600
+Adams County,Indiana,18,001,113500
+Allen County,Indiana,18,003,113400
+Bartholomew County,Indiana,18,005,137000
+Benton County,Indiana,18,007,85300
+Blackford County,Indiana,18,009,73000
+Boone County,Indiana,18,011,182300
+Brown County,Indiana,18,013,158300
+Carroll County,Indiana,18,015,106100
+Cass County,Indiana,18,017,80900
+Clark County,Indiana,18,019,127400
+Clay County,Indiana,18,021,87800
+Clinton County,Indiana,18,023,97000
+Crawford County,Indiana,18,025,86500
+Daviess County,Indiana,18,027,102700
+Dearborn County,Indiana,18,029,161700
+Decatur County,Indiana,18,031,117500
+DeKalb County,Indiana,18,033,109200
+Delaware County,Indiana,18,035,90800
+Dubois County,Indiana,18,037,132200
+Elkhart County,Indiana,18,039,125900
+Fayette County,Indiana,18,041,81500
+Floyd County,Indiana,18,043,150600
+Fountain County,Indiana,18,045,89900
+Franklin County,Indiana,18,047,151900
+Fulton County,Indiana,18,049,93200
+Gibson County,Indiana,18,051,103100
+Grant County,Indiana,18,053,81300
+Greene County,Indiana,18,055,88100
+Hamilton County,Indiana,18,057,214400
+Hancock County,Indiana,18,059,157700
+Harrison County,Indiana,18,061,125400
+Hendricks County,Indiana,18,063,161500
+Henry County,Indiana,18,065,93600
+Howard County,Indiana,18,067,100500
+Huntington County,Indiana,18,069,98000
+Jackson County,Indiana,18,071,117400
+Jasper County,Indiana,18,073,145400
+Jay County,Indiana,18,075,77600
+Jefferson County,Indiana,18,077,108700
+Jennings County,Indiana,18,079,92100
+Johnson County,Indiana,18,081,145900
+Knox County,Indiana,18,083,84200
+Kosciusko County,Indiana,18,085,133300
+LaGrange County,Indiana,18,087,154100
+Lake County,Indiana,18,089,137400
+LaPorte County,Indiana,18,091,120600
+Lawrence County,Indiana,18,093,95700
+Madison County,Indiana,18,095,93600
+Marion County,Indiana,18,097,120000
+Marshall County,Indiana,18,099,123700
+Martin County,Indiana,18,101,88600
+Miami County,Indiana,18,103,84200
+Monroe County,Indiana,18,105,155300
+Montgomery County,Indiana,18,107,108200
+Morgan County,Indiana,18,109,143000
+Newton County,Indiana,18,111,110900
+Noble County,Indiana,18,113,112900
+Ohio County,Indiana,18,115,142200
+Orange County,Indiana,18,117,90200
+Owen County,Indiana,18,119,97300
+Parke County,Indiana,18,121,93300
+Perry County,Indiana,18,123,96400
+Pike County,Indiana,18,125,82500
+Porter County,Indiana,18,127,166600
+Posey County,Indiana,18,129,122200
+Pulaski County,Indiana,18,131,99100
+Putnam County,Indiana,18,133,123000
+Randolph County,Indiana,18,135,77200
+Ripley County,Indiana,18,137,137500
+Rush County,Indiana,18,139,107200
+Saint Joseph County,Indiana,18,141,117100
+Scott County,Indiana,18,143,96800
+Shelby County,Indiana,18,145,128200
+Spencer County,Indiana,18,147,113800
+Starke County,Indiana,18,149,98000
+Steuben County,Indiana,18,151,120900
+Sullivan County,Indiana,18,153,77000
+Switzerland County,Indiana,18,155,110700
+Tippecanoe County,Indiana,18,157,129700
+Tipton County,Indiana,18,159,110800
+Union County,Indiana,18,161,113200
+Vanderburgh County,Indiana,18,163,113700
+Vermillion County,Indiana,18,165,76400
+Vigo County,Indiana,18,167,91200
+Wabash County,Indiana,18,169,96600
+Warren County,Indiana,18,171,98600
+Warrick County,Indiana,18,173,143900
+Washington County,Indiana,18,175,101200
+Wayne County,Indiana,18,177,97300
+Wells County,Indiana,18,179,109700
+White County,Indiana,18,181,112700
+Whitley County,Indiana,18,183,127100
+Adair County,Iowa,19,001,96700
+Adams County,Iowa,19,003,88100
+Allamakee County,Iowa,19,005,111100
+Appanoose County,Iowa,19,007,76300
+Audubon County,Iowa,19,009,69900
+Benton County,Iowa,19,011,130900
+Black Hawk County,Iowa,19,013,122300
+Boone County,Iowa,19,015,118200
+Bremer County,Iowa,19,017,139300
+Buchanan County,Iowa,19,019,117800
+Buena Vista County,Iowa,19,021,94700
+Butler County,Iowa,19,023,97500
+Calhoun County,Iowa,19,025,72200
+Carroll County,Iowa,19,027,105500
+Cass County,Iowa,19,029,85500
+Cedar County,Iowa,19,031,134000
+Cerro Gordo County,Iowa,19,033,107800
+Cherokee County,Iowa,19,035,78800
+Chickasaw County,Iowa,19,037,94300
+Clarke County,Iowa,19,039,86500
+Clay County,Iowa,19,041,102600
+Clayton County,Iowa,19,043,98500
+Clinton County,Iowa,19,045,110700
+Crawford County,Iowa,19,047,79500
+Dallas County,Iowa,19,049,182700
+Davis County,Iowa,19,051,103500
+Decatur County,Iowa,19,053,70000
+Delaware County,Iowa,19,055,125400
+Des Moines County,Iowa,19,057,94500
+Dickinson County,Iowa,19,059,154700
+Dubuque County,Iowa,19,061,144300
+Emmet County,Iowa,19,063,83600
+Fayette County,Iowa,19,065,82800
+Floyd County,Iowa,19,067,89200
+Franklin County,Iowa,19,069,85200
+Fremont County,Iowa,19,071,90500
+Greene County,Iowa,19,073,78300
+Grundy County,Iowa,19,075,118500
+Guthrie County,Iowa,19,077,95000
+Hamilton County,Iowa,19,079,90000
+Hancock County,Iowa,19,081,83800
+Hardin County,Iowa,19,083,88800
+Harrison County,Iowa,19,085,109100
+Henry County,Iowa,19,087,98700
+Howard County,Iowa,19,089,90400
+Humboldt County,Iowa,19,091,83400
+Ida County,Iowa,19,093,73700
+Iowa County,Iowa,19,095,137300
+Jackson County,Iowa,19,097,112700
+Jasper County,Iowa,19,099,116000
+Jefferson County,Iowa,19,101,90100
+Johnson County,Iowa,19,103,183100
+Jones County,Iowa,19,105,119000
+Keokuk County,Iowa,19,107,76200
+Kossuth County,Iowa,19,109,88300
+Lee County,Iowa,19,111,82200
+Linn County,Iowa,19,113,142300
+Louisa County,Iowa,19,115,94100
+Lucas County,Iowa,19,117,84700
+Lyon County,Iowa,19,119,105500
+Madison County,Iowa,19,121,159600
+Mahaska County,Iowa,19,123,99100
+Marion County,Iowa,19,125,132700
+Marshall County,Iowa,19,127,104000
+Mills County,Iowa,19,129,151400
+Mitchell County,Iowa,19,131,100400
+Monona County,Iowa,19,133,74800
+Monroe County,Iowa,19,135,87700
+Montgomery County,Iowa,19,137,78200
+Muscatine County,Iowa,19,139,120600
+O'Brien County,Iowa,19,141,86000
+Osceola County,Iowa,19,143,73600
+Page County,Iowa,19,145,77600
+Palo Alto County,Iowa,19,147,82300
+Plymouth County,Iowa,19,149,128300
+Pocahontas County,Iowa,19,151,56700
+Polk County,Iowa,19,153,153600
+Pottawattamie County,Iowa,19,155,124700
+Poweshiek County,Iowa,19,157,119100
+Ringgold County,Iowa,19,159,84300
+Sac County,Iowa,19,161,78300
+Scott County,Iowa,19,163,141400
+Shelby County,Iowa,19,165,104600
+Sioux County,Iowa,19,167,129400
+Story County,Iowa,19,169,160700
+Tama County,Iowa,19,171,100100
+Taylor County,Iowa,19,173,65100
+Union County,Iowa,19,175,91000
+Van Buren County,Iowa,19,177,67500
+Wapello County,Iowa,19,179,77500
+Warren County,Iowa,19,181,154600
+Washington County,Iowa,19,183,116900
+Wayne County,Iowa,19,185,60000
+Webster County,Iowa,19,187,84000
+Winnebago County,Iowa,19,189,92900
+Winneshiek County,Iowa,19,191,154300
+Woodbury County,Iowa,19,193,97400
+Worth County,Iowa,19,195,98300
+Wright County,Iowa,19,197,74200
+Allen County,Kansas,20,001,63400
+Anderson County,Kansas,20,003,87300
+Atchison County,Kansas,20,005,87800
+Barber County,Kansas,20,007,58000
+Barton County,Kansas,20,009,73600
+Bourbon County,Kansas,20,011,79900
+Brown County,Kansas,20,013,80400
+Butler County,Kansas,20,015,124900
+Chase County,Kansas,20,017,80300
+Chautauqua County,Kansas,20,019,46100
+Cherokee County,Kansas,20,021,71900
+Cheyenne County,Kansas,20,023,72600
+Clark County,Kansas,20,025,56400
+Clay County,Kansas,20,027,87200
+Cloud County,Kansas,20,029,63800
+Coffey County,Kansas,20,031,102200
+Comanche County,Kansas,20,033,47900
+Cowley County,Kansas,20,035,79900
+Crawford County,Kansas,20,037,83400
+Decatur County,Kansas,20,039,54500
+Dickinson County,Kansas,20,041,106400
+Doniphan County,Kansas,20,043,85000
+Douglas County,Kansas,20,045,178700
+Edwards County,Kansas,20,047,54900
+Elk County,Kansas,20,049,53400
+Ellis County,Kansas,20,051,134700
+Ellsworth County,Kansas,20,053,71100
+Finney County,Kansas,20,055,106900
+Ford County,Kansas,20,057,87300
+Franklin County,Kansas,20,059,120000
+Geary County,Kansas,20,061,130600
+Gove County,Kansas,20,063,66800
+Graham County,Kansas,20,065,67400
+Grant County,Kansas,20,067,88200
+Gray County,Kansas,20,069,102400
+Greeley County,Kansas,20,071,76600
+Greenwood County,Kansas,20,073,55700
+Hamilton County,Kansas,20,075,75700
+Harper County,Kansas,20,077,67000
+Harvey County,Kansas,20,079,107800
+Haskell County,Kansas,20,081,98300
+Hodgeman County,Kansas,20,083,72400
+Jackson County,Kansas,20,085,116500
+Jefferson County,Kansas,20,087,131700
+Jewell County,Kansas,20,089,50500
+Johnson County,Kansas,20,091,211900
+Kearny County,Kansas,20,093,92000
+Kingman County,Kansas,20,095,87600
+Kiowa County,Kansas,20,097,100300
+Labette County,Kansas,20,099,64700
+Lane County,Kansas,20,101,57000
+Leavenworth County,Kansas,20,103,166600
+Lincoln County,Kansas,20,105,61000
+Linn County,Kansas,20,107,98800
+Logan County,Kansas,20,109,74600
+Lyon County,Kansas,20,111,92700
+McPherson County,Kansas,20,113,121400
+Marion County,Kansas,20,115,81500
+Marshall County,Kansas,20,117,77700
+Meade County,Kansas,20,119,83600
+Miami County,Kansas,20,121,163200
+Mitchell County,Kansas,20,123,70700
+Montgomery County,Kansas,20,125,72500
+Morris County,Kansas,20,127,76800
+Morton County,Kansas,20,129,73400
+Nemaha County,Kansas,20,131,89800
+Neosho County,Kansas,20,133,68900
+Ness County,Kansas,20,135,53800
+Norton County,Kansas,20,137,63600
+Osage County,Kansas,20,139,96200
+Osborne County,Kansas,20,141,50000
+Ottawa County,Kansas,20,143,84800
+Pawnee County,Kansas,20,145,70800
+Phillips County,Kansas,20,147,61600
+Pottawatomie County,Kansas,20,149,152000
+Pratt County,Kansas,20,151,73600
+Rawlins County,Kansas,20,153,60600
+Reno County,Kansas,20,155,90000
+Republic County,Kansas,20,157,46900
+Rice County,Kansas,20,159,71200
+Riley County,Kansas,20,161,166900
+Rooks County,Kansas,20,163,63400
+Rush County,Kansas,20,165,53600
+Russell County,Kansas,20,167,64800
+Saline County,Kansas,20,169,119900
+Scott County,Kansas,20,171,95500
+Sedgwick County,Kansas,20,173,123000
+Seward County,Kansas,20,175,86400
+Shawnee County,Kansas,20,177,119400
+Sheridan County,Kansas,20,179,78700
+Sherman County,Kansas,20,181,69000
+Smith County,Kansas,20,183,59500
+Stafford County,Kansas,20,185,59300
+Stanton County,Kansas,20,187,85200
+Stevens County,Kansas,20,189,78100
+Sumner County,Kansas,20,191,85600
+Thomas County,Kansas,20,193,92200
+Trego County,Kansas,20,195,69100
+Wabaunsee County,Kansas,20,197,109000
+Wallace County,Kansas,20,199,64100
+Washington County,Kansas,20,201,55800
+Wichita County,Kansas,20,203,71500
+Wilson County,Kansas,20,205,62300
+Woodson County,Kansas,20,207,53800
+Wyandotte County,Kansas,20,209,96000
+Adair County,Kentucky,21,001,78900
+Allen County,Kentucky,21,003,93500
+Anderson County,Kentucky,21,005,132700
+Ballard County,Kentucky,21,007,91800
+Barren County,Kentucky,21,009,101800
+Bath County,Kentucky,21,011,65900
+Bell County,Kentucky,21,013,66200
+Boone County,Kentucky,21,015,173000
+Bourbon County,Kentucky,21,017,139000
+Boyd County,Kentucky,21,019,96700
+Boyle County,Kentucky,21,021,132700
+Bracken County,Kentucky,21,023,89000
+Breathitt County,Kentucky,21,025,50700
+Breckinridge County,Kentucky,21,027,81800
+Bullitt County,Kentucky,21,029,146600
+Butler County,Kentucky,21,031,80100
+Caldwell County,Kentucky,21,033,78500
+Calloway County,Kentucky,21,035,113600
+Campbell County,Kentucky,21,037,147600
+Carlisle County,Kentucky,21,039,73800
+Carroll County,Kentucky,21,041,99600
+Carter County,Kentucky,21,043,74900
+Casey County,Kentucky,21,045,76200
+Christian County,Kentucky,21,047,100900
+Clark County,Kentucky,21,049,139100
+Clay County,Kentucky,21,051,58300
+Clinton County,Kentucky,21,053,67700
+Crittenden County,Kentucky,21,055,74900
+Cumberland County,Kentucky,21,057,63300
+Daviess County,Kentucky,21,059,108300
+Edmonson County,Kentucky,21,061,91400
+Elliott County,Kentucky,21,063,69800
+Estill County,Kentucky,21,065,73800
+Fayette County,Kentucky,21,067,163000
+Fleming County,Kentucky,21,069,82000
+Floyd County,Kentucky,21,071,69600
+Franklin County,Kentucky,21,073,142200
+Fulton County,Kentucky,21,075,58500
+Gallatin County,Kentucky,21,077,101700
+Garrard County,Kentucky,21,079,115600
+Grant County,Kentucky,21,081,123400
+Graves County,Kentucky,21,083,85000
+Grayson County,Kentucky,21,085,89200
+Green County,Kentucky,21,087,72000
+Greenup County,Kentucky,21,089,91600
+Hancock County,Kentucky,21,091,90200
+Hardin County,Kentucky,21,093,140600
+Harlan County,Kentucky,21,095,52700
+Harrison County,Kentucky,21,097,105600
+Hart County,Kentucky,21,099,77300
+Henderson County,Kentucky,21,101,100500
+Henry County,Kentucky,21,103,124900
+Hickman County,Kentucky,21,105,61400
+Hopkins County,Kentucky,21,107,83300
+Jackson County,Kentucky,21,109,62300
+Jefferson County,Kentucky,21,111,148700
+Jessamine County,Kentucky,21,113,157000
+Johnson County,Kentucky,21,115,76600
+Kenton County,Kentucky,21,117,146200
+Knott County,Kentucky,21,119,57900
+Knox County,Kentucky,21,121,73500
+Larue County,Kentucky,21,123,96400
+Laurel County,Kentucky,21,125,96200
+Lawrence County,Kentucky,21,127,75200
+Lee County,Kentucky,21,129,57900
+Leslie County,Kentucky,21,131,50500
+Letcher County,Kentucky,21,133,54800
+Lewis County,Kentucky,21,135,61100
+Lincoln County,Kentucky,21,137,84400
+Livingston County,Kentucky,21,139,81600
+Logan County,Kentucky,21,141,87700
+Lyon County,Kentucky,21,143,96600
+McCracken County,Kentucky,21,145,118600
+McCreary County,Kentucky,21,147,65300
+McLean County,Kentucky,21,149,80300
+Madison County,Kentucky,21,151,143000
+Magoffin County,Kentucky,21,153,48300
+Marion County,Kentucky,21,155,100600
+Marshall County,Kentucky,21,157,103300
+Martin County,Kentucky,21,159,77100
+Mason County,Kentucky,21,161,99000
+Meade County,Kentucky,21,163,111100
+Menifee County,Kentucky,21,165,68800
+Mercer County,Kentucky,21,167,125600
+Metcalfe County,Kentucky,21,169,80300
+Monroe County,Kentucky,21,171,68900
+Montgomery County,Kentucky,21,173,104800
+Morgan County,Kentucky,21,175,68800
+Muhlenberg County,Kentucky,21,177,79400
+Nelson County,Kentucky,21,179,121400
+Nicholas County,Kentucky,21,181,81300
+Ohio County,Kentucky,21,183,78600
+Oldham County,Kentucky,21,185,242700
+Owen County,Kentucky,21,187,97300
+Owsley County,Kentucky,21,189,60500
+Pendleton County,Kentucky,21,191,105300
+Perry County,Kentucky,21,193,61500
+Pike County,Kentucky,21,195,64900
+Powell County,Kentucky,21,197,79200
+Pulaski County,Kentucky,21,199,102500
+Robertson County,Kentucky,21,201,70200
+Rockcastle County,Kentucky,21,203,73800
+Rowan County,Kentucky,21,205,101900
+Russell County,Kentucky,21,207,84500
+Scott County,Kentucky,21,209,161400
+Shelby County,Kentucky,21,211,167600
+Simpson County,Kentucky,21,213,115800
+Spencer County,Kentucky,21,215,167000
+Taylor County,Kentucky,21,217,96700
+Todd County,Kentucky,21,219,80100
+Trigg County,Kentucky,21,221,114100
+Trimble County,Kentucky,21,223,115000
+Union County,Kentucky,21,225,77900
+Warren County,Kentucky,21,227,139800
+Washington County,Kentucky,21,229,109500
+Wayne County,Kentucky,21,231,72200
+Webster County,Kentucky,21,233,66600
+Whitley County,Kentucky,21,235,70700
+Wolfe County,Kentucky,21,237,50300
+Woodford County,Kentucky,21,239,187400
+Acadia Parish,Louisiana,22,001,88900
+Allen Parish,Louisiana,22,003,79800
+Ascension Parish,Louisiana,22,005,167600
+Assumption Parish,Louisiana,22,007,88900
+Avoyelles Parish,Louisiana,22,009,85700
+Beauregard Parish,Louisiana,22,011,89900
+Bienville Parish,Louisiana,22,013,57300
+Bossier Parish,Louisiana,22,015,142300
+Caddo Parish,Louisiana,22,017,121500
+Calcasieu Parish,Louisiana,22,019,118100
+Caldwell Parish,Louisiana,22,021,69200
+Cameron Parish,Louisiana,22,023,105900
+Catahoula Parish,Louisiana,22,025,70000
+Claiborne Parish,Louisiana,22,027,70200
+Concordia Parish,Louisiana,22,029,75200
+De Soto Parish,Louisiana,22,031,82800
+East Baton Rouge Parish,Louisiana,22,033,164600
+East Carroll Parish,Louisiana,22,035,49000
+East Feliciana Parish,Louisiana,22,037,111700
+Evangeline Parish,Louisiana,22,039,78100
+Franklin Parish,Louisiana,22,041,76900
+Grant Parish,Louisiana,22,043,79900
+Iberia Parish,Louisiana,22,045,102500
+Iberville Parish,Louisiana,22,047,87800
+Jackson Parish,Louisiana,22,049,76000
+Jefferson Parish,Louisiana,22,051,175500
+Jefferson Davis Parish,Louisiana,22,053,85100
+Lafayette Parish,Louisiana,22,055,159500
+Lafourche Parish,Louisiana,22,057,123700
+LaSalle Parish,Louisiana,22,059,75200
+Lincoln Parish,Louisiana,22,061,114900
+Livingston Parish,Louisiana,22,063,152800
+Madison Parish,Louisiana,22,065,70800
+Morehouse Parish,Louisiana,22,067,76100
+Natchitoches Parish,Louisiana,22,069,94500
+Orleans Parish,Louisiana,22,071,183800
+Ouachita Parish,Louisiana,22,073,119200
+Plaquemines Parish,Louisiana,22,075,175500
+Pointe Coupee Parish,Louisiana,22,077,114100
+Rapides Parish,Louisiana,22,079,117400
+Red River Parish,Louisiana,22,081,70900
+Richland Parish,Louisiana,22,083,74900
+Sabine Parish,Louisiana,22,085,77800
+Saint Bernard Parish,Louisiana,22,087,127100
+Saint Charles Parish,Louisiana,22,089,180500
+Saint Helena Parish,Louisiana,22,091,78200
+Saint James Parish,Louisiana,22,093,123400
+Saint John the Baptist Parish,Louisiana,22,095,149000
+Saint Landry Parish,Louisiana,22,097,85100
+Saint Martin Parish,Louisiana,22,099,91200
+Saint Mary Parish,Louisiana,22,101,90600
+Saint Tammany Parish,Louisiana,22,103,198700
+Tangipahoa Parish,Louisiana,22,105,136000
+Tensas Parish,Louisiana,22,107,61700
+Terrebonne Parish,Louisiana,22,109,128500
+Union Parish,Louisiana,22,111,79400
+Vermilion Parish,Louisiana,22,113,94800
+Vernon Parish,Louisiana,22,115,89300
+Washington Parish,Louisiana,22,117,82600
+Webster Parish,Louisiana,22,119,81700
+West Baton Rouge Parish,Louisiana,22,121,135500
+West Carroll Parish,Louisiana,22,123,73500
+West Feliciana Parish,Louisiana,22,125,191000
+Winn Parish,Louisiana,22,127,63200
+Androscoggin County,Maine,23,001,156700
+Aroostook County,Maine,23,003,89900
+Cumberland County,Maine,23,005,243900
+Franklin County,Maine,23,007,130300
+Hancock County,Maine,23,009,200000
+Kennebec County,Maine,23,011,152200
+Knox County,Maine,23,013,204300
+Lincoln County,Maine,23,015,204500
+Oxford County,Maine,23,017,141600
+Penobscot County,Maine,23,019,138000
+Piscataquis County,Maine,23,021,102700
+Sagadahoc County,Maine,23,023,189700
+Somerset County,Maine,23,025,109900
+Waldo County,Maine,23,027,156100
+Washington County,Maine,23,029,103600
+York County,Maine,23,031,232100
+Allegany County,Maryland,24,001,122000
+Anne Arundel County,Maryland,24,003,349800
+Baltimore County,Maryland,24,005,263900
+Calvert County,Maryland,24,009,368100
+Caroline County,Maryland,24,011,223400
+Carroll County,Maryland,24,013,332200
+Cecil County,Maryland,24,015,261900
+Charles County,Maryland,24,017,320400
+Dorchester County,Maryland,24,019,200000
+Frederick County,Maryland,24,021,316800
+Garrett County,Maryland,24,023,169500
+Harford County,Maryland,24,025,290700
+Howard County,Maryland,24,027,435300
+Kent County,Maryland,24,029,267600
+Queen Anne's County,Maryland,24,035,356800
+Saint Mary's County,Maryland,24,037,312100
+Somerset County,Maryland,24,039,162400
+Talbot County,Maryland,24,041,343800
+Washington County,Maryland,24,043,218200
+Wicomico County,Maryland,24,045,188400
+Worcester County,Maryland,24,047,268500
+Baltimore City,Maryland,24,510,161300
+Montgomery County,Maryland,24,031,455800
+Prince George's County,Maryland,24,033,289400
+Barnstable County,Massachusetts,25,001,373600
+Berkshire County,Massachusetts,25,003,209200
+Bristol County,Massachusetts,25,005,287800
+Dukes County,Massachusetts,25,007,656000
+Essex County,Massachusetts,25,009,354700
+Franklin County,Massachusetts,25,011,221700
+Hampden County,Massachusetts,25,013,201400
+Hampshire County,Massachusetts,25,015,263500
+Middlesex County,Massachusetts,25,017,401300
+Nantucket County,Massachusetts,25,019,944100
+Norfolk County,Massachusetts,25,021,393000
+Plymouth County,Massachusetts,25,023,339100
+Suffolk County,Massachusetts,25,025,362600
+Worcester County,Massachusetts,25,027,267600
+Alcona County,Michigan,26,001,110200
+Alger County,Michigan,26,003,113600
+Allegan County,Michigan,26,005,142400
+Alpena County,Michigan,26,007,101600
+Antrim County,Michigan,26,009,148100
+Arenac County,Michigan,26,011,90900
+Baraga County,Michigan,26,013,83100
+Barry County,Michigan,26,015,137200
+Bay County,Michigan,26,017,99200
+Benzie County,Michigan,26,019,155700
+Berrien County,Michigan,26,021,135100
+Branch County,Michigan,26,023,104700
+Calhoun County,Michigan,26,025,102800
+Cass County,Michigan,26,027,133000
+Charlevoix County,Michigan,26,029,154400
+Cheboygan County,Michigan,26,031,116600
+Chippewa County,Michigan,26,033,102400
+Clare County,Michigan,26,035,84100
+Clinton County,Michigan,26,037,159200
+Crawford County,Michigan,26,039,105000
+Delta County,Michigan,26,041,99600
+Dickinson County,Michigan,26,043,87000
+Eaton County,Michigan,26,045,143300
+Emmet County,Michigan,26,047,175700
+Genesee County,Michigan,26,049,99900
+Gladwin County,Michigan,26,051,108300
+Gogebic County,Michigan,26,053,67500
+Grand Traverse County,Michigan,26,055,169800
+Gratiot County,Michigan,26,057,88200
+Hillsdale County,Michigan,26,059,106900
+Houghton County,Michigan,26,061,85700
+Huron County,Michigan,26,063,97800
+Ingham County,Michigan,26,065,125400
+Ionia County,Michigan,26,067,113600
+Iosco County,Michigan,26,069,93700
+Iron County,Michigan,26,071,75100
+Isabella County,Michigan,26,073,122100
+Jackson County,Michigan,26,075,116800
+Kalamazoo County,Michigan,26,077,141200
+Kalkaska County,Michigan,26,079,102400
+Kent County,Michigan,26,081,141000
+Keweenaw County,Michigan,26,083,99500
+Lake County,Michigan,26,085,83600
+Lapeer County,Michigan,26,087,145700
+Leelanau County,Michigan,26,089,237100
+Lenawee County,Michigan,26,091,124400
+Livingston County,Michigan,26,093,191000
+Luce County,Michigan,26,095,83300
+Mackinac County,Michigan,26,097,121500
+Macomb County,Michigan,26,099,134700
+Manistee County,Michigan,26,101,113100
+Marquette County,Michigan,26,103,126300
+Mason County,Michigan,26,105,121500
+Mecosta County,Michigan,26,107,112500
+Menominee County,Michigan,26,109,96700
+Midland County,Michigan,26,111,130200
+Missaukee County,Michigan,26,113,106800
+Monroe County,Michigan,26,115,147600
+Montcalm County,Michigan,26,117,99400
+Montmorency County,Michigan,26,119,96700
+Muskegon County,Michigan,26,121,105700
+Newaygo County,Michigan,26,123,109200
+Oakland County,Michigan,26,125,177600
+Oceana County,Michigan,26,127,107900
+Ogemaw County,Michigan,26,129,97000
+Ontonagon County,Michigan,26,131,73100
+Osceola County,Michigan,26,133,95700
+Oscoda County,Michigan,26,135,84100
+Otsego County,Michigan,26,137,117500
+Ottawa County,Michigan,26,139,156400
+Presque Isle County,Michigan,26,141,98900
+Roscommon County,Michigan,26,143,97600
+Saginaw County,Michigan,26,145,101600
+Saint Clair County,Michigan,26,147,131900
+Saint Joseph County,Michigan,26,149,110900
+Sanilac County,Michigan,26,151,102500
+Schoolcraft County,Michigan,26,153,86300
+Shiawassee County,Michigan,26,155,114500
+Tuscola County,Michigan,26,157,101000
+Van Buren County,Michigan,26,159,122300
+Washtenaw County,Michigan,26,161,200300
+Wayne County,Michigan,26,163,97100
+Wexford County,Michigan,26,165,105200
+Aitkin County,Minnesota,27,001,173400
+Anoka County,Minnesota,27,003,203700
+Becker County,Minnesota,27,005,170500
+Beltrami County,Minnesota,27,007,147600
+Benton County,Minnesota,27,009,160500
+Big Stone County,Minnesota,27,011,85700
+Blue Earth County,Minnesota,27,013,161700
+Brown County,Minnesota,27,015,121500
+Carlton County,Minnesota,27,017,160900
+Carver County,Minnesota,27,019,273600
+Cass County,Minnesota,27,021,179200
+Chippewa County,Minnesota,27,023,99300
+Chisago County,Minnesota,27,025,211200
+Clay County,Minnesota,27,027,154100
+Clearwater County,Minnesota,27,029,116500
+Cook County,Minnesota,27,031,236500
+Cottonwood County,Minnesota,27,033,83700
+Crow Wing County,Minnesota,27,035,184000
+Dakota County,Minnesota,27,037,229400
+Dodge County,Minnesota,27,039,160400
+Douglas County,Minnesota,27,041,190500
+Faribault County,Minnesota,27,043,87000
+Fillmore County,Minnesota,27,045,136400
+Freeborn County,Minnesota,27,047,107900
+Goodhue County,Minnesota,27,049,184700
+Grant County,Minnesota,27,051,98100
+Hennepin County,Minnesota,27,053,238300
+Houston County,Minnesota,27,055,151100
+Hubbard County,Minnesota,27,057,170800
+Isanti County,Minnesota,27,059,185400
+Itasca County,Minnesota,27,061,153200
+Jackson County,Minnesota,27,063,95100
+Kanabec County,Minnesota,27,065,151900
+Kandiyohi County,Minnesota,27,067,162200
+Kittson County,Minnesota,27,069,66600
+Koochiching County,Minnesota,27,071,96800
+Lac qui Parle County,Minnesota,27,073,78700
+Lake County,Minnesota,27,075,147100
+Lake of the Woods County,Minnesota,27,077,126000
+Le Sueur County,Minnesota,27,079,183500
+Lincoln County,Minnesota,27,081,81300
+Lyon County,Minnesota,27,083,138700
+McLeod County,Minnesota,27,085,161000
+Mahnomen County,Minnesota,27,087,96800
+Marshall County,Minnesota,27,089,87800
+Martin County,Minnesota,27,091,102200
+Meeker County,Minnesota,27,093,161500
+Mille Lacs County,Minnesota,27,095,153900
+Morrison County,Minnesota,27,097,156400
+Mower County,Minnesota,27,099,108000
+Murray County,Minnesota,27,101,91500
+Nicollet County,Minnesota,27,103,169200
+Nobles County,Minnesota,27,105,104900
+Norman County,Minnesota,27,107,81900
+Olmsted County,Minnesota,27,109,172400
+Otter Tail County,Minnesota,27,111,161900
+Pennington County,Minnesota,27,113,100800
+Pine County,Minnesota,27,115,151400
+Pipestone County,Minnesota,27,117,87200
+Polk County,Minnesota,27,119,123200
+Pope County,Minnesota,27,121,145300
+Ramsey County,Minnesota,27,123,208100
+Red Lake County,Minnesota,27,125,82400
+Redwood County,Minnesota,27,127,88300
+Renville County,Minnesota,27,129,101400
+Rice County,Minnesota,27,131,197100
+Rock County,Minnesota,27,133,111300
+Roseau County,Minnesota,27,135,102900
+Saint Louis County,Minnesota,27,137,140500
+Scott County,Minnesota,27,139,253100
+Sherburne County,Minnesota,27,141,202600
+Sibley County,Minnesota,27,143,143900
+Stearns County,Minnesota,27,145,169000
+Steele County,Minnesota,27,147,157500
+Stevens County,Minnesota,27,149,121100
+Swift County,Minnesota,27,151,91000
+Todd County,Minnesota,27,153,130200
+Traverse County,Minnesota,27,155,66300
+Wabasha County,Minnesota,27,157,159300
+Wadena County,Minnesota,27,159,114900
+Waseca County,Minnesota,27,161,140700
+Washington County,Minnesota,27,163,249300
+Watonwan County,Minnesota,27,165,95100
+Wilkin County,Minnesota,27,167,105700
+Winona County,Minnesota,27,169,160400
+Wright County,Minnesota,27,171,204100
+Yellow Medicine County,Minnesota,27,173,100900
+Adams County,Mississippi,28,001,81800
+Alcorn County,Mississippi,28,003,86300
+Amite County,Mississippi,28,005,68600
+Attala County,Mississippi,28,007,73200
+Benton County,Mississippi,28,009,84400
+Bolivar County,Mississippi,28,011,82500
+Calhoun County,Mississippi,28,013,59700
+Carroll County,Mississippi,28,015,65000
+Chickasaw County,Mississippi,28,017,64600
+Choctaw County,Mississippi,28,019,72600
+Claiborne County,Mississippi,28,021,52000
+Clarke County,Mississippi,28,023,63000
+Clay County,Mississippi,28,025,81900
+Coahoma County,Mississippi,28,027,57400
+Copiah County,Mississippi,28,029,70100
+Covington County,Mississippi,28,031,76600
+DeSoto County,Mississippi,28,033,153000
+Forrest County,Mississippi,28,035,114800
+Franklin County,Mississippi,28,037,64900
+George County,Mississippi,28,039,99800
+Greene County,Mississippi,28,041,84400
+Grenada County,Mississippi,28,043,84900
+Hancock County,Mississippi,28,045,142400
+Harrison County,Mississippi,28,047,143900
+Hinds County,Mississippi,28,049,109500
+Holmes County,Mississippi,28,051,51300
+Humphreys County,Mississippi,28,053,61500
+Issaquena County,Mississippi,28,055,60400
+Itawamba County,Mississippi,28,057,81900
+Jackson County,Mississippi,28,059,126600
+Jasper County,Mississippi,28,061,69900
+Jefferson County,Mississippi,28,063,64900
+Jefferson Davis County,Mississippi,28,065,76400
+Jones County,Mississippi,28,067,86300
+Kemper County,Mississippi,28,069,65900
+Lafayette County,Mississippi,28,071,159900
+Lamar County,Mississippi,28,073,160900
+Lauderdale County,Mississippi,28,075,87300
+Lawrence County,Mississippi,28,077,77700
+Leake County,Mississippi,28,079,71900
+Lee County,Mississippi,28,081,108700
+Leflore County,Mississippi,28,083,67400
+Lincoln County,Mississippi,28,085,80100
+Lowndes County,Mississippi,28,087,112500
+Madison County,Mississippi,28,089,196600
+Marion County,Mississippi,28,091,79500
+Marshall County,Mississippi,28,093,86100
+Monroe County,Mississippi,28,095,80100
+Montgomery County,Mississippi,28,097,68600
+Neshoba County,Mississippi,28,099,73200
+Newton County,Mississippi,28,101,68400
+Noxubee County,Mississippi,28,103,61300
+Oktibbeha County,Mississippi,28,105,119400
+Panola County,Mississippi,28,107,76400
+Pearl River County,Mississippi,28,109,115700
+Perry County,Mississippi,28,111,80200
+Pike County,Mississippi,28,113,81000
+Pontotoc County,Mississippi,28,115,79900
+Prentiss County,Mississippi,28,117,73800
+Quitman County,Mississippi,28,119,47400
+Rankin County,Mississippi,28,121,148000
+Scott County,Mississippi,28,123,65100
+Sharkey County,Mississippi,28,125,65800
+Simpson County,Mississippi,28,127,77000
+Smith County,Mississippi,28,129,78100
+Stone County,Mississippi,28,131,103700
+Sunflower County,Mississippi,28,133,66900
+Tallahatchie County,Mississippi,28,135,60700
+Tate County,Mississippi,28,137,116900
+Tippah County,Mississippi,28,139,72300
+Tishomingo County,Mississippi,28,141,73400
+Tunica County,Mississippi,28,143,72200
+Union County,Mississippi,28,145,81800
+Walthall County,Mississippi,28,147,79600
+Warren County,Mississippi,28,149,98900
+Washington County,Mississippi,28,151,73700
+Wayne County,Mississippi,28,153,64700
+Webster County,Mississippi,28,155,75200
+Wilkinson County,Mississippi,28,157,61000
+Winston County,Mississippi,28,159,79100
+Yalobusha County,Mississippi,28,161,63900
+Yazoo County,Mississippi,28,163,64800
+Adair County,Missouri,29,001,99300
+Andrew County,Missouri,29,003,130300
+Atchison County,Missouri,29,005,76900
+Audrain County,Missouri,29,007,85300
+Barry County,Missouri,29,009,105900
+Barton County,Missouri,29,011,84400
+Bates County,Missouri,29,013,104300
+Benton County,Missouri,29,015,104300
+Bollinger County,Missouri,29,017,97000
+Boone County,Missouri,29,019,158900
+Buchanan County,Missouri,29,021,108300
+Butler County,Missouri,29,023,88300
+Caldwell County,Missouri,29,025,88200
+Callaway County,Missouri,29,027,133200
+Camden County,Missouri,29,029,181500
+Cape Girardeau County,Missouri,29,031,137600
+Carroll County,Missouri,29,033,79700
+Carter County,Missouri,29,035,100300
+Cass County,Missouri,29,037,155400
+Cedar County,Missouri,29,039,88000
+Chariton County,Missouri,29,041,76800
+Christian County,Missouri,29,043,145000
+Clark County,Missouri,29,045,67800
+Clay County,Missouri,29,047,154600
+Clinton County,Missouri,29,049,147800
+Cole County,Missouri,29,051,142200
+Cooper County,Missouri,29,053,114300
+Crawford County,Missouri,29,055,106400
+Dade County,Missouri,29,057,74400
+Dallas County,Missouri,29,059,99500
+Daviess County,Missouri,29,061,107900
+DeKalb County,Missouri,29,063,111300
+Dent County,Missouri,29,065,82800
+Douglas County,Missouri,29,067,108400
+Dunklin County,Missouri,29,069,69200
+Franklin County,Missouri,29,071,150100
+Gasconade County,Missouri,29,073,115500
+Gentry County,Missouri,29,075,76000
+Greene County,Missouri,29,077,128700
+Grundy County,Missouri,29,079,77700
+Harrison County,Missouri,29,081,73000
+Henry County,Missouri,29,083,101000
+Hickory County,Missouri,29,085,97300
+Holt County,Missouri,29,087,78900
+Howard County,Missouri,29,089,96200
+Howell County,Missouri,29,091,101100
+Iron County,Missouri,29,093,75000
+Jackson County,Missouri,29,095,128400
+Jasper County,Missouri,29,097,97200
+Jefferson County,Missouri,29,099,154200
+Johnson County,Missouri,29,101,137100
+Knox County,Missouri,29,103,54000
+Laclede County,Missouri,29,105,92300
+Lafayette County,Missouri,29,107,119600
+Lawrence County,Missouri,29,109,95300
+Lewis County,Missouri,29,111,80100
+Lincoln County,Missouri,29,113,151000
+Linn County,Missouri,29,115,72400
+Livingston County,Missouri,29,117,94800
+McDonald County,Missouri,29,119,86100
+Macon County,Missouri,29,121,85900
+Madison County,Missouri,29,123,82400
+Maries County,Missouri,29,125,118600
+Marion County,Missouri,29,127,102000
+Mercer County,Missouri,29,129,72000
+Miller County,Missouri,29,131,110900
+Mississippi County,Missouri,29,133,63000
+Moniteau County,Missouri,29,135,114000
+Monroe County,Missouri,29,137,85700
+Montgomery County,Missouri,29,139,106600
+Morgan County,Missouri,29,141,111400
+New Madrid County,Missouri,29,143,71300
+Newton County,Missouri,29,145,105000
+Nodaway County,Missouri,29,147,100900
+Oregon County,Missouri,29,149,71700
+Osage County,Missouri,29,151,122000
+Ozark County,Missouri,29,153,92500
+Pemiscot County,Missouri,29,155,64700
+Perry County,Missouri,29,157,122400
+Pettis County,Missouri,29,159,97100
+Phelps County,Missouri,29,161,110400
+Pike County,Missouri,29,163,90100
+Platte County,Missouri,29,165,185600
+Polk County,Missouri,29,167,110900
+Pulaski County,Missouri,29,169,122000
+Putnam County,Missouri,29,171,91900
+Ralls County,Missouri,29,173,111200
+Randolph County,Missouri,29,175,85000
+Ray County,Missouri,29,177,119000
+Reynolds County,Missouri,29,179,78100
+Ripley County,Missouri,29,181,72500
+Saint Charles County,Missouri,29,183,193600
+Saint Clair County,Missouri,29,185,80000
+Sainte Genevieve County,Missouri,29,186,125600
+Saint Francois County,Missouri,29,187,100000
+Saint Louis County,Missouri,29,189,177400
+Saline County,Missouri,29,195,82700
+Schuyler County,Missouri,29,197,65100
+Scotland County,Missouri,29,199,74400
+Scott County,Missouri,29,201,96700
+Shannon County,Missouri,29,203,78100
+Shelby County,Missouri,29,205,71300
+Stoddard County,Missouri,29,207,83500
+Stone County,Missouri,29,209,145000
+Sullivan County,Missouri,29,211,70800
+Taney County,Missouri,29,213,134800
+Texas County,Missouri,29,215,92900
+Vernon County,Missouri,29,217,83600
+Warren County,Missouri,29,219,153100
+Washington County,Missouri,29,221,75400
+Wayne County,Missouri,29,223,71100
+Webster County,Missouri,29,225,117100
+Worth County,Missouri,29,227,58300
+Wright County,Missouri,29,229,89700
+Saint Louis City,Missouri,29,510,121700
+Beaverhead County,Montana,30,001,171600
+Big Horn County,Montana,30,003,90400
+Blaine County,Montana,30,005,74900
+Broadwater County,Montana,30,007,162600
+Carbon County,Montana,30,009,196800
+Carter County,Montana,30,011,76500
+Cascade County,Montana,30,013,155100
+Chouteau County,Montana,30,015,111100
+Custer County,Montana,30,017,104200
+Daniels County,Montana,30,019,93900
+Dawson County,Montana,30,021,115900
+Deer Lodge County,Montana,30,023,116100
+Fallon County,Montana,30,025,101200
+Fergus County,Montana,30,027,116200
+Flathead County,Montana,30,029,231300
+Gallatin County,Montana,30,031,270500
+Garfield County,Montana,30,033,85000
+Glacier County,Montana,30,035,81400
+Granite County,Montana,30,039,183600
+Hill County,Montana,30,041,116100
+Jefferson County,Montana,30,043,230200
+Judith Basin County,Montana,30,045,96700
+Lake County,Montana,30,047,216200
+Lewis and Clark County,Montana,30,049,200600
+Liberty County,Montana,30,051,83000
+Lincoln County,Montana,30,053,164900
+McCone County,Montana,30,055,94500
+Madison County,Montana,30,057,238000
+Meagher County,Montana,30,059,116500
+Mineral County,Montana,30,061,168600
+Missoula County,Montana,30,063,238100
+Musselshell County,Montana,30,065,116400
+Phillips County,Montana,30,071,82200
+Pondera County,Montana,30,073,92900
+Powder River County,Montana,30,075,103900
+Powell County,Montana,30,077,118400
+Prairie County,Montana,30,079,76500
+Ravalli County,Montana,30,081,243500
+Richland County,Montana,30,083,136000
+Roosevelt County,Montana,30,085,64800
+Rosebud County,Montana,30,087,105800
+Sanders County,Montana,30,089,165500
+Sheridan County,Montana,30,091,98000
+Silver Bow County,Montana,30,093,127400
+Stillwater County,Montana,30,095,180900
+Sweet Grass County,Montana,30,097,189200
+Teton County,Montana,30,099,140000
+Toole County,Montana,30,101,105300
+Valley County,Montana,30,105,94100
+Wheatland County,Montana,30,107,82700
+Wibaux County,Montana,30,109,78300
+Yellowstone County,Montana,30,111,178100
+Park County,Montana,30,067,206300
+Adams County,Nebraska,31,001,96900
+Antelope County,Nebraska,31,003,69800
+Boone County,Nebraska,31,011,79200
+Box Butte County,Nebraska,31,013,90800
+Boyd County,Nebraska,31,015,55100
+Brown County,Nebraska,31,017,56100
+Buffalo County,Nebraska,31,019,136500
+Burt County,Nebraska,31,021,84000
+Butler County,Nebraska,31,023,94600
+Cass County,Nebraska,31,025,148300
+Cedar County,Nebraska,31,027,87300
+Chase County,Nebraska,31,029,83200
+Cherry County,Nebraska,31,031,99800
+Cheyenne County,Nebraska,31,033,101300
+Clay County,Nebraska,31,035,75900
+Colfax County,Nebraska,31,037,85300
+Cuming County,Nebraska,31,039,85900
+Custer County,Nebraska,31,041,75900
+Dakota County,Nebraska,31,043,98300
+Dawes County,Nebraska,31,045,96100
+Dawson County,Nebraska,31,047,84500
+Deuel County,Nebraska,31,049,67300
+Dixon County,Nebraska,31,051,75500
+Dodge County,Nebraska,31,053,109900
+Douglas County,Nebraska,31,055,142900
+Dundy County,Nebraska,31,057,72500
+Fillmore County,Nebraska,31,059,77200
+Franklin County,Nebraska,31,061,50300
+Frontier County,Nebraska,31,063,75900
+Furnas County,Nebraska,31,065,56600
+Gage County,Nebraska,31,067,103100
+Garden County,Nebraska,31,069,62100
+Garfield County,Nebraska,31,071,83900
+Gosper County,Nebraska,31,073,101900
+Greeley County,Nebraska,31,077,57300
+Hall County,Nebraska,31,079,113600
+Hamilton County,Nebraska,31,081,112000
+Harlan County,Nebraska,31,083,70800
+Hitchcock County,Nebraska,31,087,58100
+Holt County,Nebraska,31,089,87500
+Howard County,Nebraska,31,093,98800
+Jefferson County,Nebraska,31,095,72700
+Johnson County,Nebraska,31,097,78600
+Kearney County,Nebraska,31,099,98700
+Keith County,Nebraska,31,101,88000
+Kimball County,Nebraska,31,105,77100
+Knox County,Nebraska,31,107,72500
+Lancaster County,Nebraska,31,109,147500
+Lincoln County,Nebraska,31,111,110300
+Madison County,Nebraska,31,119,106500
+Merrick County,Nebraska,31,121,84200
+Morrill County,Nebraska,31,123,76900
+Nance County,Nebraska,31,125,63600
+Nemaha County,Nebraska,31,127,85300
+Nuckolls County,Nebraska,31,129,52100
+Otoe County,Nebraska,31,131,117300
+Pawnee County,Nebraska,31,133,59600
+Perkins County,Nebraska,31,135,83700
+Phelps County,Nebraska,31,137,98200
+Pierce County,Nebraska,31,139,94400
+Platte County,Nebraska,31,141,112000
+Polk County,Nebraska,31,143,93400
+Red Willow County,Nebraska,31,145,81100
+Richardson County,Nebraska,31,147,61500
+Rock County,Nebraska,31,149,57500
+Saline County,Nebraska,31,151,97200
+Sarpy County,Nebraska,31,153,161500
+Saunders County,Nebraska,31,155,142400
+Scotts Bluff County,Nebraska,31,157,99500
+Seward County,Nebraska,31,159,140800
+Sheridan County,Nebraska,31,161,63300
+Sherman County,Nebraska,31,163,62000
+Sioux County,Nebraska,31,165,88100
+Stanton County,Nebraska,31,167,97500
+Thayer County,Nebraska,31,169,62400
+Thurston County,Nebraska,31,173,68400
+Valley County,Nebraska,31,175,75800
+Washington County,Nebraska,31,177,171400
+Wayne County,Nebraska,31,179,99000
+Webster County,Nebraska,31,181,64500
+York County,Nebraska,31,185,99000
+Churchill County,Nevada,32,001,160100
+Clark County,Nevada,32,003,186700
+Douglas County,Nevada,32,005,303800
+Elko County,Nevada,32,007,183600
+Eureka County,Nevada,32,011,115400
+Humboldt County,Nevada,32,013,150500
+Lander County,Nevada,32,015,111200
+Lincoln County,Nevada,32,017,153900
+Lyon County,Nevada,32,019,144000
+Mineral County,Nevada,32,021,92400
+Nye County,Nevada,32,023,124400
+Pershing County,Nevada,32,027,136600
+Storey County,Nevada,32,029,195000
+Washoe County,Nevada,32,031,226800
+White Pine County,Nevada,32,033,111800
+Carson City,Nevada,32,510,221900
+Belknap County,New Hampshire,33,001,224600
+Carroll County,New Hampshire,33,003,231900
+Cheshire County,New Hampshire,33,005,199200
+Coos County,New Hampshire,33,007,129600
+Grafton County,New Hampshire,33,009,212800
+Hillsborough County,New Hampshire,33,011,258000
+Merrimack County,New Hampshire,33,013,237500
+Rockingham County,New Hampshire,33,015,288500
+Strafford County,New Hampshire,33,017,224000
+Sullivan County,New Hampshire,33,019,177600
+Atlantic County,New Jersey,34,001,248100
+Bergen County,New Jersey,34,003,461400
+Burlington County,New Jersey,34,005,259800
+Camden County,New Jersey,34,007,218700
+Cape May County,New Jersey,34,009,326400
+Cumberland County,New Jersey,34,011,174400
+Essex County,New Jersey,34,013,376900
+Gloucester County,New Jersey,34,015,232400
+Hudson County,New Jersey,34,017,360400
+Hunterdon County,New Jersey,34,019,419000
+Mercer County,New Jersey,34,021,293100
+Middlesex County,New Jersey,34,023,340000
+Monmouth County,New Jersey,34,025,399000
+Morris County,New Jersey,34,027,446800
+Ocean County,New Jersey,34,029,275400
+Passaic County,New Jersey,34,031,361000
+Salem County,New Jersey,34,033,197200
+Somerset County,New Jersey,34,035,407300
+Sussex County,New Jersey,34,037,295600
+Union County,New Jersey,34,039,373700
+Warren County,New Jersey,34,041,281600
+Bernalillo County,New Mexico,35,001,190200
+Catron County,New Mexico,35,003,151300
+Chaves County,New Mexico,35,005,92500
+Colfax County,New Mexico,35,007,112200
+Curry County,New Mexico,35,009,112200
+De Baca County,New Mexico,35,011,78000
+Dona Ana County,New Mexico,35,013,142700
+Eddy County,New Mexico,35,015,105400
+Grant County,New Mexico,35,017,127300
+Guadalupe County,New Mexico,35,019,88800
+Hidalgo County,New Mexico,35,023,83000
+Lea County,New Mexico,35,025,94900
+Lincoln County,New Mexico,35,027,162100
+Los Alamos County,New Mexico,35,028,285800
+Luna County,New Mexico,35,029,90600
+McKinley County,New Mexico,35,031,81300
+Mora County,New Mexico,35,033,100400
+Otero County,New Mexico,35,035,105300
+Quay County,New Mexico,35,037,68200
+Rio Arriba County,New Mexico,35,039,125800
+Roosevelt County,New Mexico,35,041,110000
+Sandoval County,New Mexico,35,043,183400
+San Juan County,New Mexico,35,045,154300
+San Miguel County,New Mexico,35,047,115400
+Santa Fe County,New Mexico,35,049,288200
+Sierra County,New Mexico,35,051,114600
+Socorro County,New Mexico,35,053,114000
+Taos County,New Mexico,35,055,203800
+Torrance County,New Mexico,35,057,96300
+Union County,New Mexico,35,059,88300
+Cibola County,New Mexico,35,006,81100
+Valencia County,New Mexico,35,061,133900
+Albany County,New York,36,001,210200
+Allegany County,New York,36,003,67600
+Bronx County,New York,36,005,380900
+Broome County,New York,36,007,105600
+Cattaraugus County,New York,36,009,79600
+Cayuga County,New York,36,011,101500
+Chautauqua County,New York,36,013,82100
+Chemung County,New York,36,015,91800
+Chenango County,New York,36,017,90400
+Clinton County,New York,36,019,122500
+Columbia County,New York,36,021,223100
+Cortland County,New York,36,023,101900
+Delaware County,New York,36,025,132400
+Dutchess County,New York,36,027,299400
+Erie County,New York,36,029,123400
+Essex County,New York,36,031,149900
+Franklin County,New York,36,033,95700
+Fulton County,New York,36,035,104400
+Genesee County,New York,36,037,104800
+Greene County,New York,36,039,179700
+Hamilton County,New York,36,041,165400
+Herkimer County,New York,36,043,92300
+Jefferson County,New York,36,045,129000
+Kings County,New York,36,047,562600
+Lewis County,New York,36,049,104700
+Livingston County,New York,36,051,118200
+Madison County,New York,36,053,117400
+Monroe County,New York,36,055,134200
+Montgomery County,New York,36,057,99500
+Nassau County,New York,36,059,467500
+New York County,New York,36,061,827300
+Niagara County,New York,36,063,103400
+Oneida County,New York,36,065,108600
+Onondaga County,New York,36,067,131700
+Ontario County,New York,36,069,135500
+Orange County,New York,36,071,288800
+Orleans County,New York,36,073,89400
+Oswego County,New York,36,075,92500
+Otsego County,New York,36,077,134200
+Putnam County,New York,36,079,385600
+Queens County,New York,36,081,462800
+Rensselaer County,New York,36,083,181600
+Richmond County,New York,36,085,449400
+Rockland County,New York,36,087,449600
+Saint Lawrence County,New York,36,089,84100
+Saratoga County,New York,36,091,227700
+Schenectady County,New York,36,093,166600
+Schoharie County,New York,36,095,147800
+Schuyler County,New York,36,097,91900
+Seneca County,New York,36,099,92800
+Steuben County,New York,36,101,85200
+Suffolk County,New York,36,103,395200
+Sullivan County,New York,36,105,179500
+Tioga County,New York,36,107,106700
+Tompkins County,New York,36,109,169300
+Ulster County,New York,36,111,237500
+Warren County,New York,36,113,189700
+Washington County,New York,36,115,147000
+Wayne County,New York,36,117,108500
+Westchester County,New York,36,119,533300
+Wyoming County,New York,36,121,99300
+Yates County,New York,36,123,117000
+Alamance County,North Carolina,37,001,136500
+Alexander County,North Carolina,37,003,122200
+Alleghany County,North Carolina,37,005,150000
+Anson County,North Carolina,37,007,80600
+Ashe County,North Carolina,37,009,152900
+Avery County,North Carolina,37,011,155400
+Beaufort County,North Carolina,37,013,113200
+Bertie County,North Carolina,37,015,80700
+Bladen County,North Carolina,37,017,80800
+Brunswick County,North Carolina,37,019,187000
+Buncombe County,North Carolina,37,021,191500
+Burke County,North Carolina,37,023,110800
+Cabarrus County,North Carolina,37,025,168600
+Caldwell County,North Carolina,37,027,107100
+Camden County,North Carolina,37,029,223300
+Carteret County,North Carolina,37,031,207600
+Caswell County,North Carolina,37,033,99900
+Catawba County,North Carolina,37,035,130200
+Chatham County,North Carolina,37,037,210300
+Cherokee County,North Carolina,37,039,150100
+Chowan County,North Carolina,37,041,133100
+Clay County,North Carolina,37,043,156500
+Cleveland County,North Carolina,37,045,104300
+Columbus County,North Carolina,37,047,85100
+Craven County,North Carolina,37,049,153500
+Cumberland County,North Carolina,37,051,126300
+Currituck County,North Carolina,37,053,229600
+Dare County,North Carolina,37,055,307900
+Davidson County,North Carolina,37,057,132200
+Davie County,North Carolina,37,059,162000
+Duplin County,North Carolina,37,061,86400
+Durham County,North Carolina,37,063,179800
+Edgecombe County,North Carolina,37,065,81100
+Forsyth County,North Carolina,37,067,151700
+Franklin County,North Carolina,37,069,124800
+Gaston County,North Carolina,37,071,124400
+Gates County,North Carolina,37,073,153800
+Graham County,North Carolina,37,075,124600
+Granville County,North Carolina,37,077,134700
+Greene County,North Carolina,37,079,88800
+Guilford County,North Carolina,37,081,155600
+Halifax County,North Carolina,37,083,87500
+Harnett County,North Carolina,37,085,130700
+Haywood County,North Carolina,37,087,157700
+Henderson County,North Carolina,37,089,187800
+Hertford County,North Carolina,37,091,83100
+Hoke County,North Carolina,37,093,137200
+Hyde County,North Carolina,37,095,98200
+Iredell County,North Carolina,37,097,166200
+Jackson County,North Carolina,37,099,169300
+Johnston County,North Carolina,37,101,140700
+Jones County,North Carolina,37,103,96200
+Lee County,North Carolina,37,105,130600
+Lenoir County,North Carolina,37,107,96100
+Lincoln County,North Carolina,37,109,156100
+McDowell County,North Carolina,37,111,100900
+Macon County,North Carolina,37,113,166800
+Madison County,North Carolina,37,115,159400
+Martin County,North Carolina,37,117,85200
+Mecklenburg County,North Carolina,37,119,186100
+Mitchell County,North Carolina,37,121,114800
+Montgomery County,North Carolina,37,123,86700
+Moore County,North Carolina,37,125,196700
+Nash County,North Carolina,37,127,118300
+New Hanover County,North Carolina,37,129,222000
+Northampton County,North Carolina,37,131,77800
+Onslow County,North Carolina,37,133,149900
+Orange County,North Carolina,37,135,272900
+Pamlico County,North Carolina,37,137,154400
+Pasquotank County,North Carolina,37,139,176100
+Pender County,North Carolina,37,141,152000
+Perquimans County,North Carolina,37,143,170000
+Person County,North Carolina,37,145,118700
+Pitt County,North Carolina,37,147,133800
+Polk County,North Carolina,37,149,171800
+Randolph County,North Carolina,37,151,122000
+Richmond County,North Carolina,37,153,74400
+Robeson County,North Carolina,37,155,69400
+Rockingham County,North Carolina,37,157,100800
+Rowan County,North Carolina,37,159,129100
+Rutherford County,North Carolina,37,161,108700
+Sampson County,North Carolina,37,163,91800
+Scotland County,North Carolina,37,165,75900
+Stanly County,North Carolina,37,167,124500
+Stokes County,North Carolina,37,169,121000
+Surry County,North Carolina,37,171,107100
+Swain County,North Carolina,37,173,123900
+Transylvania County,North Carolina,37,175,167400
+Tyrrell County,North Carolina,37,177,104300
+Union County,North Carolina,37,179,197600
+Vance County,North Carolina,37,181,103600
+Wake County,North Carolina,37,183,230400
+Warren County,North Carolina,37,185,99700
+Washington County,North Carolina,37,187,91800
+Watauga County,North Carolina,37,189,233500
+Wayne County,North Carolina,37,191,108200
+Wilkes County,North Carolina,37,193,111200
+Wilson County,North Carolina,37,195,114200
+Yadkin County,North Carolina,37,197,114900
+Yancey County,North Carolina,37,199,128700
+Adams County,North Dakota,38,001,89000
+Barnes County,North Dakota,38,003,85500
+Benson County,North Dakota,38,005,52600
+Bottineau County,North Dakota,38,009,74900
+Bowman County,North Dakota,38,011,101100
+Burke County,North Dakota,38,013,59900
+Burleigh County,North Dakota,38,015,164300
+Cass County,North Dakota,38,017,154600
+Cavalier County,North Dakota,38,019,71600
+Dickey County,North Dakota,38,021,69100
+Divide County,North Dakota,38,023,62600
+Dunn County,North Dakota,38,025,88300
+Eddy County,North Dakota,38,027,56900
+Emmons County,North Dakota,38,029,68500
+Foster County,North Dakota,38,031,83700
+Golden Valley County,North Dakota,38,033,69500
+Grand Forks County,North Dakota,38,035,148000
+Grant County,North Dakota,38,037,63300
+Griggs County,North Dakota,38,039,64200
+Hettinger County,North Dakota,38,041,66800
+Kidder County,North Dakota,38,043,63000
+LaMoure County,North Dakota,38,045,72600
+Logan County,North Dakota,38,047,56100
+McHenry County,North Dakota,38,049,74200
+McIntosh County,North Dakota,38,051,51900
+McKenzie County,North Dakota,38,053,104400
+McLean County,North Dakota,38,055,106900
+Mercer County,North Dakota,38,057,114800
+Morton County,North Dakota,38,059,131800
+Mountrail County,North Dakota,38,061,83200
+Nelson County,North Dakota,38,063,52000
+Oliver County,North Dakota,38,065,88300
+Pembina County,North Dakota,38,067,71900
+Pierce County,North Dakota,38,069,84800
+Ramsey County,North Dakota,38,071,87800
+Ransom County,North Dakota,38,073,88800
+Renville County,North Dakota,38,075,81200
+Richland County,North Dakota,38,077,99000
+Rolette County,North Dakota,38,079,65500
+Sargent County,North Dakota,38,081,69900
+Sheridan County,North Dakota,38,083,49600
+Sioux County,North Dakota,38,085,59800
+Stark County,North Dakota,38,089,149200
+Steele County,North Dakota,38,091,67800
+Stutsman County,North Dakota,38,093,98000
+Towner County,North Dakota,38,095,59000
+Traill County,North Dakota,38,097,89700
+Walsh County,North Dakota,38,099,68500
+Ward County,North Dakota,38,101,138000
+Wells County,North Dakota,38,103,59100
+Williams County,North Dakota,38,105,126500
+Adams County,Ohio,39,001,94600
+Allen County,Ohio,39,003,104400
+Ashland County,Ohio,39,005,124500
+Ashtabula County,Ohio,39,007,113800
+Athens County,Ohio,39,009,118700
+Auglaize County,Ohio,39,011,127200
+Belmont County,Ohio,39,013,88000
+Brown County,Ohio,39,015,119100
+Butler County,Ohio,39,017,158800
+Carroll County,Ohio,39,019,110800
+Champaign County,Ohio,39,021,123000
+Clark County,Ohio,39,023,108100
+Clermont County,Ohio,39,025,158800
+Clinton County,Ohio,39,027,121400
+Columbiana County,Ohio,39,029,97500
+Coshocton County,Ohio,39,031,96300
+Crawford County,Ohio,39,033,91400
+Cuyahoga County,Ohio,39,035,130900
+Darke County,Ohio,39,037,111100
+Defiance County,Ohio,39,039,108600
+Delaware County,Ohio,39,041,250700
+Erie County,Ohio,39,043,139100
+Fairfield County,Ohio,39,045,166200
+Fayette County,Ohio,39,047,110000
+Franklin County,Ohio,39,049,153600
+Fulton County,Ohio,39,051,131000
+Gallia County,Ohio,39,053,99300
+Geauga County,Ohio,39,055,225100
+Greene County,Ohio,39,057,159600
+Guernsey County,Ohio,39,059,93900
+Hamilton County,Ohio,39,061,146900
+Hancock County,Ohio,39,063,129800
+Hardin County,Ohio,39,065,99100
+Harrison County,Ohio,39,067,82200
+Henry County,Ohio,39,069,117200
+Highland County,Ohio,39,071,102700
+Hocking County,Ohio,39,073,113500
+Holmes County,Ohio,39,075,152400
+Huron County,Ohio,39,077,119100
+Jackson County,Ohio,39,079,92200
+Jefferson County,Ohio,39,081,86500
+Knox County,Ohio,39,083,134300
+Lake County,Ohio,39,085,154500
+Lawrence County,Ohio,39,087,95700
+Licking County,Ohio,39,089,151300
+Logan County,Ohio,39,091,122000
+Lorain County,Ohio,39,093,143600
+Lucas County,Ohio,39,095,114300
+Madison County,Ohio,39,097,148000
+Mahoning County,Ohio,39,099,97400
+Marion County,Ohio,39,101,99800
+Medina County,Ohio,39,103,182700
+Meigs County,Ohio,39,105,83800
+Mercer County,Ohio,39,107,123800
+Miami County,Ohio,39,109,138900
+Monroe County,Ohio,39,111,89700
+Montgomery County,Ohio,39,113,115800
+Morgan County,Ohio,39,115,89000
+Morrow County,Ohio,39,117,130200
+Muskingum County,Ohio,39,119,110300
+Noble County,Ohio,39,121,84000
+Ottawa County,Ohio,39,123,141600
+Paulding County,Ohio,39,125,92100
+Perry County,Ohio,39,127,94400
+Pickaway County,Ohio,39,129,147400
+Pike County,Ohio,39,131,98500
+Portage County,Ohio,39,133,153600
+Preble County,Ohio,39,135,116800
+Putnam County,Ohio,39,137,133700
+Richland County,Ohio,39,139,107000
+Ross County,Ohio,39,141,113800
+Sandusky County,Ohio,39,143,111400
+Scioto County,Ohio,39,145,89100
+Seneca County,Ohio,39,147,100000
+Shelby County,Ohio,39,149,122700
+Stark County,Ohio,39,151,124200
+Summit County,Ohio,39,153,137700
+Trumbull County,Ohio,39,155,98500
+Tuscarawas County,Ohio,39,157,110300
+Union County,Ohio,39,159,172800
+Van Wert County,Ohio,39,161,88600
+Vinton County,Ohio,39,163,77800
+Warren County,Ohio,39,165,191800
+Washington County,Ohio,39,167,108800
+Wayne County,Ohio,39,169,136600
+Williams County,Ohio,39,171,100300
+Wood County,Ohio,39,173,152500
+Wyandot County,Ohio,39,175,105400
+Adair County,Oklahoma,40,001,74600
+Alfalfa County,Oklahoma,40,003,62100
+Atoka County,Oklahoma,40,005,73700
+Beaver County,Oklahoma,40,007,70900
+Beckham County,Oklahoma,40,009,93600
+Blaine County,Oklahoma,40,011,66200
+Bryan County,Oklahoma,40,013,87500
+Caddo County,Oklahoma,40,015,71900
+Canadian County,Oklahoma,40,017,137600
+Carter County,Oklahoma,40,019,88700
+Cherokee County,Oklahoma,40,021,98400
+Choctaw County,Oklahoma,40,023,72100
+Cimarron County,Oklahoma,40,025,58900
+Cleveland County,Oklahoma,40,027,138500
+Coal County,Oklahoma,40,029,66900
+Comanche County,Oklahoma,40,031,110900
+Cotton County,Oklahoma,40,033,73700
+Craig County,Oklahoma,40,035,87300
+Creek County,Oklahoma,40,037,105700
+Custer County,Oklahoma,40,039,103600
+Delaware County,Oklahoma,40,041,99600
+Dewey County,Oklahoma,40,043,74500
+Ellis County,Oklahoma,40,045,74000
+Garfield County,Oklahoma,40,047,88600
+Garvin County,Oklahoma,40,049,80200
+Grady County,Oklahoma,40,051,107600
+Grant County,Oklahoma,40,053,60500
+Greer County,Oklahoma,40,055,60900
+Harmon County,Oklahoma,40,057,43000
+Harper County,Oklahoma,40,059,67500
+Haskell County,Oklahoma,40,061,76800
+Hughes County,Oklahoma,40,063,64300
+Jackson County,Oklahoma,40,065,85500
+Jefferson County,Oklahoma,40,067,62100
+Johnston County,Oklahoma,40,069,72000
+Kay County,Oklahoma,40,071,76200
+Kingfisher County,Oklahoma,40,073,109500
+Kiowa County,Oklahoma,40,075,52900
+Latimer County,Oklahoma,40,077,70600
+Le Flore County,Oklahoma,40,079,76400
+Lincoln County,Oklahoma,40,081,89800
+Logan County,Oklahoma,40,083,131400
+Love County,Oklahoma,40,085,80400
+McClain County,Oklahoma,40,087,126300
+McCurtain County,Oklahoma,40,089,70600
+McIntosh County,Oklahoma,40,091,77300
+Major County,Oklahoma,40,093,82200
+Marshall County,Oklahoma,40,095,79700
+Mayes County,Oklahoma,40,097,94400
+Murray County,Oklahoma,40,099,81200
+Muskogee County,Oklahoma,40,101,88800
+Noble County,Oklahoma,40,103,82300
+Nowata County,Oklahoma,40,105,72700
+Okfuskee County,Oklahoma,40,107,67700
+Oklahoma County,Oklahoma,40,109,124100
+Okmulgee County,Oklahoma,40,111,79000
+Osage County,Oklahoma,40,113,93500
+Ottawa County,Oklahoma,40,115,80400
+Pawnee County,Oklahoma,40,117,81400
+Payne County,Oklahoma,40,119,125200
+Pittsburg County,Oklahoma,40,121,85300
+Pontotoc County,Oklahoma,40,123,97300
+Pottawatomie County,Oklahoma,40,125,95600
+Pushmataha County,Oklahoma,40,127,71600
+Roger Mills County,Oklahoma,40,129,80100
+Rogers County,Oklahoma,40,131,142500
+Seminole County,Oklahoma,40,133,70400
+Sequoyah County,Oklahoma,40,135,85200
+Stephens County,Oklahoma,40,137,86300
+Texas County,Oklahoma,40,139,87600
+Tillman County,Oklahoma,40,141,53700
+Tulsa County,Oklahoma,40,143,133300
+Wagoner County,Oklahoma,40,145,137400
+Washington County,Oklahoma,40,147,108100
+Washita County,Oklahoma,40,149,73000
+Woods County,Oklahoma,40,151,76900
+Woodward County,Oklahoma,40,153,99300
+Baker County,Oregon,41,001,156800
+Benton County,Oregon,41,003,272000
+Clackamas County,Oregon,41,005,313100
+Clatsop County,Oregon,41,007,255600
+Columbia County,Oregon,41,009,220400
+Coos County,Oregon,41,011,190000
+Crook County,Oregon,41,013,204100
+Curry County,Oregon,41,015,259400
+Deschutes County,Oregon,41,017,271600
+Douglas County,Oregon,41,019,179500
+Gilliam County,Oregon,41,021,118100
+Grant County,Oregon,41,023,133500
+Harney County,Oregon,41,025,119600
+Hood River County,Oregon,41,027,314400
+Jackson County,Oregon,41,029,242300
+Jefferson County,Oregon,41,031,170600
+Josephine County,Oregon,41,033,231800
+Klamath County,Oregon,41,035,161800
+Lake County,Oregon,41,037,141800
+Lane County,Oregon,41,039,226200
+Lincoln County,Oregon,41,041,242600
+Linn County,Oregon,41,043,176800
+Malheur County,Oregon,41,045,141100
+Marion County,Oregon,41,047,201100
+Morrow County,Oregon,41,049,115600
+Multnomah County,Oregon,41,051,276900
+Polk County,Oregon,41,053,227300
+Sherman County,Oregon,41,055,140200
+Tillamook County,Oregon,41,057,232400
+Umatilla County,Oregon,41,059,143500
+Union County,Oregon,41,061,153500
+Wallowa County,Oregon,41,063,192000
+Wasco County,Oregon,41,065,182800
+Washington County,Oregon,41,067,290900
+Wheeler County,Oregon,41,069,115200
+Yamhill County,Oregon,41,071,235300
+Adams County,Pennsylvania,42,001,204000
+Allegheny County,Pennsylvania,42,003,120300
+Armstrong County,Pennsylvania,42,005,92300
+Beaver County,Pennsylvania,42,007,114100
+Bedford County,Pennsylvania,42,009,118800
+Berks County,Pennsylvania,42,011,173400
+Blair County,Pennsylvania,42,013,103700
+Bradford County,Pennsylvania,42,015,114300
+Bucks County,Pennsylvania,42,017,315600
+Butler County,Pennsylvania,42,019,167100
+Cambria County,Pennsylvania,42,021,87300
+Cameron County,Pennsylvania,42,023,71600
+Carbon County,Pennsylvania,42,025,147100
+Centre County,Pennsylvania,42,027,189800
+Chester County,Pennsylvania,42,029,329700
+Clarion County,Pennsylvania,42,031,105000
+Clearfield County,Pennsylvania,42,033,85100
+Clinton County,Pennsylvania,42,035,105700
+Columbia County,Pennsylvania,42,037,134700
+Crawford County,Pennsylvania,42,039,102700
+Cumberland County,Pennsylvania,42,041,183500
+Dauphin County,Pennsylvania,42,043,159100
+Delaware County,Pennsylvania,42,045,236600
+Elk County,Pennsylvania,42,047,92300
+Erie County,Pennsylvania,42,049,115400
+Fayette County,Pennsylvania,42,051,83500
+Forest County,Pennsylvania,42,053,81000
+Franklin County,Pennsylvania,42,055,178200
+Fulton County,Pennsylvania,42,057,159300
+Greene County,Pennsylvania,42,059,85500
+Huntingdon County,Pennsylvania,42,061,112800
+Indiana County,Pennsylvania,42,063,104600
+Jefferson County,Pennsylvania,42,065,85100
+Juniata County,Pennsylvania,42,067,137400
+Lackawanna County,Pennsylvania,42,069,144500
+Lancaster County,Pennsylvania,42,071,189600
+Lawrence County,Pennsylvania,42,073,96800
+Lebanon County,Pennsylvania,42,075,164100
+Lehigh County,Pennsylvania,42,077,203000
+Luzerne County,Pennsylvania,42,079,119500
+Lycoming County,Pennsylvania,42,081,129200
+McKean County,Pennsylvania,42,083,73200
+Mercer County,Pennsylvania,42,085,103700
+Mifflin County,Pennsylvania,42,087,95900
+Monroe County,Pennsylvania,42,089,198400
+Montgomery County,Pennsylvania,42,091,296000
+Montour County,Pennsylvania,42,093,150100
+Northampton County,Pennsylvania,42,095,218100
+Northumberland County,Pennsylvania,42,097,97500
+Perry County,Pennsylvania,42,099,155300
+Philadelphia County,Pennsylvania,42,101,142300
+Pike County,Pennsylvania,42,103,206700
+Potter County,Pennsylvania,42,105,94700
+Schuylkill County,Pennsylvania,42,107,92500
+Snyder County,Pennsylvania,42,109,133300
+Somerset County,Pennsylvania,42,111,95100
+Sullivan County,Pennsylvania,42,113,135800
+Susquehanna County,Pennsylvania,42,115,134500
+Tioga County,Pennsylvania,42,117,113300
+Union County,Pennsylvania,42,119,152000
+Venango County,Pennsylvania,42,121,79900
+Warren County,Pennsylvania,42,123,87500
+Washington County,Pennsylvania,42,125,141000
+Wayne County,Pennsylvania,42,127,182400
+Westmoreland County,Pennsylvania,42,129,131800
+Wyoming County,Pennsylvania,42,131,150000
+York County,Pennsylvania,42,133,177200
+Bristol County,Rhode Island,44,001,345300
+Kent County,Rhode Island,44,003,231800
+Newport County,Rhode Island,44,005,369300
+Providence County,Rhode Island,44,007,236700
+Washington County,Rhode Island,44,009,331300
+Abbeville County,South Carolina,45,001,90300
+Aiken County,South Carolina,45,003,124900
+Allendale County,South Carolina,45,005,67700
+Anderson County,South Carolina,45,007,121900
+Bamberg County,South Carolina,45,009,74300
+Barnwell County,South Carolina,45,011,73500
+Beaufort County,South Carolina,45,013,279400
+Berkeley County,South Carolina,45,015,150900
+Calhoun County,South Carolina,45,017,98400
+Charleston County,South Carolina,45,019,240600
+Cherokee County,South Carolina,45,021,81900
+Chester County,South Carolina,45,023,82700
+Chesterfield County,South Carolina,45,025,78400
+Clarendon County,South Carolina,45,027,86000
+Colleton County,South Carolina,45,029,92900
+Darlington County,South Carolina,45,031,84600
+Dillon County,South Carolina,45,033,63300
+Dorchester County,South Carolina,45,035,169800
+Edgefield County,South Carolina,45,037,106900
+Fairfield County,South Carolina,45,039,92500
+Florence County,South Carolina,45,041,112300
+Georgetown County,South Carolina,45,043,165700
+Greenville County,South Carolina,45,045,152100
+Greenwood County,South Carolina,45,047,105100
+Hampton County,South Carolina,45,049,77600
+Horry County,South Carolina,45,051,164000
+Jasper County,South Carolina,45,053,93800
+Kershaw County,South Carolina,45,055,113600
+Lancaster County,South Carolina,45,057,136600
+Laurens County,South Carolina,45,059,84200
+Lee County,South Carolina,45,061,66800
+Lexington County,South Carolina,45,063,138900
+McCormick County,South Carolina,45,065,113700
+Marion County,South Carolina,45,067,82400
+Marlboro County,South Carolina,45,069,63600
+Newberry County,South Carolina,45,071,101900
+Oconee County,South Carolina,45,073,133800
+Orangeburg County,South Carolina,45,075,83700
+Pickens County,South Carolina,45,077,124000
+Richland County,South Carolina,45,079,150800
+Saluda County,South Carolina,45,081,100700
+Spartanburg County,South Carolina,45,083,119600
+Sumter County,South Carolina,45,085,105400
+Union County,South Carolina,45,087,74800
+Williamsburg County,South Carolina,45,089,66500
+York County,South Carolina,45,091,160900
+Aurora County,South Dakota,46,003,70200
+Beadle County,South Dakota,46,005,87700
+Bennett County,South Dakota,46,007,56300
+Bon Homme County,South Dakota,46,009,70700
+Brookings County,South Dakota,46,011,144900
+Brown County,South Dakota,46,013,132500
+Brule County,South Dakota,46,015,89400
+Buffalo County,South Dakota,46,017,61900
+Butte County,South Dakota,46,019,116100
+Campbell County,South Dakota,46,021,45100
+Charles Mix County,South Dakota,46,023,71500
+Clark County,South Dakota,46,025,62800
+Clay County,South Dakota,46,027,131900
+Codington County,South Dakota,46,029,133200
+Corson County,South Dakota,46,031,46400
+Custer County,South Dakota,46,033,167700
+Davison County,South Dakota,46,035,118900
+Day County,South Dakota,46,037,71200
+Deuel County,South Dakota,46,039,92300
+Dewey County,South Dakota,46,041,55200
+Douglas County,South Dakota,46,043,69000
+Edmunds County,South Dakota,46,045,83800
+Fall River County,South Dakota,46,047,88000
+Faulk County,South Dakota,46,049,59000
+Grant County,South Dakota,46,051,104300
+Gregory County,South Dakota,46,053,56300
+Haakon County,South Dakota,46,055,80300
+Hamlin County,South Dakota,46,057,105300
+Hand County,South Dakota,46,059,85200
+Hanson County,South Dakota,46,061,92900
+Harding County,South Dakota,46,063,68900
+Hughes County,South Dakota,46,065,151700
+Hutchinson County,South Dakota,46,067,71800
+Hyde County,South Dakota,46,069,59600
+Jerauld County,South Dakota,46,073,63900
+Jones County,South Dakota,46,075,73800
+Kingsbury County,South Dakota,46,077,77400
+Lake County,South Dakota,46,079,111400
+Lawrence County,South Dakota,46,081,166700
+Lincoln County,South Dakota,46,083,181900
+Lyman County,South Dakota,46,085,68800
+McCook County,South Dakota,46,087,92900
+McPherson County,South Dakota,46,089,55300
+Marshall County,South Dakota,46,091,88200
+Meade County,South Dakota,46,093,160500
+Mellette County,South Dakota,46,095,50900
+Miner County,South Dakota,46,097,58800
+Minnehaha County,South Dakota,46,099,148600
+Moody County,South Dakota,46,101,105300
+Pennington County,South Dakota,46,103,156000
+Perkins County,South Dakota,46,105,57600
+Potter County,South Dakota,46,107,62100
+Roberts County,South Dakota,46,109,82100
+Sanborn County,South Dakota,46,111,67700
+Shannon County,South Dakota,46,113,19400
+Spink County,South Dakota,46,115,61900
+Stanley County,South Dakota,46,117,109700
+Sully County,South Dakota,46,119,76200
+Todd County,South Dakota,46,121,50700
+Tripp County,South Dakota,46,123,65600
+Turner County,South Dakota,46,125,88400
+Union County,South Dakota,46,127,145700
+Walworth County,South Dakota,46,129,72800
+Yankton County,South Dakota,46,135,122700
+Ziebach County,South Dakota,46,137,69600
+Jackson County,South Dakota,46,071,55900
+Anderson County,Tennessee,47,001,126400
+Bedford County,Tennessee,47,003,117100
+Benton County,Tennessee,47,005,76700
+Bledsoe County,Tennessee,47,007,105200
+Blount County,Tennessee,47,009,164600
+Bradley County,Tennessee,47,011,138500
+Campbell County,Tennessee,47,013,89900
+Cannon County,Tennessee,47,015,114300
+Carroll County,Tennessee,47,017,80700
+Carter County,Tennessee,47,019,98800
+Cheatham County,Tennessee,47,021,153400
+Chester County,Tennessee,47,023,107600
+Claiborne County,Tennessee,47,025,94200
+Clay County,Tennessee,47,027,94700
+Cocke County,Tennessee,47,029,99200
+Coffee County,Tennessee,47,031,119200
+Crockett County,Tennessee,47,033,86400
+Cumberland County,Tennessee,47,035,141100
+Davidson County,Tennessee,47,037,167200
+Decatur County,Tennessee,47,039,80400
+DeKalb County,Tennessee,47,041,105400
+Dickson County,Tennessee,47,043,138000
+Dyer County,Tennessee,47,045,96500
+Fayette County,Tennessee,47,047,173700
+Fentress County,Tennessee,47,049,95100
+Franklin County,Tennessee,47,051,107300
+Gibson County,Tennessee,47,053,86800
+Giles County,Tennessee,47,055,96700
+Grainger County,Tennessee,47,057,90100
+Greene County,Tennessee,47,059,109100
+Grundy County,Tennessee,47,061,79300
+Hamblen County,Tennessee,47,063,123000
+Hamilton County,Tennessee,47,065,154600
+Hancock County,Tennessee,47,067,80000
+Hardeman County,Tennessee,47,069,87100
+Hardin County,Tennessee,47,071,97500
+Hawkins County,Tennessee,47,073,107500
+Haywood County,Tennessee,47,075,89600
+Henderson County,Tennessee,47,077,93900
+Henry County,Tennessee,47,079,89700
+Hickman County,Tennessee,47,081,99800
+Houston County,Tennessee,47,083,88400
+Humphreys County,Tennessee,47,085,109800
+Jackson County,Tennessee,47,087,97100
+Jefferson County,Tennessee,47,089,121500
+Johnson County,Tennessee,47,091,101300
+Knox County,Tennessee,47,093,156800
+Lake County,Tennessee,47,095,68500
+Lauderdale County,Tennessee,47,097,80300
+Lawrence County,Tennessee,47,099,97000
+Lewis County,Tennessee,47,101,89600
+Lincoln County,Tennessee,47,103,110300
+Loudon County,Tennessee,47,105,175900
+McMinn County,Tennessee,47,107,109800
+McNairy County,Tennessee,47,109,88000
+Macon County,Tennessee,47,111,91800
+Madison County,Tennessee,47,113,112200
+Marion County,Tennessee,47,115,118200
+Marshall County,Tennessee,47,117,107800
+Maury County,Tennessee,47,119,136800
+Meigs County,Tennessee,47,121,99300
+Monroe County,Tennessee,47,123,115300
+Montgomery County,Tennessee,47,125,139000
+Moore County,Tennessee,47,127,135700
+Morgan County,Tennessee,47,129,88300
+Obion County,Tennessee,47,131,91300
+Overton County,Tennessee,47,133,88000
+Perry County,Tennessee,47,135,82000
+Pickett County,Tennessee,47,137,100900
+Polk County,Tennessee,47,139,99500
+Putnam County,Tennessee,47,141,134900
+Rhea County,Tennessee,47,143,105700
+Roane County,Tennessee,47,145,119500
+Robertson County,Tennessee,47,147,153800
+Rutherford County,Tennessee,47,149,160100
+Scott County,Tennessee,47,151,79700
+Sequatchie County,Tennessee,47,153,115700
+Sevier County,Tennessee,47,155,159300
+Shelby County,Tennessee,47,157,135500
+Smith County,Tennessee,47,159,116300
+Stewart County,Tennessee,47,161,110600
+Sullivan County,Tennessee,47,163,118100
+Sumner County,Tennessee,47,165,175500
+Tipton County,Tennessee,47,167,139900
+Trousdale County,Tennessee,47,169,116800
+Unicoi County,Tennessee,47,171,117500
+Union County,Tennessee,47,173,97300
+Van Buren County,Tennessee,47,175,76400
+Warren County,Tennessee,47,177,91400
+Washington County,Tennessee,47,179,145800
+Wayne County,Tennessee,47,181,74400
+Weakley County,Tennessee,47,183,88500
+White County,Tennessee,47,185,101900
+Williamson County,Tennessee,47,187,337000
+Wilson County,Tennessee,47,189,191300
+Anderson County,Texas,48,001,80600
+Andrews County,Texas,48,003,90200
+Angelina County,Texas,48,005,83700
+Aransas County,Texas,48,007,121500
+Archer County,Texas,48,009,101400
+Armstrong County,Texas,48,011,91800
+Atascosa County,Texas,48,013,83300
+Austin County,Texas,48,015,153200
+Bailey County,Texas,48,017,57200
+Bandera County,Texas,48,019,141400
+Bastrop County,Texas,48,021,121200
+Baylor County,Texas,48,023,71100
+Bee County,Texas,48,025,72000
+Bell County,Texas,48,027,119800
+Bexar County,Texas,48,029,122600
+Blanco County,Texas,48,031,162300
+Bosque County,Texas,48,035,93300
+Bowie County,Texas,48,037,92800
+Brazoria County,Texas,48,039,147300
+Brazos County,Texas,48,041,151300
+Brewster County,Texas,48,043,109300
+Briscoe County,Texas,48,045,44800
+Brooks County,Texas,48,047,44700
+Brown County,Texas,48,049,86900
+Burleson County,Texas,48,051,91100
+Burnet County,Texas,48,053,148200
+Caldwell County,Texas,48,055,105600
+Calhoun County,Texas,48,057,92700
+Callahan County,Texas,48,059,75500
+Cameron County,Texas,48,061,76600
+Camp County,Texas,48,063,105000
+Carson County,Texas,48,065,89000
+Cass County,Texas,48,067,75500
+Castro County,Texas,48,069,64600
+Chambers County,Texas,48,071,145000
+Cherokee County,Texas,48,073,72800
+Childress County,Texas,48,075,53500
+Clay County,Texas,48,077,78300
+Cochran County,Texas,48,079,36600
+Coke County,Texas,48,081,64500
+Coleman County,Texas,48,083,62600
+Collin County,Texas,48,085,204900
+Collingsworth County,Texas,48,087,66300
+Colorado County,Texas,48,089,104000
+Comal County,Texas,48,091,202200
+Comanche County,Texas,48,093,79800
+Concho County,Texas,48,095,71800
+Cooke County,Texas,48,097,108600
+Coryell County,Texas,48,099,98300
+Cottle County,Texas,48,101,40800
+Crane County,Texas,48,103,62800
+Crockett County,Texas,48,105,51800
+Crosby County,Texas,48,107,52500
+Culberson County,Texas,48,109,43800
+Dallam County,Texas,48,111,75200
+Dallas County,Texas,48,113,129100
+Dawson County,Texas,48,115,50200
+Deaf Smith County,Texas,48,117,81400
+Delta County,Texas,48,119,63200
+Denton County,Texas,48,121,182200
+DeWitt County,Texas,48,123,76400
+Dickens County,Texas,48,125,39200
+Dimmit County,Texas,48,127,47900
+Donley County,Texas,48,129,55900
+Duval County,Texas,48,131,50700
+Eastland County,Texas,48,133,67300
+Ector County,Texas,48,135,88300
+Edwards County,Texas,48,137,62400
+Ellis County,Texas,48,139,139000
+El Paso County,Texas,48,141,111000
+Erath County,Texas,48,143,116900
+Falls County,Texas,48,145,61200
+Fannin County,Texas,48,147,91700
+Fayette County,Texas,48,149,131000
+Fisher County,Texas,48,151,57600
+Floyd County,Texas,48,153,58800
+Foard County,Texas,48,155,37700
+Fort Bend County,Texas,48,157,179800
+Franklin County,Texas,48,159,89400
+Freestone County,Texas,48,161,81800
+Frio County,Texas,48,163,59400
+Gaines County,Texas,48,165,83100
+Galveston County,Texas,48,167,146700
+Garza County,Texas,48,169,72800
+Gillespie County,Texas,48,171,204600
+Glasscock County,Texas,48,173,108000
+Goliad County,Texas,48,175,101900
+Gonzales County,Texas,48,177,78400
+Gray County,Texas,48,179,75100
+Grayson County,Texas,48,181,103200
+Gregg County,Texas,48,183,117300
+Grimes County,Texas,48,185,92700
+Guadalupe County,Texas,48,187,154300
+Hale County,Texas,48,189,68900
+Hall County,Texas,48,191,41900
+Hamilton County,Texas,48,193,91700
+Hansford County,Texas,48,195,70500
+Hardeman County,Texas,48,197,44700
+Hardin County,Texas,48,199,97800
+Harris County,Texas,48,201,132200
+Harrison County,Texas,48,203,109900
+Hartley County,Texas,48,205,137900
+Haskell County,Texas,48,207,42800
+Hays County,Texas,48,209,174100
+Hemphill County,Texas,48,211,104300
+Henderson County,Texas,48,213,87700
+Hidalgo County,Texas,48,215,76900
+Hill County,Texas,48,217,83500
+Hockley County,Texas,48,219,80600
+Hood County,Texas,48,221,148600
+Hopkins County,Texas,48,223,93600
+Houston County,Texas,48,225,68800
+Howard County,Texas,48,227,63400
+Hudspeth County,Texas,48,229,38900
+Hunt County,Texas,48,231,93700
+Hutchinson County,Texas,48,233,67500
+Irion County,Texas,48,235,70200
+Jack County,Texas,48,237,75600
+Jackson County,Texas,48,239,85700
+Jasper County,Texas,48,241,79100
+Jeff Davis County,Texas,48,243,99200
+Jefferson County,Texas,48,245,95600
+Jim Hogg County,Texas,48,247,43600
+Jim Wells County,Texas,48,249,67800
+Johnson County,Texas,48,251,114900
+Jones County,Texas,48,253,60100
+Karnes County,Texas,48,255,75000
+Kaufman County,Texas,48,257,127800
+Kendall County,Texas,48,259,272800
+Kerr County,Texas,48,265,147000
+Kimble County,Texas,48,267,87000
+Kinney County,Texas,48,271,70000
+Kleberg County,Texas,48,273,73500
+Knox County,Texas,48,275,40700
+Lamar County,Texas,48,277,86900
+Lamb County,Texas,48,279,57800
+Lampasas County,Texas,48,281,122500
+La Salle County,Texas,48,283,47700
+Lavaca County,Texas,48,285,87300
+Lee County,Texas,48,287,113400
+Leon County,Texas,48,289,89400
+Liberty County,Texas,48,291,83200
+Limestone County,Texas,48,293,84800
+Lipscomb County,Texas,48,295,78800
+Live Oak County,Texas,48,297,86800
+Llano County,Texas,48,299,157800
+Lubbock County,Texas,48,303,107300
+Lynn County,Texas,48,305,67000
+McCulloch County,Texas,48,307,69800
+McLennan County,Texas,48,309,106600
+Madison County,Texas,48,313,84200
+Marion County,Texas,48,315,71400
+Martin County,Texas,48,317,69600
+Mason County,Texas,48,319,162900
+Matagorda County,Texas,48,321,90400
+Maverick County,Texas,48,323,83300
+Medina County,Texas,48,325,109800
+Menard County,Texas,48,327,62100
+Midland County,Texas,48,329,141100
+Milam County,Texas,48,331,85000
+Mills County,Texas,48,333,87300
+Mitchell County,Texas,48,335,56200
+Montague County,Texas,48,337,86000
+Montgomery County,Texas,48,339,164200
+Moore County,Texas,48,341,84200
+Morris County,Texas,48,343,70600
+Motley County,Texas,48,345,49600
+Nacogdoches County,Texas,48,347,96600
+Navarro County,Texas,48,349,79000
+Newton County,Texas,48,351,75900
+Nolan County,Texas,48,353,55200
+Nueces County,Texas,48,355,109900
+Ochiltree County,Texas,48,357,77700
+Oldham County,Texas,48,359,81200
+Orange County,Texas,48,361,87400
+Palo Pinto County,Texas,48,363,84900
+Panola County,Texas,48,365,81800
+Parker County,Texas,48,367,153100
+Parmer County,Texas,48,369,90000
+Pecos County,Texas,48,371,54900
+Polk County,Texas,48,373,77700
+Potter County,Texas,48,375,84000
+Presidio County,Texas,48,377,57300
+Rains County,Texas,48,379,91200
+Randall County,Texas,48,381,137600
+Reagan County,Texas,48,383,63100
+Real County,Texas,48,385,83400
+Red River County,Texas,48,387,68100
+Reeves County,Texas,48,389,42800
+Refugio County,Texas,48,391,69100
+Robertson County,Texas,48,395,76500
+Rockwall County,Texas,48,397,194000
+Runnels County,Texas,48,399,61400
+Rusk County,Texas,48,401,87300
+Sabine County,Texas,48,403,69600
+San Augustine County,Texas,48,405,72200
+San Jacinto County,Texas,48,407,84800
+San Patricio County,Texas,48,409,91200
+San Saba County,Texas,48,411,71100
+Schleicher County,Texas,48,413,81500
+Scurry County,Texas,48,415,81800
+Shackelford County,Texas,48,417,66600
+Shelby County,Texas,48,419,68400
+Sherman County,Texas,48,421,81100
+Smith County,Texas,48,423,119300
+Somervell County,Texas,48,425,133500
+Starr County,Texas,48,427,59300
+Stephens County,Texas,48,429,68400
+Sterling County,Texas,48,431,70000
+Stonewall County,Texas,48,433,52700
+Sutton County,Texas,48,435,81000
+Swisher County,Texas,48,437,61600
+Tarrant County,Texas,48,439,136300
+Taylor County,Texas,48,441,95400
+Terry County,Texas,48,445,62900
+Throckmorton County,Texas,48,447,53800
+Titus County,Texas,48,449,90900
+Tom Green County,Texas,48,451,96200
+Travis County,Texas,48,453,215900
+Trinity County,Texas,48,455,80200
+Tyler County,Texas,48,457,75300
+Upshur County,Texas,48,459,89400
+Upton County,Texas,48,461,46700
+Uvalde County,Texas,48,463,74300
+Val Verde County,Texas,48,465,88400
+Van Zandt County,Texas,48,467,98100
+Victoria County,Texas,48,469,106500
+Walker County,Texas,48,471,110600
+Waller County,Texas,48,473,134900
+Ward County,Texas,48,475,52200
+Washington County,Texas,48,477,142200
+Webb County,Texas,48,479,107700
+Wharton County,Texas,48,481,87900
+Wheeler County,Texas,48,483,67800
+Wichita County,Texas,48,485,89600
+Wilbarger County,Texas,48,487,58800
+Willacy County,Texas,48,489,49300
+Williamson County,Texas,48,491,177000
+Wilson County,Texas,48,493,139300
+Winkler County,Texas,48,495,43000
+Wise County,Texas,48,497,121400
+Wood County,Texas,48,499,103800
+Yoakum County,Texas,48,501,71300
+Young County,Texas,48,503,82800
+Zapata County,Texas,48,505,55000
+Zavala County,Texas,48,507,42400
+Beaver County,Utah,49,001,145700
+Box Elder County,Utah,49,003,168200
+Cache County,Utah,49,005,190400
+Carbon County,Utah,49,007,123300
+Daggett County,Utah,49,009,167100
+Davis County,Utah,49,011,226100
+Duchesne County,Utah,49,013,169500
+Emery County,Utah,49,015,120600
+Garfield County,Utah,49,017,160300
+Grand County,Utah,49,019,220400
+Iron County,Utah,49,021,186200
+Juab County,Utah,49,023,165800
+Kane County,Utah,49,025,171100
+Millard County,Utah,49,027,129500
+Morgan County,Utah,49,029,266300
+Piute County,Utah,49,031,158500
+Rich County,Utah,49,033,158700
+Salt Lake County,Utah,49,035,237500
+San Juan County,Utah,49,037,121900
+Sanpete County,Utah,49,039,161800
+Sevier County,Utah,49,041,152500
+Summit County,Utah,49,043,469600
+Tooele County,Utah,49,045,183800
+Uintah County,Utah,49,047,187500
+Utah County,Utah,49,049,228800
+Wasatch County,Utah,49,051,313900
+Washington County,Utah,49,053,223100
+Wayne County,Utah,49,055,170100
+Weber County,Utah,49,057,171600
+Addison County,Vermont,50,001,235500
+Bennington County,Vermont,50,003,206300
+Caledonia County,Vermont,50,005,161400
+Chittenden County,Vermont,50,007,266400
+Essex County,Vermont,50,009,123300
+Franklin County,Vermont,50,011,205300
+Grand Isle County,Vermont,50,013,251100
+Lamoille County,Vermont,50,015,215600
+Orange County,Vermont,50,017,184900
+Orleans County,Vermont,50,019,153200
+Rutland County,Vermont,50,021,176300
+Washington County,Vermont,50,023,206700
+Windham County,Vermont,50,025,209500
+Windsor County,Vermont,50,027,215500
+Accomack County,Virginia,51,001,153800
+Amelia County,Virginia,51,007,201100
+Amherst County,Virginia,51,009,151800
+Appomattox County,Virginia,51,011,145200
+Arlington County,Virginia,51,013,577300
+Bath County,Virginia,51,017,147900
+Bland County,Virginia,51,021,98700
+Botetourt County,Virginia,51,023,215500
+Brunswick County,Virginia,51,025,102100
+Buchanan County,Virginia,51,027,63900
+Buckingham County,Virginia,51,029,117500
+Campbell County,Virginia,51,031,146800
+Caroline County,Virginia,51,033,203000
+Carroll County,Virginia,51,035,100200
+Charles City County,Virginia,51,036,150200
+Charlotte County,Virginia,51,037,98900
+Chesterfield County,Virginia,51,041,233400
+Clarke County,Virginia,51,043,348000
+Craig County,Virginia,51,045,153900
+Culpeper County,Virginia,51,047,265600
+Cumberland County,Virginia,51,049,143700
+Dickenson County,Virginia,51,051,74500
+Dinwiddie County,Virginia,51,053,164600
+Essex County,Virginia,51,057,165700
+Fauquier County,Virginia,51,061,363600
+Floyd County,Virginia,51,063,151500
+Fluvanna County,Virginia,51,065,234700
+Franklin County,Virginia,51,067,164300
+Frederick County,Virginia,51,069,234100
+Giles County,Virginia,51,071,103900
+Gloucester County,Virginia,51,073,229100
+Goochland County,Virginia,51,075,341300
+Grayson County,Virginia,51,077,96200
+Greene County,Virginia,51,079,228500
+Hanover County,Virginia,51,085,271700
+Henrico County,Virginia,51,087,226500
+Henry County,Virginia,51,089,94500
+Highland County,Virginia,51,091,184700
+Isle of Wight County,Virginia,51,093,252000
+King and Queen County,Virginia,51,097,161300
+King George County,Virginia,51,099,281900
+King William County,Virginia,51,101,210500
+Lancaster County,Virginia,51,103,240300
+Lee County,Virginia,51,105,78200
+Loudoun County,Virginia,51,107,448700
+Louisa County,Virginia,51,109,199100
+Lunenburg County,Virginia,51,111,105200
+Madison County,Virginia,51,113,227700
+Mathews County,Virginia,51,115,227800
+Mecklenburg County,Virginia,51,117,124000
+Middlesex County,Virginia,51,119,260300
+Montgomery County,Virginia,51,121,200900
+Nelson County,Virginia,51,125,190700
+New Kent County,Virginia,51,127,255500
+Northampton County,Virginia,51,131,172700
+Northumberland County,Virginia,51,133,246500
+Nottoway County,Virginia,51,135,126400
+Orange County,Virginia,51,137,228400
+Page County,Virginia,51,139,178600
+Patrick County,Virginia,51,141,108100
+Powhatan County,Virginia,51,145,280400
+Prince Edward County,Virginia,51,147,150900
+Prince George County,Virginia,51,149,208600
+Pulaski County,Virginia,51,155,129200
+Rappahannock County,Virginia,51,157,417700
+Richmond County,Virginia,51,159,161000
+Roanoke County,Virginia,51,161,195700
+Russell County,Virginia,51,167,89800
+Scott County,Virginia,51,169,90500
+Shenandoah County,Virginia,51,171,213100
+Smyth County,Virginia,51,173,91900
+Stafford County,Virginia,51,179,309300
+Surry County,Virginia,51,181,173600
+Sussex County,Virginia,51,183,128500
+Tazewell County,Virginia,51,185,85600
+Warren County,Virginia,51,187,231700
+Washington County,Virginia,51,191,133800
+Westmoreland County,Virginia,51,193,179000
+Wise County,Virginia,51,195,82400
+Wythe County,Virginia,51,197,111700
+Alexandria City,Virginia,51,510,475900
+Bristol City,Virginia,51,520,102800
+Chesapeake City,Virginia,51,550,267700
+Colonial Heights City,Virginia,51,570,190200
+Covington City,Virginia,51,580,65600
+Falls Church City,Virginia,51,610,645600
+Galax City,Virginia,51,640,107000
+Hampton City,Virginia,51,650,197300
+Hopewell City,Virginia,51,670,141600
+Lexington City,Virginia,51,678,271000
+Lynchburg City,Virginia,51,680,147100
+Martinsville City,Virginia,51,690,88300
+Norfolk City,Virginia,51,710,210100
+Norton City,Virginia,51,720,86400
+Petersburg City,Virginia,51,730,120700
+Poquoson City,Virginia,51,735,316000
+Portsmouth City,Virginia,51,740,183600
+Radford City,Virginia,51,750,139200
+Richmond City,Virginia,51,760,198500
+Roanoke City,Virginia,51,770,134300
+Salem City,Virginia,51,775,170400
+Suffolk City,Virginia,51,800,248900
+Virginia Beach City,Virginia,51,810,272700
+Winchester City,Virginia,51,840,241900
+Fairfax County,Virginia,51,059,480200
+Fairfax City,Virginia,51,600,465100
+Rockingham County,Virginia,51,165,196200
+Harrisonburg City,Virginia,51,660,215400
+James City County,Virginia,51,095,336600
+Williamsburg City,Virginia,51,830,326200
+Prince William County,Virginia,51,153,330700
+Manassas City,Virginia,51,683,247100
+Manassas Park City,Virginia,51,685,233100
+Rockbridge County,Virginia,51,163,179400
+Buena Vista City,Virginia,51,530,121100
+Spotsylvania County,Virginia,51,177,264600
+Fredericksburg City,Virginia,51,630,323600
+Augusta County,Virginia,51,015,195200
+Staunton City,Virginia,51,790,171900
+Waynesboro City,Virginia,51,820,166800
+Pittsylvania County,Virginia,51,143,109700
+Danville City,Virginia,51,590,89500
+Greensville County,Virginia,51,081,105300
+Emporia City,Virginia,51,595,95500
+Albemarle County,Virginia,51,003,332400
+Charlottesville City,Virginia,51,540,286400
+Bedford County,Virginia,51,019,195300
+Bedford City,Virginia,51,515,140200
+Halifax County,Virginia,51,083,104900
+Southampton County,Virginia,51,175,148700
+Franklin City,Virginia,51,620,195400
+Alleghany County,Virginia,51,005,117700
+York County,Virginia,51,199,324200
+Newport News City,Virginia,51,700,205800
+Adams County,Washington,53,001,131600
+Asotin County,Washington,53,003,172300
+Benton County,Washington,53,005,174800
+Chelan County,Washington,53,007,260600
+Clallam County,Washington,53,009,234000
+Clark County,Washington,53,011,243300
+Columbia County,Washington,53,013,159100
+Cowlitz County,Washington,53,015,189900
+Douglas County,Washington,53,017,213900
+Ferry County,Washington,53,019,154400
+Franklin County,Washington,53,021,158200
+Garfield County,Washington,53,023,129400
+Grant County,Washington,53,025,156000
+Grays Harbor County,Washington,53,027,161400
+Island County,Washington,53,029,301200
+Jefferson County,Washington,53,031,293400
+King County,Washington,53,033,388700
+Kitsap County,Washington,53,035,276500
+Kittitas County,Washington,53,037,252500
+Klickitat County,Washington,53,039,195500
+Lewis County,Washington,53,041,188600
+Lincoln County,Washington,53,043,154800
+Mason County,Washington,53,045,222100
+Okanogan County,Washington,53,047,167100
+Pacific County,Washington,53,049,162100
+Pend Oreille County,Washington,53,051,201500
+Pierce County,Washington,53,053,251400
+San Juan County,Washington,53,055,494700
+Skagit County,Washington,53,057,271000
+Skamania County,Washington,53,059,262200
+Snohomish County,Washington,53,061,311600
+Spokane County,Washington,53,063,190300
+Stevens County,Washington,53,065,178000
+Thurston County,Washington,53,067,251000
+Wahkiakum County,Washington,53,069,191500
+Walla Walla County,Washington,53,071,206300
+Whatcom County,Washington,53,073,281400
+Whitman County,Washington,53,075,186400
+Yakima County,Washington,53,077,157300
+Barbour County,West Virginia,54,001,85900
+Berkeley County,West Virginia,54,003,171900
+Boone County,West Virginia,54,005,78100
+Braxton County,West Virginia,54,007,79500
+Brooke County,West Virginia,54,009,83600
+Cabell County,West Virginia,54,011,103100
+Calhoun County,West Virginia,54,013,76000
+Clay County,West Virginia,54,015,81900
+Doddridge County,West Virginia,54,017,78500
+Fayette County,West Virginia,54,019,70900
+Gilmer County,West Virginia,54,021,70300
+Grant County,West Virginia,54,023,108700
+Greenbrier County,West Virginia,54,025,99200
+Hampshire County,West Virginia,54,027,129700
+Hancock County,West Virginia,54,029,86300
+Hardy County,West Virginia,54,031,133700
+Harrison County,West Virginia,54,033,94100
+Jackson County,West Virginia,54,035,106800
+Jefferson County,West Virginia,54,037,223700
+Kanawha County,West Virginia,54,039,100100
+Lewis County,West Virginia,54,041,90000
+Lincoln County,West Virginia,54,043,73000
+Logan County,West Virginia,54,045,76000
+McDowell County,West Virginia,54,047,33900
+Marion County,West Virginia,54,049,88300
+Marshall County,West Virginia,54,051,83900
+Mason County,West Virginia,54,053,82400
+Mercer County,West Virginia,54,055,77300
+Mineral County,West Virginia,54,057,114500
+Mingo County,West Virginia,54,059,62300
+Monongalia County,West Virginia,54,061,158700
+Monroe County,West Virginia,54,063,102600
+Morgan County,West Virginia,54,065,157800
+Nicholas County,West Virginia,54,067,75300
+Ohio County,West Virginia,54,069,96000
+Pendleton County,West Virginia,54,071,96600
+Pleasants County,West Virginia,54,073,95700
+Pocahontas County,West Virginia,54,075,100100
+Preston County,West Virginia,54,077,104300
+Putnam County,West Virginia,54,079,141900
+Raleigh County,West Virginia,54,081,89400
+Randolph County,West Virginia,54,083,94300
+Ritchie County,West Virginia,54,085,76800
+Roane County,West Virginia,54,087,78400
+Summers County,West Virginia,54,089,84200
+Taylor County,West Virginia,54,091,85700
+Tucker County,West Virginia,54,093,102800
+Tyler County,West Virginia,54,095,76700
+Upshur County,West Virginia,54,097,100400
+Wayne County,West Virginia,54,099,82100
+Webster County,West Virginia,54,101,62600
+Wetzel County,West Virginia,54,103,82500
+Wirt County,West Virginia,54,105,68800
+Wood County,West Virginia,54,107,104300
+Wyoming County,West Virginia,54,109,55800
+Adams County,Wisconsin,55,001,135900
+Ashland County,Wisconsin,55,003,110400
+Barron County,Wisconsin,55,005,135500
+Bayfield County,Wisconsin,55,007,158200
+Brown County,Wisconsin,55,009,159000
+Buffalo County,Wisconsin,55,011,139300
+Burnett County,Wisconsin,55,013,153600
+Calumet County,Wisconsin,55,015,163100
+Chippewa County,Wisconsin,55,017,149000
+Clark County,Wisconsin,55,019,112400
+Columbia County,Wisconsin,55,021,178400
+Crawford County,Wisconsin,55,023,117900
+Dane County,Wisconsin,55,025,231300
+Dodge County,Wisconsin,55,027,156000
+Door County,Wisconsin,55,029,192300
+Douglas County,Wisconsin,55,031,132000
+Dunn County,Wisconsin,55,033,157800
+Eau Claire County,Wisconsin,55,035,150600
+Florence County,Wisconsin,55,037,140300
+Fond du Lac County,Wisconsin,55,039,145800
+Forest County,Wisconsin,55,041,121600
+Grant County,Wisconsin,55,043,122900
+Green County,Wisconsin,55,045,155800
+Green Lake County,Wisconsin,55,047,138500
+Iowa County,Wisconsin,55,049,158200
+Iron County,Wisconsin,55,051,111200
+Jackson County,Wisconsin,55,053,124600
+Jefferson County,Wisconsin,55,055,183300
+Juneau County,Wisconsin,55,057,118500
+Kenosha County,Wisconsin,55,059,174300
+Kewaunee County,Wisconsin,55,061,146400
+La Crosse County,Wisconsin,55,063,153600
+Lafayette County,Wisconsin,55,065,121800
+Langlade County,Wisconsin,55,067,111800
+Lincoln County,Wisconsin,55,069,131600
+Manitowoc County,Wisconsin,55,071,126400
+Marathon County,Wisconsin,55,073,142600
+Marinette County,Wisconsin,55,075,108100
+Marquette County,Wisconsin,55,077,145100
+Menominee County,Wisconsin,55,078,86900
+Milwaukee County,Wisconsin,55,079,162900
+Monroe County,Wisconsin,55,081,134400
+Oconto County,Wisconsin,55,083,146900
+Oneida County,Wisconsin,55,085,166800
+Outagamie County,Wisconsin,55,087,156600
+Ozaukee County,Wisconsin,55,089,255600
+Pepin County,Wisconsin,55,091,142100
+Pierce County,Wisconsin,55,093,195600
+Polk County,Wisconsin,55,095,164100
+Portage County,Wisconsin,55,097,145300
+Price County,Wisconsin,55,099,113600
+Racine County,Wisconsin,55,101,174600
+Richland County,Wisconsin,55,103,122900
+Rock County,Wisconsin,55,105,136700
+Rusk County,Wisconsin,55,107,106300
+Saint Croix County,Wisconsin,55,109,213100
+Sauk County,Wisconsin,55,111,168500
+Sawyer County,Wisconsin,55,113,163300
+Shawano County,Wisconsin,55,115,128200
+Sheboygan County,Wisconsin,55,117,153800
+Taylor County,Wisconsin,55,119,126300
+Trempealeau County,Wisconsin,55,121,133300
+Vernon County,Wisconsin,55,123,136800
+Vilas County,Wisconsin,55,125,190800
+Walworth County,Wisconsin,55,127,198600
+Washburn County,Wisconsin,55,129,148500
+Washington County,Wisconsin,55,131,229100
+Waukesha County,Wisconsin,55,133,257700
+Waupaca County,Wisconsin,55,135,138000
+Waushara County,Wisconsin,55,137,138300
+Winnebago County,Wisconsin,55,139,141100
+Wood County,Wisconsin,55,141,118000
+Albany County,Wyoming,56,001,199900
+Big Horn County,Wyoming,56,003,123900
+Campbell County,Wyoming,56,005,201100
+Carbon County,Wyoming,56,007,141900
+Converse County,Wyoming,56,009,183100
+Crook County,Wyoming,56,011,161200
+Fremont County,Wyoming,56,013,177300
+Goshen County,Wyoming,56,015,135200
+Hot Springs County,Wyoming,56,017,149900
+Johnson County,Wyoming,56,019,215300
+Laramie County,Wyoming,56,021,177600
+Lincoln County,Wyoming,56,023,204600
+Natrona County,Wyoming,56,025,179100
+Niobrara County,Wyoming,56,027,122900
+Park County,Wyoming,56,029,206000
+Platte County,Wyoming,56,031,133300
+Sheridan County,Wyoming,56,033,223900
+Sublette County,Wyoming,56,035,282400
+Sweetwater County,Wyoming,56,037,174600
+Teton County,Wyoming,56,039,692700
+Uinta County,Wyoming,56,041,180200
+Washakie County,Wyoming,56,043,157700
+Weston County,Wyoming,56,045,131200

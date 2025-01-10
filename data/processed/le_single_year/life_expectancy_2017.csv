@@ -1,0 +1,3128 @@
+location_name,year,MeanLifeExpectency
+Autauga County (Alabama),2017,76.0246312323304
+Baldwin County (Alabama),2017,77.8952429034613
+Barbour County (Alabama),2017,74.6572190352659
+Bibb County (Alabama),2017,73.6342805287431
+Blount County (Alabama),2017,74.8974607079908
+Bullock County (Alabama),2017,73.7079253175275
+Butler County (Alabama),2017,73.7151229204611
+Calhoun County (Alabama),2017,73.3078477077272
+Chambers County (Alabama),2017,74.2425871374709
+Cherokee County (Alabama),2017,74.3480110237785
+Chilton County (Alabama),2017,74.1052560370855
+Choctaw County (Alabama),2017,74.2757388369681
+Clarke County (Alabama),2017,74.6238045774491
+Clay County (Alabama),2017,74.3591398533707
+Cleburne County (Alabama),2017,74.0840978801744
+Coffee County (Alabama),2017,76.2048720238035
+Colbert County (Alabama),2017,74.2982544702841
+Conecuh County (Alabama),2017,73.3561349626999
+Coosa County (Alabama),2017,75.3441712856155
+Covington County (Alabama),2017,74.078109873637
+Crenshaw County (Alabama),2017,73.9820921275375
+Cullman County (Alabama),2017,74.3545019878194
+Dale County (Alabama),2017,75.4733509430588
+Dallas County (Alabama),2017,72.03447738714
+DeKalb County (Alabama),2017,74.524309920443
+Elmore County (Alabama),2017,75.8544515314726
+Escambia County (Alabama),2017,73.1026233420298
+Etowah County (Alabama),2017,73.023382014908
+Fayette County (Alabama),2017,73.6468181376117
+Franklin County (Alabama),2017,73.4916922949218
+Geneva County (Alabama),2017,74.2527953119664
+Greene County (Alabama),2017,73.8570082667757
+Hale County (Alabama),2017,73.6467181824322
+Henry County (Alabama),2017,75.4887946207952
+Houston County (Alabama),2017,76.032673861126
+Jackson County (Alabama),2017,73.3946413725398
+Jefferson County (Alabama),2017,74.5743774281111
+Lamar County (Alabama),2017,74.3774503003945
+Lauderdale County (Alabama),2017,76.0388971623086
+Lawrence County (Alabama),2017,73.6788440834402
+Lee County (Alabama),2017,77.5526205196881
+Limestone County (Alabama),2017,77.3036396921757
+Lowndes County (Alabama),2017,71.8712681595456
+Macon County (Alabama),2017,72.9264822618015
+Madison County (Alabama),2017,77.4457800370199
+Marengo County (Alabama),2017,73.4699638933891
+Marion County (Alabama),2017,74.0260626515723
+Marshall County (Alabama),2017,74.044529414402
+Mobile County (Alabama),2017,74.832531869489
+Monroe County (Alabama),2017,74.6472436418514
+Montgomery County (Alabama),2017,75.8639742828833
+Morgan County (Alabama),2017,75.2271704532966
+Perry County (Alabama),2017,72.388930405107
+Pickens County (Alabama),2017,74.4608285703048
+Pike County (Alabama),2017,74.9526888282757
+Randolph County (Alabama),2017,74.2303989397729
+Russell County (Alabama),2017,73.5167015561246
+Saint Clair County (Alabama),2017,74.7414911385038
+Shelby County (Alabama),2017,79.9439409572104
+Sumter County (Alabama),2017,74.3379744715151
+Talladega County (Alabama),2017,73.3972425657916
+Tallapoosa County (Alabama),2017,74.8751981595403
+Tuscaloosa County (Alabama),2017,76.2628239560412
+Walker County (Alabama),2017,70.3120931463706
+Washington County (Alabama),2017,74.379913964713
+Wilcox County (Alabama),2017,71.4192185766012
+Winston County (Alabama),2017,74.31731572053
+Anchorage Municipality (Alaska),2017,78.8427395859197
+Bethel Census Area (Alaska),2017,72.3773195918739
+Bristol Bay Borough (Alaska),2017,75.8312576360195
+Fairbanks North Star Borough (Alaska),2017,79.8531882449376
+Haines Borough (Alaska),2017,81.6301311834033
+Juneau City and Borough (Alaska),2017,80.4330971073059
+Kenai Peninsula Borough (Alaska),2017,78.3677604150779
+Kodiak Island Borough (Alaska),2017,79.8324510978969
+Matanuska-Susitna Borough (Alaska),2017,78.4961228596649
+Nome Census Area (Alaska),2017,70.4964319256222
+North Slope Borough (Alaska),2017,75.4604638102837
+Sitka City and Borough (Alaska),2017,80.0877625456278
+Southeast Fairbanks Census Area (Alaska),2017,77.3779098522792
+Chugach Census Area (Alaska),2017,78.9328153281328
+Copper River Census Area (Alaska),2017,78.9328153281328
+Valdez-Cordova Census Area (Alaska),2017,78.9328153281328
+Kusilvak Census Area (Alaska),2017,67.9859126754132
+Wade Hampton Census Area (Alaska),2017,67.9859126754132
+Kobuk Census Area (Alaska),2017,72.237114207438
+Northwest Arctic Borough (Alaska),2017,72.237114207438
+Aleutian Islands Census Area (Alaska),2017,84.1950647120622
+Aleutians East Borough (Alaska),2017,84.1950647120622
+Aleutians West Census Area (Alaska),2017,84.1950647120622
+Dillingham Census Area (Alaska),2017,73.937488710631
+Lake and Peninsula Borough (Alaska),2017,73.937488710631
+Denali Borough (Alaska),2017,73.9553492576129
+Yukon-Koyukuk Census Area (Alaska),2017,73.9553492576129
+Hoonah-Angoon Census Area (Alaska),2017,80.749870087287
+Skagway Municipality (Alaska),2017,80.749870087287
+Skagway-Yakutat-Angoon Census Area (Alaska),2017,80.749870087287
+Skagway-Hoonah-Angoon Census Area (Alaska),2017,80.749870087287
+Yakutat City and Borough (Alaska),2017,80.749870087287
+Ketchikan Gateway Borough (Alaska),2017,78.870520839502
+Petersburg Borough (Alaska),2017,78.870520839502
+Prince of Wales-Hyder Census Area (Alaska),2017,78.870520839502
+Prince of Wales-Outer Ketchikan Census Area (Alaska),2017,78.870520839502
+Wrangell City and Borough (Alaska),2017,78.870520839502
+Wrangell-Petersburg Census Area (Alaska),2017,78.870520839502
+Apache County (Arizona),2017,72.2408515337713
+Cochise County (Arizona),2017,77.7961940778469
+Coconino County (Arizona),2017,78.5702279856415
+Gila County (Arizona),2017,74.1269913666399
+Graham County (Arizona),2017,76.9440705172127
+Greenlee County (Arizona),2017,78.1978326048683
+Maricopa County (Arizona),2017,79.6563218537266
+Mohave County (Arizona),2017,74.9338228939162
+Navajo County (Arizona),2017,73.8300467164729
+Pima County (Arizona),2017,78.6548008107775
+Pinal County (Arizona),2017,80.8637745945733
+Santa Cruz County (Arizona),2017,81.5659007827293
+Yavapai County (Arizona),2017,78.0019889385203
+La Paz County (Arizona),2017,81.1244263390012
+Yuma County (Arizona),2017,81.1244263390012
+Arkansas County (Arkansas),2017,73.5043452669212
+Ashley County (Arkansas),2017,73.9253722421542
+Baxter County (Arkansas),2017,75.9597914129396
+Benton County (Arkansas),2017,79.3162674700135
+Boone County (Arkansas),2017,76.1204721411668
+Bradley County (Arkansas),2017,73.6787408686852
+Calhoun County (Arkansas),2017,74.5306926339902
+Carroll County (Arkansas),2017,76.8382013939385
+Chicot County (Arkansas),2017,73.3117463375035
+Clark County (Arkansas),2017,75.5224420894244
+Clay County (Arkansas),2017,72.8559680875974
+Cleburne County (Arkansas),2017,75.7051992678076
+Cleveland County (Arkansas),2017,74.8589626853021
+Columbia County (Arkansas),2017,74.1079710416384
+Conway County (Arkansas),2017,74.695878166784
+Craighead County (Arkansas),2017,76.2037097312571
+Crawford County (Arkansas),2017,75.7157396241204
+Crittenden County (Arkansas),2017,72.6251939385932
+Cross County (Arkansas),2017,73.1602124341335
+Dallas County (Arkansas),2017,73.3735532648729
+Desha County (Arkansas),2017,72.4752962604024
+Drew County (Arkansas),2017,75.0673773726032
+Faulkner County (Arkansas),2017,76.4182309752644
+Franklin County (Arkansas),2017,74.4373222870369
+Fulton County (Arkansas),2017,74.9193229812661
+Garland County (Arkansas),2017,74.6309366391751
+Grant County (Arkansas),2017,75.3698091973697
+Greene County (Arkansas),2017,74.0996452052536
+Hempstead County (Arkansas),2017,75.1266368361279
+Hot Spring County (Arkansas),2017,74.2281769368533
+Howard County (Arkansas),2017,73.8919511396459
+Independence County (Arkansas),2017,75.5988097794403
+Izard County (Arkansas),2017,75.2554983306065
+Jackson County (Arkansas),2017,73.2398331665973
+Jefferson County (Arkansas),2017,73.2238480770967
+Johnson County (Arkansas),2017,75.7108320235838
+Lafayette County (Arkansas),2017,74.2582687145754
+Lawrence County (Arkansas),2017,73.9055411200017
+Lee County (Arkansas),2017,73.2670721314187
+Lincoln County (Arkansas),2017,75.0420292899519
+Little River County (Arkansas),2017,73.9743483215101
+Logan County (Arkansas),2017,74.1726732947248
+Lonoke County (Arkansas),2017,74.7455691325912
+Madison County (Arkansas),2017,75.378985437541
+Marion County (Arkansas),2017,75.3737129535053
+Miller County (Arkansas),2017,74.5960792199951
+Mississippi County (Arkansas),2017,71.5351089249095
+Monroe County (Arkansas),2017,72.3393690870887
+Montgomery County (Arkansas),2017,75.5774666116489
+Nevada County (Arkansas),2017,74.3732482286084
+Newton County (Arkansas),2017,76.8726224396483
+Ouachita County (Arkansas),2017,73.0094683982827
+Perry County (Arkansas),2017,74.861123428865
+Phillips County (Arkansas),2017,70.8005258788541
+Pike County (Arkansas),2017,74.8235342597713
+Poinsett County (Arkansas),2017,71.2947589568639
+Polk County (Arkansas),2017,74.9129378159319
+Pope County (Arkansas),2017,76.4551101144576
+Prairie County (Arkansas),2017,75.6587388048142
+Pulaski County (Arkansas),2017,75.9533402339039
+Randolph County (Arkansas),2017,74.2064157916112
+Saint Francis County (Arkansas),2017,73.8843994351379
+Saline County (Arkansas),2017,77.0482054817958
+Scott County (Arkansas),2017,74.5707790005597
+Searcy County (Arkansas),2017,75.1238268500902
+Sebastian County (Arkansas),2017,75.7092329887143
+Sevier County (Arkansas),2017,75.1584300484602
+Sharp County (Arkansas),2017,73.7064588321029
+Stone County (Arkansas),2017,75.9079573999317
+Union County (Arkansas),2017,73.1884317266028
+Van Buren County (Arkansas),2017,75.8846063202913
+Washington County (Arkansas),2017,77.8764673272239
+White County (Arkansas),2017,75.2058017632126
+Woodruff County (Arkansas),2017,72.5933855023363
+Yell County (Arkansas),2017,74.3862031980413
+Alameda County (California),2017,82.2321212212249
+Alpine County (California),2017,78.482947059558
+Amador County (California),2017,79.561891234368
+Butte County (California),2017,77.4463014291207
+Calaveras County (California),2017,79.2676567852879
+Colusa County (California),2017,79.6638098917847
+Contra Costa County (California),2017,81.8386853778645
+Del Norte County (California),2017,75.224334811417
+El Dorado County (California),2017,81.4568941950275
+Fresno County (California),2017,78.4585384790352
+Glenn County (California),2017,77.3696017734108
+Humboldt County (California),2017,76.7555796001307
+Imperial County (California),2017,80.687419950022
+Inyo County (California),2017,79.1997381604918
+Kern County (California),2017,77.0176146674043
+Kings County (California),2017,79.3358097827458
+Lake County (California),2017,74.8494787542705
+Lassen County (California),2017,78.2363152612242
+Los Angeles County (California),2017,81.5691962087237
+Madera County (California),2017,78.9228141273425
+Marin County (California),2017,84.670403001944
+Mariposa County (California),2017,79.9818431293211
+Mendocino County (California),2017,78.6518521214148
+Merced County (California),2017,78.3750954459993
+Modoc County (California),2017,77.1077065159972
+Mono County (California),2017,84.9580737678398
+Monterey County (California),2017,81.9472905883429
+Napa County (California),2017,81.2829692549916
+Nevada County (California),2017,81.0166977108918
+Orange County (California),2017,82.5543904647591
+Placer County (California),2017,81.548378960557
+Plumas County (California),2017,78.2532986991761
+Riverside County (California),2017,80.3363218283084
+Sacramento County (California),2017,79.0940358645218
+San Benito County (California),2017,81.6550155032969
+San Bernardino County (California),2017,78.317187547423
+San Diego County (California),2017,81.6258744799118
+San Francisco County (California),2017,83.0357041460174
+San Joaquin County (California),2017,78.0359896860733
+San Luis Obispo County (California),2017,81.2020517524637
+San Mateo County (California),2017,84.1096902566921
+Santa Barbara County (California),2017,81.5801518841513
+Santa Clara County (California),2017,83.9917895786546
+Santa Cruz County (California),2017,82.0605857508508
+Shasta County (California),2017,75.806788638393
+Sierra County (California),2017,78.5719149965786
+Siskiyou County (California),2017,76.1862354494511
+Solano County (California),2017,79.6451278217147
+Sonoma County (California),2017,81.5679359147788
+Stanislaus County (California),2017,77.7149198210095
+Sutter County (California),2017,78.3763386412633
+Tehama County (California),2017,76.9976036049311
+Trinity County (California),2017,76.3456287127584
+Tulare County (California),2017,77.9753506021237
+Tuolumne County (California),2017,78.5900358024682
+Ventura County (California),2017,81.841533815838
+Yolo County (California),2017,80.9056635823379
+Yuba County (California),2017,75.8408352670592
+Alamosa County (Colorado),2017,75.8311324798402
+Archuleta County (Colorado),2017,81.6145512749235
+Baca County (Colorado),2017,77.0260592657618
+Bent County (Colorado),2017,75.8224499656267
+Chaffee County (Colorado),2017,81.2092487110115
+Cheyenne County (Colorado),2017,78.6333421783932
+Clear Creek County (Colorado),2017,82.3124381664765
+Conejos County (Colorado),2017,76.2573666245659
+Costilla County (Colorado),2017,76.8592293656779
+Crowley County (Colorado),2017,76.9641943181852
+Custer County (Colorado),2017,81.092782954152
+Delta County (Colorado),2017,77.8313362534641
+Dolores County (Colorado),2017,79.1893045710591
+Douglas County (Colorado),2017,83.4025879459957
+Eagle County (Colorado),2017,88.4392672602876
+Elbert County (Colorado),2017,81.6581733388672
+El Paso County (Colorado),2017,78.7742109882968
+Fremont County (Colorado),2017,77.0933471771635
+Garfield County (Colorado),2017,80.4969076123098
+Gilpin County (Colorado),2017,81.4969326961949
+Grand County (Colorado),2017,83.5333558735278
+Gunnison County (Colorado),2017,82.5366935871018
+Huerfano County (Colorado),2017,75.4892545704702
+Jackson County (Colorado),2017,79.4480965120346
+Kiowa County (Colorado),2017,77.3252924655834
+Kit Carson County (Colorado),2017,79.2392184006058
+Lake County (Colorado),2017,81.6061753881909
+La Plata County (Colorado),2017,81.6864546006773
+Larimer County (Colorado),2017,81.4508729730401
+Las Animas County (Colorado),2017,76.2626774559932
+Lincoln County (Colorado),2017,78.5091614921194
+Logan County (Colorado),2017,79.1781984236642
+Mesa County (Colorado),2017,78.3133657029401
+Moffat County (Colorado),2017,78.1807357406007
+Montezuma County (Colorado),2017,77.2643320455981
+Montrose County (Colorado),2017,79.379514628823
+Morgan County (Colorado),2017,78.04532580758
+Otero County (Colorado),2017,75.0071650698003
+Ouray County (Colorado),2017,83.8987068625614
+Park County (Colorado),2017,82.6462895795416
+Phillips County (Colorado),2017,80.1789952228355
+Pitkin County (Colorado),2017,90.704592150593
+Prowers County (Colorado),2017,76.7197991902101
+Pueblo County (Colorado),2017,76.2368027257113
+Rio Blanco County (Colorado),2017,78.6915559197346
+Rio Grande County (Colorado),2017,76.5723480456952
+Routt County (Colorado),2017,83.137600225356
+Saguache County (Colorado),2017,79.5112275070078
+San Miguel County (Colorado),2017,86.0178704274716
+Sedgwick County (Colorado),2017,77.5401451830135
+Summit County (Colorado),2017,91.044579954477
+Teller County (Colorado),2017,80.4232362556622
+Washington County (Colorado),2017,79.4007814134676
+Yuma County (Colorado),2017,78.8003703636188
+Adams County (Colorado),2017,80.2868507759135
+Arapahoe County (Colorado),2017,80.2868507759135
+Boulder County (Colorado),2017,80.2868507759135
+Broomfield County (Colorado),2017,80.2868507759135
+Denver County (Colorado),2017,80.2868507759135
+Jefferson County (Colorado),2017,80.2868507759135
+Weld County (Colorado),2017,80.2868507759135
+Fairfield County (Connecticut),2017,82.5946872177968
+Hartford County (Connecticut),2017,80.0972707575589
+Litchfield County (Connecticut),2017,80.2933334667025
+Middlesex County (Connecticut),2017,81.0203125170856
+New Haven County (Connecticut),2017,79.9816945680513
+New London County (Connecticut),2017,79.8089429093262
+Tolland County (Connecticut),2017,81.5167123037912
+Windham County (Connecticut),2017,78.7003951043393
+Kent County (Delaware),2017,77.1563248845642
+New Castle County (Delaware),2017,78.1368239340031
+Sussex County (Delaware),2017,78.4659649042153
+District of Columbia,2017,77.9938827146006
+Alachua County (Florida),2017,78.280773345389
+Baker County (Florida),2017,74.8631741870423
+Bay County (Florida),2017,75.6776481016893
+Bradford County (Florida),2017,75.0591892268178
+Brevard County (Florida),2017,77.2150847771434
+Broward County (Florida),2017,80.3317307609575
+Calhoun County (Florida),2017,74.6772354135484
+Charlotte County (Florida),2017,80.03383445763
+Citrus County (Florida),2017,75.2399918924409
+Clay County (Florida),2017,77.188860994767
+Collier County (Florida),2017,84.595444361758
+Columbia County (Florida),2017,74.7773936232838
+Dade County (Florida),2017,80.9425605320856
+Miami-Dade County (Florida),2017,80.9425605320856
+DeSoto County (Florida),2017,79.1444636027855
+Dixie County (Florida),2017,74.5575346674888
+Duval County (Florida),2017,75.6156823037129
+Escambia County (Florida),2017,74.9177305679025
+Flagler County (Florida),2017,78.664439632624
+Franklin County (Florida),2017,75.8945940583455
+Gadsden County (Florida),2017,75.1015247970268
+Gilchrist County (Florida),2017,76.5403282898351
+Glades County (Florida),2017,80.3593819027898
+Gulf County (Florida),2017,76.1867572155153
+Hamilton County (Florida),2017,75.20250890304
+Hardee County (Florida),2017,78.2845185703614
+Hendry County (Florida),2017,76.8823667223551
+Hernando County (Florida),2017,76.4093994711709
+Highlands County (Florida),2017,78.1939608334697
+Hillsborough County (Florida),2017,78.5404586829892
+Holmes County (Florida),2017,73.2084521422928
+Indian River County (Florida),2017,79.907697163534
+Jackson County (Florida),2017,74.6358394836189
+Jefferson County (Florida),2017,76.8845831245796
+Lafayette County (Florida),2017,76.6581957641507
+Lake County (Florida),2017,78.2864216245771
+Lee County (Florida),2017,81.3739581271401
+Leon County (Florida),2017,79.030358739809
+Levy County (Florida),2017,74.6229846286448
+Liberty County (Florida),2017,75.7518222351327
+Madison County (Florida),2017,74.8388882546744
+Manatee County (Florida),2017,80.1910648097431
+Marion County (Florida),2017,75.9623016853633
+Martin County (Florida),2017,81.1568203073339
+Monroe County (Florida),2017,79.6005221210364
+Nassau County (Florida),2017,77.2759370761858
+Okaloosa County (Florida),2017,77.3889246282456
+Okeechobee County (Florida),2017,75.9457097645825
+Orange County (Florida),2017,79.5269054955863
+Osceola County (Florida),2017,78.8810610995138
+Palm Beach County (Florida),2017,81.3829024333588
+Pasco County (Florida),2017,77.098851734423
+Pinellas County (Florida),2017,78.2987745279353
+Polk County (Florida),2017,77.7020921564756
+Putnam County (Florida),2017,73.635254100304
+Saint Johns County (Florida),2017,80.5809996179964
+Saint Lucie County (Florida),2017,79.2977622741057
+Santa Rosa County (Florida),2017,77.3193290919895
+Sarasota County (Florida),2017,80.9350383168968
+Seminole County (Florida),2017,79.8402255658359
+Sumter County (Florida),2017,80.4806227609364
+Suwannee County (Florida),2017,75.2150765992341
+Taylor County (Florida),2017,74.7442078191434
+Union County (Florida),2017,67.8919995760419
+Volusia County (Florida),2017,76.2981063923098
+Wakulla County (Florida),2017,76.2724538807062
+Walton County (Florida),2017,77.3545360296973
+Washington County (Florida),2017,72.8960237830396
+Appling County (Georgia),2017,74.0084605365612
+Atkinson County (Georgia),2017,73.4390527880296
+Bacon County (Georgia),2017,72.5321912655798
+Baker County (Georgia),2017,77.1226977730015
+Baldwin County (Georgia),2017,75.885623089803
+Banks County (Georgia),2017,76.5761341138381
+Barrow County (Georgia),2017,76.4531171029684
+Bartow County (Georgia),2017,76.2159238347912
+Ben Hill County (Georgia),2017,72.9889666208592
+Berrien County (Georgia),2017,74.439001968007
+Bibb County (Georgia),2017,73.6270349335338
+Bleckley County (Georgia),2017,75.6767775470061
+Brantley County (Georgia),2017,74.2535435032282
+Brooks County (Georgia),2017,74.7365498889901
+Bryan County (Georgia),2017,75.9644967649488
+Bulloch County (Georgia),2017,76.8294282235662
+Burke County (Georgia),2017,73.7095855538626
+Butts County (Georgia),2017,73.7983435794374
+Calhoun County (Georgia),2017,74.4920251011037
+Camden County (Georgia),2017,77.8072993071322
+Candler County (Georgia),2017,73.3882320641854
+Carroll County (Georgia),2017,75.1232865117092
+Catoosa County (Georgia),2017,77.5910778852834
+Charlton County (Georgia),2017,76.3359105899648
+Chatham County (Georgia),2017,77.490102718577
+Chattahoochee County (Georgia),2017,77.0231781510592
+Chattooga County (Georgia),2017,73.4170928402242
+Cherokee County (Georgia),2017,79.8435454979864
+Clarke County (Georgia),2017,78.6318913183763
+Clay County (Georgia),2017,73.9493638446073
+Clayton County (Georgia),2017,76.5508691906889
+Clinch County (Georgia),2017,72.4247234455474
+Cobb County (Georgia),2017,80.2177640812596
+Coffee County (Georgia),2017,74.4295289710942
+Colquitt County (Georgia),2017,74.0379120198679
+Columbia County (Georgia),2017,79.8999326107972
+Cook County (Georgia),2017,74.3093937088097
+Coweta County (Georgia),2017,78.3648849335877
+Crawford County (Georgia),2017,75.6561888490683
+Crisp County (Georgia),2017,74.6124945203586
+Dade County (Georgia),2017,75.0924029502412
+Dawson County (Georgia),2017,77.8849206643038
+Decatur County (Georgia),2017,73.7088647064192
+DeKalb County (Georgia),2017,79.8238732978234
+Dodge County (Georgia),2017,75.1775460945016
+Dooly County (Georgia),2017,78.2138090959277
+Dougherty County (Georgia),2017,74.3569712282889
+Douglas County (Georgia),2017,77.3960194322986
+Early County (Georgia),2017,73.2371558935003
+Echols County (Georgia),2017,77.0599023389516
+Effingham County (Georgia),2017,76.3909397434421
+Elbert County (Georgia),2017,74.195571787566
+Emanuel County (Georgia),2017,72.6318304928933
+Evans County (Georgia),2017,74.7149148196397
+Fannin County (Georgia),2017,77.0727670886557
+Fayette County (Georgia),2017,80.7682924448471
+Floyd County (Georgia),2017,75.0581302260989
+Forsyth County (Georgia),2017,81.674209211008
+Franklin County (Georgia),2017,73.8725746030686
+Fulton County (Georgia),2017,78.867596065924
+Gilmer County (Georgia),2017,77.9602337939812
+Glascock County (Georgia),2017,73.394960919002
+Glynn County (Georgia),2017,77.1335060809149
+Gordon County (Georgia),2017,75.4706012819472
+Grady County (Georgia),2017,75.5518347037765
+Greene County (Georgia),2017,77.7512340805882
+Gwinnett County (Georgia),2017,80.607617253456
+Habersham County (Georgia),2017,77.3582989596064
+Hall County (Georgia),2017,78.8960139014754
+Hancock County (Georgia),2017,75.3903158501469
+Haralson County (Georgia),2017,73.2656065600872
+Harris County (Georgia),2017,79.295601776848
+Hart County (Georgia),2017,76.8248765683369
+Heard County (Georgia),2017,74.7199641903674
+Henry County (Georgia),2017,77.181720507416
+Houston County (Georgia),2017,77.3383420736599
+Irwin County (Georgia),2017,74.8751692688427
+Jackson County (Georgia),2017,76.2832039775414
+Jasper County (Georgia),2017,75.7749845245545
+Jeff Davis County (Georgia),2017,73.2268902139052
+Jefferson County (Georgia),2017,72.5992407627131
+Jenkins County (Georgia),2017,73.3841998147857
+Johnson County (Georgia),2017,76.0287103065729
+Jones County (Georgia),2017,77.8374428106185
+Lamar County (Georgia),2017,74.3508731721163
+Lanier County (Georgia),2017,75.3835180951939
+Laurens County (Georgia),2017,74.4577525082559
+Lee County (Georgia),2017,76.6914056662725
+Liberty County (Georgia),2017,76.3021109268363
+Lincoln County (Georgia),2017,76.1794942621868
+Long County (Georgia),2017,78.4618707054974
+Lowndes County (Georgia),2017,75.8358035603923
+Lumpkin County (Georgia),2017,77.7101053772346
+McDuffie County (Georgia),2017,73.7738203200434
+McIntosh County (Georgia),2017,79.7108099163917
+Macon County (Georgia),2017,73.7317039474685
+Madison County (Georgia),2017,75.840925411624
+Marion County (Georgia),2017,76.2946453096112
+Meriwether County (Georgia),2017,74.4847266846964
+Miller County (Georgia),2017,73.0734881813492
+Mitchell County (Georgia),2017,74.0885588705262
+Monroe County (Georgia),2017,77.4835874483883
+Montgomery County (Georgia),2017,75.0403904752512
+Morgan County (Georgia),2017,77.3359048444416
+Murray County (Georgia),2017,74.7984649731187
+Muscogee County (Georgia),2017,74.0661905409308
+Newton County (Georgia),2017,76.0968360464372
+Oconee County (Georgia),2017,80.9648939245257
+Oglethorpe County (Georgia),2017,77.6363584185965
+Paulding County (Georgia),2017,78.486927311261
+Peach County (Georgia),2017,73.7058392267195
+Pickens County (Georgia),2017,77.0978924166854
+Pierce County (Georgia),2017,74.2596164151985
+Pike County (Georgia),2017,75.4989917474708
+Polk County (Georgia),2017,73.2748803672115
+Pulaski County (Georgia),2017,77.6666373683592
+Putnam County (Georgia),2017,77.4061176357782
+Quitman County (Georgia),2017,75.3250351764225
+Rabun County (Georgia),2017,76.9944546576478
+Randolph County (Georgia),2017,75.026721238403
+Richmond County (Georgia),2017,73.6808084874035
+Rockdale County (Georgia),2017,77.6033875048851
+Schley County (Georgia),2017,76.9446934911318
+Screven County (Georgia),2017,74.5319377680867
+Seminole County (Georgia),2017,73.47471546866
+Spalding County (Georgia),2017,74.2476675171375
+Stephens County (Georgia),2017,73.3838160708526
+Stewart County (Georgia),2017,74.2587420264588
+Sumter County (Georgia),2017,74.3351110608217
+Talbot County (Georgia),2017,74.577238903621
+Taliaferro County (Georgia),2017,74.243707404434
+Tattnall County (Georgia),2017,74.8428091996403
+Taylor County (Georgia),2017,74.7072893839871
+Telfair County (Georgia),2017,77.1154103933062
+Terrell County (Georgia),2017,73.8546304959187
+Thomas County (Georgia),2017,75.1690114260441
+Tift County (Georgia),2017,74.5509325356242
+Toombs County (Georgia),2017,74.0099217198226
+Towns County (Georgia),2017,77.7915154476499
+Treutlen County (Georgia),2017,74.9031831148421
+Troup County (Georgia),2017,75.0199708516939
+Turner County (Georgia),2017,72.8469366146032
+Twiggs County (Georgia),2017,73.9903104118999
+Union County (Georgia),2017,78.3191047382087
+Upson County (Georgia),2017,73.0634454812341
+Walker County (Georgia),2017,74.8726755445435
+Walton County (Georgia),2017,76.3500790906022
+Ware County (Georgia),2017,73.6841856458992
+Warren County (Georgia),2017,74.1341486349798
+Washington County (Georgia),2017,75.2417260624277
+Wayne County (Georgia),2017,73.9333969783465
+Webster County (Georgia),2017,78.3816983844406
+Wheeler County (Georgia),2017,77.2642870472334
+White County (Georgia),2017,78.6709389268035
+Whitfield County (Georgia),2017,77.0741142029924
+Wilcox County (Georgia),2017,75.185232662392
+Wilkes County (Georgia),2017,74.4532028572855
+Wilkinson County (Georgia),2017,73.899468948531
+Worth County (Georgia),2017,75.3756021723824
+Hawaii County (Hawaii),2017,79.9425284447821
+Honolulu County (Hawaii),2017,81.4815425146768
+Kauai County (Hawaii),2017,81.4003396135632
+Kalawao County (Hawaii),2017,81.6543838489769
+Maui County (Hawaii),2017,81.6543838489769
+Ada County (Idaho),2017,80.5623842009789
+Adams County (Idaho),2017,80.3383008383321
+Bannock County (Idaho),2017,77.0815703316482
+Bear Lake County (Idaho),2017,78.6908575063961
+Benewah County (Idaho),2017,75.8859597671621
+Bingham County (Idaho),2017,77.6665768597815
+Blaine County (Idaho),2017,83.4393094989314
+Boise County (Idaho),2017,81.5021931629867
+Bonner County (Idaho),2017,79.1268722534252
+Bonneville County (Idaho),2017,78.0782835953423
+Boundary County (Idaho),2017,78.778005160812
+Butte County (Idaho),2017,78.5234579408874
+Camas County (Idaho),2017,80.4593265207532
+Canyon County (Idaho),2017,78.7489164303773
+Caribou County (Idaho),2017,77.8388667927639
+Cassia County (Idaho),2017,77.8325520962545
+Clearwater County (Idaho),2017,78.379963737021
+Custer County (Idaho),2017,79.951099479515
+Elmore County (Idaho),2017,77.918383848112
+Franklin County (Idaho),2017,79.1447410708704
+Fremont County (Idaho),2017,79.4389751618535
+Gem County (Idaho),2017,77.6719700457143
+Gooding County (Idaho),2017,78.253717162963
+Idaho County (Idaho),2017,79.4547826542974
+Jefferson County (Idaho),2017,79.4779359870935
+Jerome County (Idaho),2017,78.1575616125321
+Kootenai County (Idaho),2017,79.1120709346287
+Latah County (Idaho),2017,81.4221459137631
+Lemhi County (Idaho),2017,78.4546129208234
+Lewis County (Idaho),2017,78.3617255307179
+Lincoln County (Idaho),2017,77.8110567313034
+Madison County (Idaho),2017,80.621725401297
+Minidoka County (Idaho),2017,78.141432021773
+Nez Perce County (Idaho),2017,77.2504514902428
+Oneida County (Idaho),2017,79.3973376463542
+Owyhee County (Idaho),2017,78.6823500532035
+Payette County (Idaho),2017,77.8043755447408
+Power County (Idaho),2017,77.8037327635134
+Shoshone County (Idaho),2017,75.3537133511927
+Teton County (Idaho),2017,82.5671260543516
+Twin Falls County (Idaho),2017,77.9385535745854
+Valley County (Idaho),2017,81.8419253340933
+Washington County (Idaho),2017,78.2033448393429
+Adams County (Illinois),2017,78.0555591364872
+Alexander County (Illinois),2017,73.7122376024094
+Bond County (Illinois),2017,78.328040242306
+Boone County (Illinois),2017,79.5933283432418
+Brown County (Illinois),2017,77.9649694032623
+Bureau County (Illinois),2017,78.3903488313218
+Calhoun County (Illinois),2017,78.6746694724148
+Carroll County (Illinois),2017,78.4788340806577
+Cass County (Illinois),2017,76.6722980559395
+Champaign County (Illinois),2017,80.3599077395168
+Christian County (Illinois),2017,76.8474772233345
+Clark County (Illinois),2017,76.5964413369319
+Clay County (Illinois),2017,76.6791255779274
+Clinton County (Illinois),2017,79.2137711947773
+Coles County (Illinois),2017,78.0090220455468
+Cook County (Illinois),2017,79.157632730843
+Crawford County (Illinois),2017,77.1073405440888
+Cumberland County (Illinois),2017,78.5009331229403
+DeKalb County (Illinois),2017,79.5236808933938
+De Witt County (Illinois),2017,76.730836168955
+Douglas County (Illinois),2017,78.4747837060648
+DuPage County (Illinois),2017,82.0870228400336
+Edgar County (Illinois),2017,76.3416636689184
+Edwards County (Illinois),2017,76.7425461064023
+Effingham County (Illinois),2017,78.0519293404532
+Fayette County (Illinois),2017,77.8973824818473
+Ford County (Illinois),2017,76.3079639701953
+Franklin County (Illinois),2017,74.7216371828841
+Fulton County (Illinois),2017,76.4723359464906
+Gallatin County (Illinois),2017,73.8309404493299
+Greene County (Illinois),2017,76.6305162217468
+Grundy County (Illinois),2017,78.1831270801367
+Hamilton County (Illinois),2017,76.9686648400877
+Hancock County (Illinois),2017,79.3939483977973
+Hardin County (Illinois),2017,74.1872829546433
+Henderson County (Illinois),2017,78.2607824961669
+Henry County (Illinois),2017,78.8633621086305
+Iroquois County (Illinois),2017,76.0686838560546
+Jackson County (Illinois),2017,78.2238529306992
+Jasper County (Illinois),2017,78.6303660077961
+Jefferson County (Illinois),2017,76.4793684714383
+Jersey County (Illinois),2017,76.8398555245152
+Jo Daviess County (Illinois),2017,80.5985064595928
+Johnson County (Illinois),2017,77.830301599502
+Kane County (Illinois),2017,81.1764982165447
+Kankakee County (Illinois),2017,76.9224743640989
+Kendall County (Illinois),2017,81.0822192454337
+Knox County (Illinois),2017,76.4530799533177
+Lake County (Illinois),2017,81.233286165799
+LaSalle County (Illinois),2017,76.9203147479907
+Lawrence County (Illinois),2017,75.580987197963
+Lee County (Illinois),2017,77.9323802056279
+Livingston County (Illinois),2017,76.7108390543287
+Logan County (Illinois),2017,77.2926126571723
+McDonough County (Illinois),2017,78.4557472154314
+McHenry County (Illinois),2017,80.3407060287473
+McLean County (Illinois),2017,79.766908163326
+Macon County (Illinois),2017,77.0148354880899
+Macoupin County (Illinois),2017,77.05419840319
+Madison County (Illinois),2017,76.5154934783538
+Marion County (Illinois),2017,74.8214776499557
+Marshall County (Illinois),2017,76.6665442819204
+Mason County (Illinois),2017,76.3193685040813
+Massac County (Illinois),2017,74.8928782075179
+Menard County (Illinois),2017,78.2678365504556
+Mercer County (Illinois),2017,78.2412765472682
+Monroe County (Illinois),2017,80.5116511678593
+Montgomery County (Illinois),2017,77.1523427111279
+Morgan County (Illinois),2017,77.1896118620297
+Moultrie County (Illinois),2017,77.4457908520439
+Ogle County (Illinois),2017,78.6258891413636
+Peoria County (Illinois),2017,77.2546679931588
+Perry County (Illinois),2017,76.8164588050926
+Piatt County (Illinois),2017,79.0007582016943
+Pike County (Illinois),2017,77.4125154218844
+Pope County (Illinois),2017,77.7451228473583
+Pulaski County (Illinois),2017,74.3189868611745
+Putnam County (Illinois),2017,78.7812364234101
+Randolph County (Illinois),2017,77.2678606216655
+Richland County (Illinois),2017,77.2531551916998
+Rock Island County (Illinois),2017,77.9320956932001
+Saint Clair County (Illinois),2017,76.2552331300372
+Saline County (Illinois),2017,73.7482085471059
+Sangamon County (Illinois),2017,77.7491183874606
+Schuyler County (Illinois),2017,77.6095741823402
+Scott County (Illinois),2017,77.2843042095723
+Shelby County (Illinois),2017,79.2089117617502
+Stark County (Illinois),2017,76.6097376551672
+Stephenson County (Illinois),2017,78.7432526017161
+Tazewell County (Illinois),2017,78.2725743150662
+Union County (Illinois),2017,75.8723955567275
+Vermilion County (Illinois),2017,75.1124484854821
+Wabash County (Illinois),2017,77.7827054848031
+Warren County (Illinois),2017,78.0481878343776
+Washington County (Illinois),2017,78.4912721636025
+Wayne County (Illinois),2017,76.9666743433746
+White County (Illinois),2017,75.2679042005485
+Whiteside County (Illinois),2017,77.9074910103982
+Will County (Illinois),2017,79.623864604701
+Williamson County (Illinois),2017,76.6567810997299
+Winnebago County (Illinois),2017,76.7404079763326
+Woodford County (Illinois),2017,79.7338721243492
+Adams County (Indiana),2017,78.4062056414824
+Allen County (Indiana),2017,77.1184562486351
+Bartholomew County (Indiana),2017,77.6368890844439
+Benton County (Indiana),2017,77.5239716021756
+Blackford County (Indiana),2017,75.3967305759086
+Boone County (Indiana),2017,78.4355457877624
+Brown County (Indiana),2017,78.8505089127972
+Carroll County (Indiana),2017,79.0461140279017
+Cass County (Indiana),2017,76.4155522812518
+Clark County (Indiana),2017,75.0518938479591
+Clay County (Indiana),2017,75.9323336532673
+Clinton County (Indiana),2017,76.3473297229287
+Crawford County (Indiana),2017,74.7835221852556
+Daviess County (Indiana),2017,76.1257190897335
+Dearborn County (Indiana),2017,77.1523365765038
+Decatur County (Indiana),2017,76.6065089899634
+DeKalb County (Indiana),2017,76.8812411864026
+Delaware County (Indiana),2017,75.2689645261902
+Dubois County (Indiana),2017,78.5848466105183
+Elkhart County (Indiana),2017,78.2422213348993
+Fayette County (Indiana),2017,73.2087453450096
+Floyd County (Indiana),2017,76.2710399606671
+Fountain County (Indiana),2017,76.0967879709921
+Franklin County (Indiana),2017,77.8939739279784
+Fulton County (Indiana),2017,75.6887770465186
+Gibson County (Indiana),2017,77.1347614661409
+Grant County (Indiana),2017,74.7686510123943
+Greene County (Indiana),2017,76.185370389545
+Hamilton County (Indiana),2017,81.5537810038123
+Hancock County (Indiana),2017,78.1833909979154
+Harrison County (Indiana),2017,76.7637183012055
+Hendricks County (Indiana),2017,79.2969869671896
+Henry County (Indiana),2017,75.1557046187798
+Howard County (Indiana),2017,75.0396098594706
+Huntington County (Indiana),2017,76.843281137231
+Jackson County (Indiana),2017,75.3484149574253
+Jasper County (Indiana),2017,77.0111364633553
+Jay County (Indiana),2017,75.3225726610201
+Jefferson County (Indiana),2017,75.1494097616655
+Jennings County (Indiana),2017,73.9693600436412
+Johnson County (Indiana),2017,77.9319760567759
+Knox County (Indiana),2017,75.359604783233
+Kosciusko County (Indiana),2017,77.9759814704766
+LaGrange County (Indiana),2017,78.8489190816116
+Lake County (Indiana),2017,76.141144551419
+LaPorte County (Indiana),2017,75.7697358625553
+Lawrence County (Indiana),2017,75.7738528069243
+Madison County (Indiana),2017,75.2533570590286
+Marion County (Indiana),2017,75.7615013990357
+Marshall County (Indiana),2017,78.289885730806
+Martin County (Indiana),2017,77.00069914002
+Miami County (Indiana),2017,76.4386080008385
+Monroe County (Indiana),2017,79.8990716368073
+Montgomery County (Indiana),2017,76.9734069831095
+Morgan County (Indiana),2017,76.3880453658001
+Newton County (Indiana),2017,76.283509979691
+Noble County (Indiana),2017,76.8636950036273
+Ohio County (Indiana),2017,77.1749458140659
+Orange County (Indiana),2017,75.6359814286848
+Owen County (Indiana),2017,75.9317282037022
+Parke County (Indiana),2017,77.8551585647584
+Perry County (Indiana),2017,76.872187854762
+Pike County (Indiana),2017,76.2656911941059
+Porter County (Indiana),2017,78.1023092322929
+Posey County (Indiana),2017,78.1948673386215
+Pulaski County (Indiana),2017,75.5337366344658
+Putnam County (Indiana),2017,77.513462153906
+Randolph County (Indiana),2017,75.9955099292241
+Ripley County (Indiana),2017,76.6786184213122
+Rush County (Indiana),2017,75.7747683197417
+Saint Joseph County (Indiana),2017,76.9280841152533
+Scott County (Indiana),2017,71.7793997176809
+Shelby County (Indiana),2017,76.7670703382821
+Spencer County (Indiana),2017,78.1060419523875
+Starke County (Indiana),2017,73.7937843200375
+Steuben County (Indiana),2017,78.6949100917122
+Sullivan County (Indiana),2017,75.1200188595805
+Switzerland County (Indiana),2017,75.4004572635387
+Tippecanoe County (Indiana),2017,79.1435463009051
+Tipton County (Indiana),2017,77.7473377077031
+Union County (Indiana),2017,75.9632359500566
+Vanderburgh County (Indiana),2017,76.1675819006606
+Vermillion County (Indiana),2017,74.8502861663619
+Vigo County (Indiana),2017,75.7145644381981
+Wabash County (Indiana),2017,75.8889509245659
+Warren County (Indiana),2017,78.4461994137781
+Warrick County (Indiana),2017,78.5857950061115
+Washington County (Indiana),2017,74.6414175232495
+Wayne County (Indiana),2017,74.3338733785861
+Wells County (Indiana),2017,77.9214866340531
+White County (Indiana),2017,76.9014590005706
+Whitley County (Indiana),2017,78.6749626069212
+Adair County (Iowa),2017,78.0811397489124
+Adams County (Iowa),2017,78.262211852725
+Allamakee County (Iowa),2017,79.1578888531795
+Appanoose County (Iowa),2017,76.6869177760963
+Audubon County (Iowa),2017,78.4300927064988
+Benton County (Iowa),2017,80.3309943339669
+Black Hawk County (Iowa),2017,78.5930977209139
+Boone County (Iowa),2017,78.5035645066814
+Bremer County (Iowa),2017,81.5256046873392
+Buchanan County (Iowa),2017,78.9216697892563
+Buena Vista County (Iowa),2017,79.973713676688
+Butler County (Iowa),2017,78.9178811329782
+Calhoun County (Iowa),2017,78.4819058192929
+Carroll County (Iowa),2017,79.5282919123936
+Cass County (Iowa),2017,77.136387620242
+Cedar County (Iowa),2017,80.9365180717705
+Cerro Gordo County (Iowa),2017,78.6051535674251
+Cherokee County (Iowa),2017,79.3259095082494
+Chickasaw County (Iowa),2017,79.6161742574868
+Clarke County (Iowa),2017,77.2379717359897
+Clay County (Iowa),2017,79.5487789169896
+Clayton County (Iowa),2017,80.3298395563518
+Clinton County (Iowa),2017,77.7074693155132
+Crawford County (Iowa),2017,79.0264001299655
+Dallas County (Iowa),2017,82.1243909626283
+Davis County (Iowa),2017,78.9421565557115
+Decatur County (Iowa),2017,78.1202832968409
+Delaware County (Iowa),2017,80.1949593435348
+Des Moines County (Iowa),2017,78.026963716468
+Dickinson County (Iowa),2017,80.579010326073
+Dubuque County (Iowa),2017,80.1141040504058
+Emmet County (Iowa),2017,78.5303208873619
+Fayette County (Iowa),2017,78.475251602752
+Floyd County (Iowa),2017,79.408582140531
+Franklin County (Iowa),2017,79.5748805197427
+Fremont County (Iowa),2017,77.8324153664602
+Greene County (Iowa),2017,78.5988168813813
+Grundy County (Iowa),2017,80.4356536862476
+Guthrie County (Iowa),2017,79.2599230077317
+Hamilton County (Iowa),2017,79.8534043611743
+Hancock County (Iowa),2017,80.4966677270879
+Hardin County (Iowa),2017,79.0417825551162
+Harrison County (Iowa),2017,77.1904751293824
+Henry County (Iowa),2017,78.5868703249332
+Howard County (Iowa),2017,79.0974009142343
+Humboldt County (Iowa),2017,79.57982460758
+Ida County (Iowa),2017,78.1415939399116
+Iowa County (Iowa),2017,79.4406230461752
+Jackson County (Iowa),2017,78.8871755150653
+Jasper County (Iowa),2017,79.0375990221708
+Jefferson County (Iowa),2017,79.9189156141171
+Johnson County (Iowa),2017,82.2822944126182
+Jones County (Iowa),2017,80.5144603092609
+Keokuk County (Iowa),2017,79.5160124468944
+Kossuth County (Iowa),2017,80.4770560979845
+Lee County (Iowa),2017,76.2751575520909
+Linn County (Iowa),2017,80.2303424015715
+Louisa County (Iowa),2017,78.5788470550303
+Lucas County (Iowa),2017,78.1114617832566
+Lyon County (Iowa),2017,80.8927150722829
+Madison County (Iowa),2017,79.2701308214249
+Mahaska County (Iowa),2017,78.6642596738887
+Marion County (Iowa),2017,78.7389493680463
+Marshall County (Iowa),2017,77.161211336891
+Mills County (Iowa),2017,78.141341612534
+Mitchell County (Iowa),2017,80.1010721303503
+Monona County (Iowa),2017,76.6889621347075
+Monroe County (Iowa),2017,76.7435432105546
+Montgomery County (Iowa),2017,77.1130147460912
+Muscatine County (Iowa),2017,78.6192649746483
+O'Brien County (Iowa),2017,79.0116316231126
+Osceola County (Iowa),2017,79.744479354224
+Page County (Iowa),2017,78.0318646885175
+Palo Alto County (Iowa),2017,78.7354521514244
+Plymouth County (Iowa),2017,80.0398072711535
+Pocahontas County (Iowa),2017,77.6099766517486
+Polk County (Iowa),2017,78.8638020999168
+Pottawattamie County (Iowa),2017,77.7078560944376
+Poweshiek County (Iowa),2017,79.0642909922253
+Ringgold County (Iowa),2017,77.8449231237129
+Sac County (Iowa),2017,78.782643173981
+Scott County (Iowa),2017,78.8689353561669
+Shelby County (Iowa),2017,79.8301050047321
+Sioux County (Iowa),2017,82.8281480858219
+Story County (Iowa),2017,82.0258731485556
+Tama County (Iowa),2017,78.2155150089854
+Taylor County (Iowa),2017,78.647341651423
+Union County (Iowa),2017,77.5095653038828
+Van Buren County (Iowa),2017,77.3457206170292
+Wapello County (Iowa),2017,76.667273184577
+Warren County (Iowa),2017,79.6052568343068
+Washington County (Iowa),2017,79.3371274203564
+Wayne County (Iowa),2017,77.1368005099372
+Webster County (Iowa),2017,76.9181760396132
+Winnebago County (Iowa),2017,79.5818527265812
+Winneshiek County (Iowa),2017,81.9956172344947
+Woodbury County (Iowa),2017,77.4667437631092
+Worth County (Iowa),2017,78.7732666745037
+Wright County (Iowa),2017,79.2401867184599
+Allen County (Kansas),2017,75.7961296328286
+Anderson County (Kansas),2017,77.3096567417183
+Atchison County (Kansas),2017,76.8634036874542
+Barber County (Kansas),2017,75.9842631826887
+Barton County (Kansas),2017,77.4904112152262
+Bourbon County (Kansas),2017,75.5172458415005
+Brown County (Kansas),2017,76.122641688442
+Butler County (Kansas),2017,77.3048957452463
+Chase County (Kansas),2017,77.3094374993631
+Chautauqua County (Kansas),2017,75.6653212051809
+Cherokee County (Kansas),2017,74.1451587888701
+Cheyenne County (Kansas),2017,79.7416802282723
+Clark County (Kansas),2017,78.1679514583678
+Clay County (Kansas),2017,78.9384258226644
+Cloud County (Kansas),2017,76.8230472290077
+Coffey County (Kansas),2017,76.9577152690927
+Comanche County (Kansas),2017,74.8230473772719
+Cowley County (Kansas),2017,75.1769842432043
+Crawford County (Kansas),2017,75.6698696426118
+Decatur County (Kansas),2017,78.342794934689
+Dickinson County (Kansas),2017,77.4518075646912
+Doniphan County (Kansas),2017,78.0990196970415
+Douglas County (Kansas),2017,80.3148330549871
+Edwards County (Kansas),2017,75.8254643685623
+Elk County (Kansas),2017,75.4228928636308
+Ellis County (Kansas),2017,79.1267364203483
+Ellsworth County (Kansas),2017,77.285408902692
+Finney County (Kansas),2017,78.6832438085302
+Ford County (Kansas),2017,77.7764202200801
+Franklin County (Kansas),2017,76.8980145266538
+Geary County (Kansas),2017,75.7325989254904
+Gove County (Kansas),2017,78.9994965148148
+Graham County (Kansas),2017,78.8256740777329
+Grant County (Kansas),2017,77.6012127288512
+Gray County (Kansas),2017,78.5625442438442
+Greeley County (Kansas),2017,77.4297545273833
+Greenwood County (Kansas),2017,75.6273086774015
+Hamilton County (Kansas),2017,76.5859680636821
+Harper County (Kansas),2017,74.8164897442563
+Harvey County (Kansas),2017,78.2910352438524
+Haskell County (Kansas),2017,78.4665451968959
+Hodgeman County (Kansas),2017,79.1754577514837
+Jackson County (Kansas),2017,77.6656400541727
+Jefferson County (Kansas),2017,78.3531580202094
+Jewell County (Kansas),2017,78.6304726992006
+Johnson County (Kansas),2017,81.4004138800271
+Kearny County (Kansas),2017,77.1268834305723
+Kingman County (Kansas),2017,74.6581381530606
+Kiowa County (Kansas),2017,78.626574001732
+Labette County (Kansas),2017,74.857804407408
+Lane County (Kansas),2017,76.0885101218879
+Leavenworth County (Kansas),2017,78.751027029372
+Lincoln County (Kansas),2017,78.421504967925
+Linn County (Kansas),2017,77.0689639336192
+Logan County (Kansas),2017,77.9291998338467
+Lyon County (Kansas),2017,78.3682767829173
+McPherson County (Kansas),2017,77.9462276566495
+Marion County (Kansas),2017,78.1109903362761
+Marshall County (Kansas),2017,78.5009900629576
+Meade County (Kansas),2017,78.0559289657112
+Miami County (Kansas),2017,79.0578424360307
+Mitchell County (Kansas),2017,77.8753455212892
+Montgomery County (Kansas),2017,74.9343686956559
+Morris County (Kansas),2017,78.2783422056036
+Morton County (Kansas),2017,76.3487361461559
+Nemaha County (Kansas),2017,79.1440100364849
+Neosho County (Kansas),2017,76.3360708324616
+Ness County (Kansas),2017,77.5690539442575
+Norton County (Kansas),2017,78.3331397161034
+Osage County (Kansas),2017,76.8977431330722
+Osborne County (Kansas),2017,77.7845505183051
+Ottawa County (Kansas),2017,76.7996231440693
+Pawnee County (Kansas),2017,76.5005682858623
+Phillips County (Kansas),2017,77.6002187894733
+Pottawatomie County (Kansas),2017,79.6350783270286
+Pratt County (Kansas),2017,77.1617135972764
+Rawlins County (Kansas),2017,78.3916947397136
+Reno County (Kansas),2017,77.2667460843186
+Republic County (Kansas),2017,77.8788687159204
+Rice County (Kansas),2017,76.2753845880505
+Riley County (Kansas),2017,80.6584894992662
+Rooks County (Kansas),2017,77.7052623173995
+Rush County (Kansas),2017,76.9861392214814
+Russell County (Kansas),2017,78.0304497540558
+Saline County (Kansas),2017,77.6883743496995
+Scott County (Kansas),2017,78.5341272727461
+Sedgwick County (Kansas),2017,77.1677455537699
+Seward County (Kansas),2017,77.7503279510539
+Shawnee County (Kansas),2017,77.0170216775851
+Sheridan County (Kansas),2017,78.9827922588643
+Sherman County (Kansas),2017,77.2907845533393
+Smith County (Kansas),2017,78.1551531740322
+Stafford County (Kansas),2017,76.6114095777914
+Stanton County (Kansas),2017,78.4005274424325
+Stevens County (Kansas),2017,77.7152052385473
+Sumner County (Kansas),2017,76.4535211929398
+Thomas County (Kansas),2017,78.0514779900795
+Trego County (Kansas),2017,77.6721084114231
+Wabaunsee County (Kansas),2017,78.6127190158048
+Wallace County (Kansas),2017,79.8595374958064
+Washington County (Kansas),2017,79.0774692134267
+Wichita County (Kansas),2017,78.668692510767
+Wilson County (Kansas),2017,75.3833763134334
+Woodson County (Kansas),2017,75.1480269593545
+Wyandotte County (Kansas),2017,75.5376909913176
+Adair County (Kentucky),2017,76.3245577659512
+Allen County (Kentucky),2017,74.843909575268
+Anderson County (Kentucky),2017,75.7682796961294
+Ballard County (Kentucky),2017,74.6553719541995
+Barren County (Kentucky),2017,75.456625574196
+Bath County (Kentucky),2017,72.9701367501876
+Bell County (Kentucky),2017,70.8267217044899
+Boone County (Kentucky),2017,78.6495245947593
+Bourbon County (Kentucky),2017,75.6521564610924
+Boyd County (Kentucky),2017,74.0563147645224
+Boyle County (Kentucky),2017,76.59368285758
+Bracken County (Kentucky),2017,73.718323270875
+Breathitt County (Kentucky),2017,69.2609605128975
+Breckinridge County (Kentucky),2017,75.2389272164982
+Bullitt County (Kentucky),2017,77.8882711549783
+Butler County (Kentucky),2017,74.7184072222347
+Caldwell County (Kentucky),2017,74.8268742312763
+Calloway County (Kentucky),2017,76.862716555691
+Campbell County (Kentucky),2017,77.1498339900952
+Carlisle County (Kentucky),2017,74.9087814583075
+Carroll County (Kentucky),2017,72.0148573351565
+Carter County (Kentucky),2017,73.6288371443813
+Casey County (Kentucky),2017,74.4333092348352
+Christian County (Kentucky),2017,74.9424189914068
+Clark County (Kentucky),2017,74.5092629454742
+Clay County (Kentucky),2017,70.563081908271
+Clinton County (Kentucky),2017,73.3985556532123
+Crittenden County (Kentucky),2017,74.2015185440368
+Cumberland County (Kentucky),2017,73.381908142814
+Daviess County (Kentucky),2017,76.6570136775688
+Edmonson County (Kentucky),2017,76.0844186435652
+Elliott County (Kentucky),2017,75.2441125185792
+Estill County (Kentucky),2017,71.7780145171002
+Fayette County (Kentucky),2017,78.2035829700602
+Fleming County (Kentucky),2017,73.3210173729638
+Floyd County (Kentucky),2017,70.4392039445397
+Franklin County (Kentucky),2017,75.9049645319759
+Fulton County (Kentucky),2017,72.0140308328663
+Gallatin County (Kentucky),2017,72.2162006881891
+Garrard County (Kentucky),2017,76.9282776445789
+Grant County (Kentucky),2017,73.9418367348515
+Graves County (Kentucky),2017,75.0222143863131
+Grayson County (Kentucky),2017,73.4013115187795
+Green County (Kentucky),2017,75.4644041062953
+Greenup County (Kentucky),2017,74.4307057552755
+Hancock County (Kentucky),2017,75.9145445895689
+Hardin County (Kentucky),2017,76.7576725790934
+Harlan County (Kentucky),2017,69.8040928214318
+Harrison County (Kentucky),2017,74.01784084432
+Hart County (Kentucky),2017,74.5273724620217
+Henderson County (Kentucky),2017,75.5696844373218
+Henry County (Kentucky),2017,74.4806506833053
+Hickman County (Kentucky),2017,76.1122453565231
+Hopkins County (Kentucky),2017,73.9809925873242
+Jackson County (Kentucky),2017,72.3067164530153
+Jefferson County (Kentucky),2017,75.8611881500278
+Jessamine County (Kentucky),2017,76.9857584065302
+Johnson County (Kentucky),2017,72.1496529653505
+Kenton County (Kentucky),2017,75.8197236888713
+Knott County (Kentucky),2017,71.6847998623049
+Knox County (Kentucky),2017,72.0589315159246
+Larue County (Kentucky),2017,75.1756362148199
+Laurel County (Kentucky),2017,74.3741796464688
+Lawrence County (Kentucky),2017,71.5495128530174
+Lee County (Kentucky),2017,70.7339224174525
+Leslie County (Kentucky),2017,69.8710534328241
+Letcher County (Kentucky),2017,70.9868655984605
+Lewis County (Kentucky),2017,72.8184507240136
+Lincoln County (Kentucky),2017,74.1691940960378
+Livingston County (Kentucky),2017,74.5642752384381
+Logan County (Kentucky),2017,75.2153627590409
+Lyon County (Kentucky),2017,76.023565601507
+McCracken County (Kentucky),2017,75.891595871494
+McCreary County (Kentucky),2017,71.5380944781471
+McLean County (Kentucky),2017,74.543316521358
+Madison County (Kentucky),2017,76.3724215973693
+Magoffin County (Kentucky),2017,71.5414319772871
+Marion County (Kentucky),2017,75.4108346411277
+Marshall County (Kentucky),2017,75.3758972330103
+Martin County (Kentucky),2017,71.8722724073635
+Mason County (Kentucky),2017,73.6966694554166
+Meade County (Kentucky),2017,76.3193840199752
+Menifee County (Kentucky),2017,73.5933363146866
+Mercer County (Kentucky),2017,74.5994011920089
+Metcalfe County (Kentucky),2017,73.7449401547919
+Monroe County (Kentucky),2017,72.7874034181665
+Montgomery County (Kentucky),2017,74.2667936811196
+Morgan County (Kentucky),2017,74.8982583143211
+Muhlenberg County (Kentucky),2017,74.3114309786504
+Nelson County (Kentucky),2017,76.2476922920368
+Nicholas County (Kentucky),2017,72.041334726532
+Ohio County (Kentucky),2017,74.9765912318302
+Oldham County (Kentucky),2017,79.3028347030904
+Owen County (Kentucky),2017,75.0634976779946
+Owsley County (Kentucky),2017,69.3205771145881
+Pendleton County (Kentucky),2017,73.8626246292855
+Perry County (Kentucky),2017,68.6554429827254
+Pike County (Kentucky),2017,71.8265250745669
+Powell County (Kentucky),2017,70.0713723654983
+Pulaski County (Kentucky),2017,73.7920437809626
+Robertson County (Kentucky),2017,73.6900784289473
+Rockcastle County (Kentucky),2017,73.5969028884271
+Rowan County (Kentucky),2017,74.9238027278143
+Russell County (Kentucky),2017,73.9105117952019
+Scott County (Kentucky),2017,76.9299466803277
+Shelby County (Kentucky),2017,78.0122960424419
+Simpson County (Kentucky),2017,74.6275190554539
+Spencer County (Kentucky),2017,77.3030321501648
+Taylor County (Kentucky),2017,75.1539187128359
+Todd County (Kentucky),2017,74.8456161721076
+Trigg County (Kentucky),2017,75.9419758951303
+Trimble County (Kentucky),2017,74.4105811986752
+Union County (Kentucky),2017,74.0353958740985
+Warren County (Kentucky),2017,76.9046897173168
+Washington County (Kentucky),2017,76.2558604433231
+Wayne County (Kentucky),2017,75.5508495249673
+Webster County (Kentucky),2017,73.9645722885221
+Whitley County (Kentucky),2017,71.0290042519955
+Wolfe County (Kentucky),2017,69.9249750577052
+Woodford County (Kentucky),2017,77.4357246729705
+Acadia Parish (Louisiana),2017,73.9999754497315
+Allen Parish (Louisiana),2017,75.2938619597064
+Ascension Parish (Louisiana),2017,78.1400214289107
+Assumption Parish (Louisiana),2017,76.2048620601144
+Avoyelles Parish (Louisiana),2017,73.383250032882
+Beauregard Parish (Louisiana),2017,74.7453508149396
+Bienville Parish (Louisiana),2017,73.1552575951714
+Bossier Parish (Louisiana),2017,76.9019549744133
+Caddo Parish (Louisiana),2017,74.0892417589714
+Calcasieu Parish (Louisiana),2017,74.7195012336518
+Caldwell Parish (Louisiana),2017,73.172974150298
+Cameron Parish (Louisiana),2017,78.6142837672468
+Catahoula Parish (Louisiana),2017,72.2914391978936
+Claiborne Parish (Louisiana),2017,75.0410473299127
+Concordia Parish (Louisiana),2017,72.8393410308841
+De Soto Parish (Louisiana),2017,74.5830462907065
+East Baton Rouge Parish (Louisiana),2017,75.6287801572283
+East Carroll Parish (Louisiana),2017,71.2711490673257
+East Feliciana Parish (Louisiana),2017,72.6744411427321
+Evangeline Parish (Louisiana),2017,72.898015645593
+Franklin Parish (Louisiana),2017,73.1412850404843
+Grant Parish (Louisiana),2017,74.4717742079639
+Iberia Parish (Louisiana),2017,74.3020596431098
+Iberville Parish (Louisiana),2017,74.7368865887369
+Jackson Parish (Louisiana),2017,74.9586061926645
+Jefferson Parish (Louisiana),2017,76.7515066559683
+Jefferson Davis Parish (Louisiana),2017,73.6446757398576
+Lafayette Parish (Louisiana),2017,77.7881501766723
+Lafourche Parish (Louisiana),2017,76.5125738414607
+LaSalle Parish (Louisiana),2017,74.338445111795
+Lincoln Parish (Louisiana),2017,76.9879291582876
+Livingston Parish (Louisiana),2017,75.8628748912791
+Madison Parish (Louisiana),2017,71.7069148556603
+Morehouse Parish (Louisiana),2017,71.8105513770585
+Natchitoches Parish (Louisiana),2017,74.2776101577801
+Orleans Parish (Louisiana),2017,76.0745049208213
+Ouachita Parish (Louisiana),2017,74.521021721566
+Plaquemines Parish (Louisiana),2017,77.0521429634431
+Pointe Coupee Parish (Louisiana),2017,75.2229229356683
+Rapides Parish (Louisiana),2017,73.8140071390589
+Red River Parish (Louisiana),2017,73.5351452891995
+Richland Parish (Louisiana),2017,73.6606520539197
+Sabine Parish (Louisiana),2017,75.0158059018257
+Saint Bernard Parish (Louisiana),2017,74.5665902137119
+Saint Charles Parish (Louisiana),2017,76.9251362926224
+Saint Helena Parish (Louisiana),2017,74.0229547528418
+Saint James Parish (Louisiana),2017,76.3671650940778
+Saint John the Baptist Parish (Louisiana),2017,74.6477944497544
+Saint Landry Parish (Louisiana),2017,72.531267637827
+Saint Martin Parish (Louisiana),2017,75.4370241604488
+Saint Mary Parish (Louisiana),2017,74.4792916479934
+Saint Tammany Parish (Louisiana),2017,77.8280585745834
+Tangipahoa Parish (Louisiana),2017,74.1844298289299
+Tensas Parish (Louisiana),2017,73.9093637502654
+Terrebonne Parish (Louisiana),2017,75.0133713474946
+Union Parish (Louisiana),2017,74.8131985540207
+Vermilion Parish (Louisiana),2017,76.3874843279442
+Vernon Parish (Louisiana),2017,74.6974077814184
+Washington Parish (Louisiana),2017,72.1215364641443
+Webster Parish (Louisiana),2017,73.5601117120773
+West Baton Rouge Parish (Louisiana),2017,76.5948475100227
+West Carroll Parish (Louisiana),2017,74.2181518393564
+West Feliciana Parish (Louisiana),2017,76.9155464188706
+Winn Parish (Louisiana),2017,74.3820209350033
+Androscoggin County (Maine),2017,77.220361186627
+Aroostook County (Maine),2017,78.0602019451522
+Cumberland County (Maine),2017,80.0647447522546
+Franklin County (Maine),2017,78.1138288380044
+Hancock County (Maine),2017,79.1739267645802
+Kennebec County (Maine),2017,77.9917372269149
+Knox County (Maine),2017,78.8385057474004
+Lincoln County (Maine),2017,79.4427461737673
+Oxford County (Maine),2017,77.8658543412625
+Penobscot County (Maine),2017,77.681599449285
+Piscataquis County (Maine),2017,76.7312703182003
+Sagadahoc County (Maine),2017,79.7663212770084
+Somerset County (Maine),2017,76.6534851388324
+Waldo County (Maine),2017,78.7244527205402
+Washington County (Maine),2017,76.0867017251121
+York County (Maine),2017,79.2594629976227
+Allegany County (Maryland),2017,76.4574082090383
+Anne Arundel County (Maryland),2017,79.1395334082719
+Baltimore County (Maryland),2017,78.2377312364355
+Calvert County (Maryland),2017,79.2426384753014
+Caroline County (Maryland),2017,76.1239394226819
+Carroll County (Maryland),2017,78.7180042495561
+Cecil County (Maryland),2017,76.0571235520906
+Charles County (Maryland),2017,78.6004729581799
+Dorchester County (Maryland),2017,76.5099830190935
+Frederick County (Maryland),2017,80.1712646505144
+Garrett County (Maryland),2017,78.0071575169985
+Harford County (Maryland),2017,78.8209386983286
+Howard County (Maryland),2017,82.713381318342
+Kent County (Maryland),2017,78.5977865777154
+Queen Anne's County (Maryland),2017,79.500887085098
+Saint Mary's County (Maryland),2017,78.5788652210215
+Somerset County (Maryland),2017,76.2943960109268
+Talbot County (Maryland),2017,80.7226857430427
+Washington County (Maryland),2017,77.0675186362717
+Wicomico County (Maryland),2017,76.5490721595539
+Worcester County (Maryland),2017,79.0249334117204
+Baltimore City (Maryland),2017,72.5981949363835
+Montgomery County (Maryland),2017,81.7818741974575
+Prince George's County (Maryland),2017,81.7818741974575
+Barnstable County (Massachusetts),2017,79.5390778971791
+Berkshire County (Massachusetts),2017,79.0372299533914
+Bristol County (Massachusetts),2017,78.6671970723895
+Dukes County (Massachusetts),2017,81.5256106703457
+Essex County (Massachusetts),2017,80.1041400719582
+Franklin County (Massachusetts),2017,79.805945718457
+Hampden County (Massachusetts),2017,78.1952854231563
+Hampshire County (Massachusetts),2017,80.8431215083583
+Middlesex County (Massachusetts),2017,81.9203354159173
+Nantucket County (Massachusetts),2017,82.0888104208856
+Norfolk County (Massachusetts),2017,81.4283240272686
+Plymouth County (Massachusetts),2017,79.4438854824017
+Suffolk County (Massachusetts),2017,80.9396144828445
+Worcester County (Massachusetts),2017,79.1880872560798
+Alcona County (Michigan),2017,77.0052823950556
+Alger County (Michigan),2017,78.6862012912841
+Allegan County (Michigan),2017,78.7975466026192
+Alpena County (Michigan),2017,77.4560466979785
+Antrim County (Michigan),2017,79.6766839744595
+Arenac County (Michigan),2017,76.1967589757264
+Baraga County (Michigan),2017,76.8873561787283
+Barry County (Michigan),2017,79.1331583166265
+Bay County (Michigan),2017,77.0496129370567
+Benzie County (Michigan),2017,79.456989098494
+Berrien County (Michigan),2017,77.5006782008534
+Branch County (Michigan),2017,76.9915176169195
+Calhoun County (Michigan),2017,75.9009162690028
+Cass County (Michigan),2017,78.0298434132201
+Charlevoix County (Michigan),2017,79.6108909774323
+Cheboygan County (Michigan),2017,78.4850350703013
+Chippewa County (Michigan),2017,78.5276518796495
+Clare County (Michigan),2017,75.2550338793183
+Clinton County (Michigan),2017,80.6847859301858
+Crawford County (Michigan),2017,77.1006569574605
+Delta County (Michigan),2017,78.9360870707223
+Dickinson County (Michigan),2017,79.0715605141201
+Eaton County (Michigan),2017,79.1477189307036
+Emmet County (Michigan),2017,79.441373537655
+Genesee County (Michigan),2017,75.4497378928283
+Gladwin County (Michigan),2017,76.7633002832859
+Gogebic County (Michigan),2017,78.3443075401727
+Grand Traverse County (Michigan),2017,80.1122017725861
+Gratiot County (Michigan),2017,77.4069279344736
+Hillsdale County (Michigan),2017,77.5650022568284
+Houghton County (Michigan),2017,78.6091787985362
+Huron County (Michigan),2017,77.3539797366361
+Ingham County (Michigan),2017,78.4704403627334
+Ionia County (Michigan),2017,78.2791719348228
+Iosco County (Michigan),2017,75.937527035144
+Iron County (Michigan),2017,77.9417961553393
+Isabella County (Michigan),2017,78.8679671416514
+Jackson County (Michigan),2017,77.0016081285966
+Kalamazoo County (Michigan),2017,79.0389402550301
+Kalkaska County (Michigan),2017,76.1983944565943
+Kent County (Michigan),2017,79.827844906421
+Keweenaw County (Michigan),2017,80.4041860663772
+Lake County (Michigan),2017,76.7841306175317
+Lapeer County (Michigan),2017,77.6665058645764
+Leelanau County (Michigan),2017,82.563534806091
+Lenawee County (Michigan),2017,77.8774764530282
+Livingston County (Michigan),2017,80.3460114558161
+Luce County (Michigan),2017,78.2315649753422
+Mackinac County (Michigan),2017,78.1559547165445
+Macomb County (Michigan),2017,77.8830241581285
+Manistee County (Michigan),2017,78.0037986323839
+Marquette County (Michigan),2017,78.6443543553626
+Mason County (Michigan),2017,78.3117229293455
+Mecosta County (Michigan),2017,78.5775814635207
+Menominee County (Michigan),2017,78.947482306
+Midland County (Michigan),2017,80.3729804964049
+Missaukee County (Michigan),2017,77.6685375589106
+Monroe County (Michigan),2017,77.6678940405487
+Montcalm County (Michigan),2017,77.5377767396328
+Montmorency County (Michigan),2017,76.3855476411589
+Muskegon County (Michigan),2017,77.1727267285521
+Newaygo County (Michigan),2017,77.7149571550696
+Oakland County (Michigan),2017,80.1373115782248
+Oceana County (Michigan),2017,78.502177998997
+Ogemaw County (Michigan),2017,75.4318599857492
+Ontonagon County (Michigan),2017,77.4287246512689
+Osceola County (Michigan),2017,77.8752203267029
+Oscoda County (Michigan),2017,75.8001091217612
+Otsego County (Michigan),2017,78.0755147820713
+Ottawa County (Michigan),2017,81.5927998648034
+Presque Isle County (Michigan),2017,78.3733357299585
+Roscommon County (Michigan),2017,76.0354374103833
+Saginaw County (Michigan),2017,77.0731016040925
+Saint Clair County (Michigan),2017,76.8519883881222
+Saint Joseph County (Michigan),2017,76.696188156707
+Sanilac County (Michigan),2017,77.3408094123848
+Schoolcraft County (Michigan),2017,78.0578410232322
+Shiawassee County (Michigan),2017,77.2865906490684
+Tuscola County (Michigan),2017,77.1469134278346
+Van Buren County (Michigan),2017,77.4180803016211
+Washtenaw County (Michigan),2017,81.2180103538333
+Wayne County (Michigan),2017,75.2581858729629
+Wexford County (Michigan),2017,77.2981272465639
+Aitkin County (Minnesota),2017,79.2616833097267
+Anoka County (Minnesota),2017,81.1392780136697
+Becker County (Minnesota),2017,78.1101357352779
+Beltrami County (Minnesota),2017,77.7157616650518
+Benton County (Minnesota),2017,78.7910756708181
+Big Stone County (Minnesota),2017,78.6998764296323
+Blue Earth County (Minnesota),2017,80.5241677068064
+Brown County (Minnesota),2017,80.3859888657297
+Carlton County (Minnesota),2017,77.8684775760807
+Carver County (Minnesota),2017,82.8457716123719
+Cass County (Minnesota),2017,78.0655502027616
+Chippewa County (Minnesota),2017,79.5094602904037
+Chisago County (Minnesota),2017,79.8014348465334
+Clay County (Minnesota),2017,79.6432218361586
+Clearwater County (Minnesota),2017,77.4327623217404
+Cook County (Minnesota),2017,82.0048335720744
+Cottonwood County (Minnesota),2017,80.294810160774
+Crow Wing County (Minnesota),2017,79.5169616342591
+Dakota County (Minnesota),2017,81.8220149945981
+Dodge County (Minnesota),2017,80.6369193941376
+Douglas County (Minnesota),2017,80.3066048731763
+Faribault County (Minnesota),2017,79.1346907224433
+Fillmore County (Minnesota),2017,80.5515892292852
+Freeborn County (Minnesota),2017,79.8414527161033
+Goodhue County (Minnesota),2017,79.8595234274292
+Grant County (Minnesota),2017,79.520972656314
+Hennepin County (Minnesota),2017,80.8923103245979
+Houston County (Minnesota),2017,81.2882099712718
+Hubbard County (Minnesota),2017,80.2279788084441
+Isanti County (Minnesota),2017,79.6692990898641
+Itasca County (Minnesota),2017,78.5131825644256
+Jackson County (Minnesota),2017,81.3208972987281
+Kanabec County (Minnesota),2017,79.4281234192726
+Kandiyohi County (Minnesota),2017,80.9063870759591
+Kittson County (Minnesota),2017,78.5542308455233
+Koochiching County (Minnesota),2017,78.6273088934289
+Lac qui Parle County (Minnesota),2017,81.065649008396
+Lake County (Minnesota),2017,79.4984383937906
+Lake of the Woods County (Minnesota),2017,78.9712869910566
+Le Sueur County (Minnesota),2017,80.7995516260673
+Lincoln County (Minnesota),2017,79.8343394354466
+Lyon County (Minnesota),2017,80.2103189684499
+McLeod County (Minnesota),2017,80.5822001745395
+Mahnomen County (Minnesota),2017,74.8336101812383
+Marshall County (Minnesota),2017,81.7587548831387
+Martin County (Minnesota),2017,80.0284552861737
+Meeker County (Minnesota),2017,80.0670548291021
+Mille Lacs County (Minnesota),2017,77.1567561408896
+Morrison County (Minnesota),2017,79.6317773317138
+Mower County (Minnesota),2017,80.6657795132965
+Murray County (Minnesota),2017,81.0731117813567
+Nicollet County (Minnesota),2017,81.6407871921553
+Nobles County (Minnesota),2017,81.0586225517669
+Norman County (Minnesota),2017,77.1889893663221
+Olmsted County (Minnesota),2017,82.1552516045247
+Otter Tail County (Minnesota),2017,79.9696832679194
+Pennington County (Minnesota),2017,79.4942505456764
+Pine County (Minnesota),2017,78.9146802784558
+Pipestone County (Minnesota),2017,79.7973472009901
+Polk County (Minnesota),2017,78.1070333472276
+Pope County (Minnesota),2017,80.2826570468123
+Ramsey County (Minnesota),2017,79.6694505589469
+Red Lake County (Minnesota),2017,79.9103807653632
+Redwood County (Minnesota),2017,79.3113994955765
+Renville County (Minnesota),2017,78.6843108344412
+Rice County (Minnesota),2017,80.6295928889956
+Rock County (Minnesota),2017,79.1718051920885
+Roseau County (Minnesota),2017,79.5946065189053
+Saint Louis County (Minnesota),2017,78.7612123546069
+Scott County (Minnesota),2017,81.9866171250905
+Sherburne County (Minnesota),2017,80.3805068998322
+Sibley County (Minnesota),2017,80.5782548377096
+Stearns County (Minnesota),2017,81.9904098733389
+Steele County (Minnesota),2017,81.1610349718229
+Stevens County (Minnesota),2017,81.8098591826067
+Swift County (Minnesota),2017,80.0698738551496
+Todd County (Minnesota),2017,80.9157736558278
+Traverse County (Minnesota),2017,78.9876151741354
+Wabasha County (Minnesota),2017,81.8238531557157
+Wadena County (Minnesota),2017,76.6363226081507
+Waseca County (Minnesota),2017,80.6390839616165
+Washington County (Minnesota),2017,81.813781357859
+Watonwan County (Minnesota),2017,79.9568954747274
+Wilkin County (Minnesota),2017,78.5150969502267
+Winona County (Minnesota),2017,80.5357025564087
+Wright County (Minnesota),2017,80.8066969849497
+Yellow Medicine County (Minnesota),2017,79.9415801369744
+Adams County (Mississippi),2017,73.0608562882492
+Alcorn County (Mississippi),2017,73.3505353393099
+Amite County (Mississippi),2017,75.3910725487681
+Attala County (Mississippi),2017,72.805394184376
+Benton County (Mississippi),2017,73.5301365735074
+Bolivar County (Mississippi),2017,71.0762211519525
+Calhoun County (Mississippi),2017,73.9641131092755
+Carroll County (Mississippi),2017,76.0260083846934
+Chickasaw County (Mississippi),2017,74.5873999395152
+Choctaw County (Mississippi),2017,75.3334822066582
+Claiborne County (Mississippi),2017,72.2531180506981
+Clarke County (Mississippi),2017,73.342627857558
+Clay County (Mississippi),2017,74.7462237256067
+Coahoma County (Mississippi),2017,70.1906157324008
+Copiah County (Mississippi),2017,73.9966976935304
+Covington County (Mississippi),2017,72.5880196306984
+DeSoto County (Mississippi),2017,76.6794321904568
+Forrest County (Mississippi),2017,73.7332292045041
+Franklin County (Mississippi),2017,74.1100767980855
+George County (Mississippi),2017,72.3672687286948
+Greene County (Mississippi),2017,74.5484878154853
+Grenada County (Mississippi),2017,71.353894547333
+Hancock County (Mississippi),2017,76.246813617772
+Harrison County (Mississippi),2017,74.5786615473572
+Hinds County (Mississippi),2017,74.8750106107149
+Holmes County (Mississippi),2017,70.8431734751582
+Humphreys County (Mississippi),2017,71.6841000912992
+Issaquena County (Mississippi),2017,73.6136306122577
+Itawamba County (Mississippi),2017,73.7424683903062
+Jackson County (Mississippi),2017,75.3128105730287
+Jasper County (Mississippi),2017,74.2910305658162
+Jefferson County (Mississippi),2017,72.689880296866
+Jefferson Davis County (Mississippi),2017,72.489005097922
+Jones County (Mississippi),2017,74.3747111153202
+Kemper County (Mississippi),2017,75.9055915737949
+Lafayette County (Mississippi),2017,77.3465663911233
+Lamar County (Mississippi),2017,78.3119451705558
+Lauderdale County (Mississippi),2017,74.3142186463745
+Lawrence County (Mississippi),2017,73.0182128937996
+Leake County (Mississippi),2017,73.8209876959739
+Lee County (Mississippi),2017,74.3497617163344
+Leflore County (Mississippi),2017,70.9186274275444
+Lincoln County (Mississippi),2017,73.4430021565852
+Lowndes County (Mississippi),2017,74.916652954213
+Madison County (Mississippi),2017,75.4025831376784
+Marion County (Mississippi),2017,71.7144498464038
+Marshall County (Mississippi),2017,73.3256885581918
+Monroe County (Mississippi),2017,74.8414542801705
+Montgomery County (Mississippi),2017,72.9864741402993
+Neshoba County (Mississippi),2017,71.0667161615236
+Newton County (Mississippi),2017,73.3814139310264
+Noxubee County (Mississippi),2017,74.2250822953941
+Oktibbeha County (Mississippi),2017,77.6279992782176
+Panola County (Mississippi),2017,72.4202562324254
+Pearl River County (Mississippi),2017,74.0341216811759
+Perry County (Mississippi),2017,73.7672706512147
+Pike County (Mississippi),2017,71.8840983530055
+Pontotoc County (Mississippi),2017,76.1852044418433
+Prentiss County (Mississippi),2017,74.0360726996079
+Quitman County (Mississippi),2017,70.1935616428145
+Rankin County (Mississippi),2017,78.377978755344
+Scott County (Mississippi),2017,73.7736070591126
+Sharkey County (Mississippi),2017,71.9376042149017
+Simpson County (Mississippi),2017,73.532840232522
+Smith County (Mississippi),2017,74.8479859096662
+Stone County (Mississippi),2017,73.7774756952029
+Sunflower County (Mississippi),2017,70.6839874683612
+Tallahatchie County (Mississippi),2017,72.9303593427516
+Tate County (Mississippi),2017,74.5522365006285
+Tippah County (Mississippi),2017,73.2544252186087
+Tishomingo County (Mississippi),2017,72.3206300234417
+Tunica County (Mississippi),2017,70.5194849511801
+Union County (Mississippi),2017,75.3355759758246
+Walthall County (Mississippi),2017,73.5584059198276
+Warren County (Mississippi),2017,73.6814403064106
+Washington County (Mississippi),2017,70.7749959140637
+Wayne County (Mississippi),2017,74.6612919839401
+Webster County (Mississippi),2017,72.3855963624167
+Wilkinson County (Mississippi),2017,71.5034544609628
+Winston County (Mississippi),2017,74.0695920128204
+Yalobusha County (Mississippi),2017,72.2999605452242
+Yazoo County (Mississippi),2017,73.2756738910349
+Adair County (Missouri),2017,77.4368641875169
+Andrew County (Missouri),2017,78.8479037322724
+Atchison County (Missouri),2017,77.5544227294247
+Audrain County (Missouri),2017,76.3141519215107
+Barry County (Missouri),2017,75.6329956321462
+Barton County (Missouri),2017,77.0428070020365
+Bates County (Missouri),2017,76.0127251195747
+Benton County (Missouri),2017,75.9188509462703
+Bollinger County (Missouri),2017,76.0949557517719
+Boone County (Missouri),2017,79.6841170572811
+Buchanan County (Missouri),2017,76.1394873951461
+Butler County (Missouri),2017,73.3306255820332
+Caldwell County (Missouri),2017,76.8245885130729
+Callaway County (Missouri),2017,77.2834832719989
+Camden County (Missouri),2017,78.9748062382415
+Cape Girardeau County (Missouri),2017,77.6556577398242
+Carroll County (Missouri),2017,76.4130061963677
+Carter County (Missouri),2017,73.6145869296406
+Cass County (Missouri),2017,78.2965269578781
+Cedar County (Missouri),2017,75.2483157309263
+Chariton County (Missouri),2017,78.5567561126019
+Christian County (Missouri),2017,79.066808688661
+Clark County (Missouri),2017,76.7423559527894
+Clay County (Missouri),2017,79.2640796347556
+Clinton County (Missouri),2017,76.2103739121877
+Cole County (Missouri),2017,78.6718935526162
+Cooper County (Missouri),2017,77.4455271409324
+Crawford County (Missouri),2017,74.6636031101479
+Dade County (Missouri),2017,75.6866345095531
+Dallas County (Missouri),2017,75.8661861593595
+Daviess County (Missouri),2017,77.2827618942041
+DeKalb County (Missouri),2017,78.1158695280235
+Dent County (Missouri),2017,75.4762098076057
+Douglas County (Missouri),2017,76.2044437790229
+Dunklin County (Missouri),2017,71.7046208083948
+Franklin County (Missouri),2017,76.5919727117857
+Gasconade County (Missouri),2017,76.5619519775557
+Gentry County (Missouri),2017,77.2676607379027
+Greene County (Missouri),2017,77.0930843808252
+Grundy County (Missouri),2017,77.0190125969577
+Harrison County (Missouri),2017,77.4209282284649
+Henry County (Missouri),2017,75.1406824445626
+Hickory County (Missouri),2017,76.4028937976095
+Holt County (Missouri),2017,78.849287335293
+Howard County (Missouri),2017,77.9648674539284
+Howell County (Missouri),2017,74.7555165370642
+Iron County (Missouri),2017,72.8010802661979
+Jackson County (Missouri),2017,76.9580665319386
+Jasper County (Missouri),2017,75.9003120461814
+Jefferson County (Missouri),2017,76.024076474587
+Johnson County (Missouri),2017,77.9738620097951
+Knox County (Missouri),2017,76.7958214823764
+Laclede County (Missouri),2017,75.1142808434637
+Lafayette County (Missouri),2017,76.871143716326
+Lawrence County (Missouri),2017,75.4397893217695
+Lewis County (Missouri),2017,76.609073277272
+Lincoln County (Missouri),2017,76.5028105340331
+Linn County (Missouri),2017,75.8654983733096
+Livingston County (Missouri),2017,77.1574234361009
+McDonald County (Missouri),2017,74.1145284503608
+Macon County (Missouri),2017,76.6786244226203
+Madison County (Missouri),2017,74.3310890399807
+Maries County (Missouri),2017,76.6429347453429
+Marion County (Missouri),2017,76.2568326929545
+Mercer County (Missouri),2017,78.0990673844792
+Miller County (Missouri),2017,76.2972245443321
+Mississippi County (Missouri),2017,73.0711489006521
+Moniteau County (Missouri),2017,77.713481859273
+Monroe County (Missouri),2017,77.7612035039737
+Montgomery County (Missouri),2017,75.3062578169907
+Morgan County (Missouri),2017,75.0839417675962
+New Madrid County (Missouri),2017,72.7057423493087
+Newton County (Missouri),2017,75.9340924444762
+Nodaway County (Missouri),2017,79.3197781323659
+Oregon County (Missouri),2017,75.1183193331109
+Osage County (Missouri),2017,78.361679886808
+Ozark County (Missouri),2017,75.5832717037637
+Pemiscot County (Missouri),2017,71.0018412573099
+Perry County (Missouri),2017,77.8267655317012
+Pettis County (Missouri),2017,76.9295237772793
+Phelps County (Missouri),2017,76.2507193406522
+Pike County (Missouri),2017,76.4662124482018
+Platte County (Missouri),2017,80.2551547125401
+Polk County (Missouri),2017,76.0743597488892
+Pulaski County (Missouri),2017,76.2344983601379
+Putnam County (Missouri),2017,76.6702661398197
+Ralls County (Missouri),2017,78.4255644381174
+Randolph County (Missouri),2017,75.6288832139795
+Ray County (Missouri),2017,76.0961889555643
+Reynolds County (Missouri),2017,74.3911003798123
+Ripley County (Missouri),2017,73.0299819212142
+Saint Charles County (Missouri),2017,80.0753691114768
+Saint Clair County (Missouri),2017,76.0180503787813
+Sainte Genevieve County (Missouri),2017,78.114458965438
+Saint Francois County (Missouri),2017,74.0978124238979
+Saint Louis County (Missouri),2017,78.0621777029217
+Saline County (Missouri),2017,76.8468927371075
+Schuyler County (Missouri),2017,76.8440137595409
+Scotland County (Missouri),2017,76.9226441560562
+Scott County (Missouri),2017,74.8783581320391
+Shannon County (Missouri),2017,75.5665146152321
+Shelby County (Missouri),2017,77.08625513736
+Stoddard County (Missouri),2017,74.9380903343975
+Stone County (Missouri),2017,77.784187287974
+Sullivan County (Missouri),2017,76.0570557501338
+Taney County (Missouri),2017,77.2216155577737
+Texas County (Missouri),2017,76.1069347378964
+Vernon County (Missouri),2017,75.6838414185385
+Warren County (Missouri),2017,78.1556259102142
+Washington County (Missouri),2017,73.2850034176147
+Wayne County (Missouri),2017,74.0204758818898
+Webster County (Missouri),2017,76.9561775866636
+Worth County (Missouri),2017,77.6577552075631
+Wright County (Missouri),2017,74.1104165835914
+Saint Louis City (Missouri),2017,74.0373682826165
+Beaverhead County (Montana),2017,80.802937956819
+Big Horn County (Montana),2017,71.782504420157
+Blaine County (Montana),2017,75.0403529260628
+Broadwater County (Montana),2017,79.922341946895
+Carbon County (Montana),2017,80.396069369275
+Carter County (Montana),2017,78.9408132448393
+Cascade County (Montana),2017,77.7692994853194
+Chouteau County (Montana),2017,79.0918749905367
+Custer County (Montana),2017,77.0737057489451
+Daniels County (Montana),2017,78.3345721639302
+Dawson County (Montana),2017,78.3899740246786
+Deer Lodge County (Montana),2017,76.5407352355609
+Fallon County (Montana),2017,78.1547027799327
+Fergus County (Montana),2017,77.8562639715539
+Flathead County (Montana),2017,79.1927520087399
+Gallatin County (Montana),2017,81.9656480162457
+Garfield County (Montana),2017,78.2814610146612
+Glacier County (Montana),2017,72.1796804261226
+Granite County (Montana),2017,81.3028837117273
+Hill County (Montana),2017,77.0796309532099
+Jefferson County (Montana),2017,78.8889268836419
+Judith Basin County (Montana),2017,80.1332140890852
+Lake County (Montana),2017,77.8937497855445
+Lewis and Clark County (Montana),2017,79.2955692635492
+Liberty County (Montana),2017,81.4900849335824
+Lincoln County (Montana),2017,77.9740395261073
+McCone County (Montana),2017,78.1919022779187
+Madison County (Montana),2017,80.6913229475527
+Meagher County (Montana),2017,79.0344382196959
+Mineral County (Montana),2017,77.7097232629033
+Missoula County (Montana),2017,79.67579863951
+Musselshell County (Montana),2017,76.1937113743937
+Phillips County (Montana),2017,77.0920140659319
+Pondera County (Montana),2017,78.0732048989731
+Powder River County (Montana),2017,79.6749079578211
+Powell County (Montana),2017,77.2107814260551
+Prairie County (Montana),2017,77.9389513035233
+Ravalli County (Montana),2017,79.599039585145
+Richland County (Montana),2017,77.3124170885234
+Roosevelt County (Montana),2017,69.6546272005477
+Rosebud County (Montana),2017,74.7412929191264
+Sanders County (Montana),2017,77.7086295235043
+Sheridan County (Montana),2017,76.7449594300493
+Silver Bow County (Montana),2017,76.4066465849226
+Stillwater County (Montana),2017,79.48613160779
+Sweet Grass County (Montana),2017,80.6928497853089
+Teton County (Montana),2017,79.8632542094661
+Toole County (Montana),2017,77.765654046676
+Valley County (Montana),2017,78.0285803056583
+Wheatland County (Montana),2017,78.3925561791917
+Wibaux County (Montana),2017,76.9439879609077
+Yellowstone County (Montana),2017,78.1957968107236
+Park County (Montana),2017,79.6370508562593
+Yellowstone National Park (Montana),2017,79.6370508562593
+Adams County (Nebraska),2017,79.0721996526937
+Antelope County (Nebraska),2017,80.3612412078825
+Boone County (Nebraska),2017,80.6549802251683
+Box Butte County (Nebraska),2017,77.8839907622876
+Boyd County (Nebraska),2017,78.4080256349196
+Brown County (Nebraska),2017,79.7038204816775
+Buffalo County (Nebraska),2017,80.2504415890715
+Burt County (Nebraska),2017,78.0007108645563
+Butler County (Nebraska),2017,78.6733252475192
+Cass County (Nebraska),2017,79.0532117683811
+Cedar County (Nebraska),2017,80.5125281093338
+Chase County (Nebraska),2017,78.5459536228485
+Cherry County (Nebraska),2017,78.4799255979361
+Cheyenne County (Nebraska),2017,79.029493632445
+Clay County (Nebraska),2017,78.2121298888756
+Colfax County (Nebraska),2017,80.1616065432502
+Cuming County (Nebraska),2017,81.2876177525586
+Custer County (Nebraska),2017,79.1805512203805
+Dakota County (Nebraska),2017,77.8899340427186
+Dawes County (Nebraska),2017,79.0434612750246
+Dawson County (Nebraska),2017,78.7285666867264
+Deuel County (Nebraska),2017,78.269924965766
+Dixon County (Nebraska),2017,79.1919221781433
+Dodge County (Nebraska),2017,77.8964995433031
+Douglas County (Nebraska),2017,78.818062794561
+Dundy County (Nebraska),2017,77.7039851139516
+Fillmore County (Nebraska),2017,78.1314223163923
+Franklin County (Nebraska),2017,78.282844962472
+Frontier County (Nebraska),2017,81.8823145260526
+Furnas County (Nebraska),2017,78.0639526181026
+Gage County (Nebraska),2017,77.9472936340306
+Garden County (Nebraska),2017,78.0725405394994
+Garfield County (Nebraska),2017,79.0751942683576
+Gosper County (Nebraska),2017,80.2198885576783
+Greeley County (Nebraska),2017,80.234737138072
+Hall County (Nebraska),2017,78.4847862515935
+Hamilton County (Nebraska),2017,80.3535223303032
+Harlan County (Nebraska),2017,79.7009685697179
+Hitchcock County (Nebraska),2017,78.0788526606569
+Holt County (Nebraska),2017,79.4354323554356
+Howard County (Nebraska),2017,79.7188690775073
+Jefferson County (Nebraska),2017,77.6780933199828
+Johnson County (Nebraska),2017,77.931638318935
+Kearney County (Nebraska),2017,78.795136989676
+Keith County (Nebraska),2017,78.586217925506
+Kimball County (Nebraska),2017,77.2457488715786
+Knox County (Nebraska),2017,79.0992456556717
+Lancaster County (Nebraska),2017,80.1301084347645
+Lincoln County (Nebraska),2017,78.5271945259761
+Madison County (Nebraska),2017,78.5560407368112
+Merrick County (Nebraska),2017,79.0952263925171
+Morrill County (Nebraska),2017,77.5397123622824
+Nance County (Nebraska),2017,77.4987792563686
+Nemaha County (Nebraska),2017,78.1641673086881
+Nuckolls County (Nebraska),2017,78.9910469700302
+Otoe County (Nebraska),2017,79.1665548774734
+Pawnee County (Nebraska),2017,79.1216912151022
+Perkins County (Nebraska),2017,79.8401968245103
+Phelps County (Nebraska),2017,79.374669064541
+Pierce County (Nebraska),2017,80.0160969536842
+Platte County (Nebraska),2017,80.2592086195175
+Polk County (Nebraska),2017,80.211049660896
+Red Willow County (Nebraska),2017,78.4125168275228
+Richardson County (Nebraska),2017,77.4421255998626
+Rock County (Nebraska),2017,78.7308733623187
+Saline County (Nebraska),2017,77.7663562258504
+Sarpy County (Nebraska),2017,81.0491795539534
+Saunders County (Nebraska),2017,79.1676550952646
+Scotts Bluff County (Nebraska),2017,77.3448632566511
+Seward County (Nebraska),2017,78.9681589814221
+Sheridan County (Nebraska),2017,77.7424951034042
+Sherman County (Nebraska),2017,79.5376976321614
+Sioux County (Nebraska),2017,82.9239403423606
+Stanton County (Nebraska),2017,80.7976554973829
+Thayer County (Nebraska),2017,78.3268907453499
+Thurston County (Nebraska),2017,73.5317095050706
+Valley County (Nebraska),2017,79.845328974375
+Washington County (Nebraska),2017,79.9198296464717
+Wayne County (Nebraska),2017,82.7113078705402
+Webster County (Nebraska),2017,77.2891366643645
+York County (Nebraska),2017,79.5822291434226
+Churchill County (Nevada),2017,75.6682238949079
+Clark County (Nevada),2017,78.4647320655399
+Douglas County (Nevada),2017,80.929024897114
+Elko County (Nevada),2017,78.378103482134
+Eureka County (Nevada),2017,77.6996182095285
+Humboldt County (Nevada),2017,76.6139158037755
+Lander County (Nevada),2017,76.7963494350931
+Lincoln County (Nevada),2017,77.9517165570616
+Lyon County (Nevada),2017,76.2037901870983
+Mineral County (Nevada),2017,74.2406182033828
+Nye County (Nevada),2017,73.8189286492307
+Pershing County (Nevada),2017,78.2341184986648
+Storey County (Nevada),2017,82.2412600348574
+Washoe County (Nevada),2017,78.0533459051136
+White Pine County (Nevada),2017,77.1791818745079
+Carson City (Nevada),2017,75.2485076516673
+Belknap County (New Hampshire),2017,78.0301796717253
+Carroll County (New Hampshire),2017,79.5835952577477
+Cheshire County (New Hampshire),2017,79.2046937055865
+Coos County (New Hampshire),2017,76.603227319598
+Grafton County (New Hampshire),2017,80.41969830081
+Hillsborough County (New Hampshire),2017,79.4213886476027
+Merrimack County (New Hampshire),2017,79.2231341494585
+Rockingham County (New Hampshire),2017,80.2661523531506
+Strafford County (New Hampshire),2017,78.2291316887693
+Sullivan County (New Hampshire),2017,78.697699644859
+Atlantic County (New Jersey),2017,77.4267282229785
+Bergen County (New Jersey),2017,82.9205641805784
+Burlington County (New Jersey),2017,79.596583692732
+Camden County (New Jersey),2017,77.4674574853393
+Cape May County (New Jersey),2017,77.35215478781
+Cumberland County (New Jersey),2017,75.6863831489567
+Essex County (New Jersey),2017,79.4771857299054
+Gloucester County (New Jersey),2017,78.1078725057757
+Hudson County (New Jersey),2017,81.8618426025527
+Hunterdon County (New Jersey),2017,83.1284386876753
+Mercer County (New Jersey),2017,80.2588369683656
+Middlesex County (New Jersey),2017,81.5213360163008
+Monmouth County (New Jersey),2017,80.6471461438878
+Morris County (New Jersey),2017,82.5052162033867
+Ocean County (New Jersey),2017,79.1089331978612
+Passaic County (New Jersey),2017,80.4301861691935
+Salem County (New Jersey),2017,76.1474574064471
+Somerset County (New Jersey),2017,82.5314783962976
+Sussex County (New Jersey),2017,79.5727534004439
+Union County (New Jersey),2017,81.3619303606624
+Warren County (New Jersey),2017,79.8407540667501
+Bernalillo County (New Mexico),2017,78.3344945469066
+Catron County (New Mexico),2017,79.4502223214115
+Chaves County (New Mexico),2017,75.7266212379223
+Colfax County (New Mexico),2017,77.6096106129026
+Curry County (New Mexico),2017,76.7510196815959
+De Baca County (New Mexico),2017,75.492774633981
+Dona Ana County (New Mexico),2017,79.5930552154468
+Eddy County (New Mexico),2017,75.0690073697222
+Grant County (New Mexico),2017,77.5813813554101
+Guadalupe County (New Mexico),2017,76.196772400414
+Hidalgo County (New Mexico),2017,76.4248264380372
+Lea County (New Mexico),2017,75.7187153983594
+Lincoln County (New Mexico),2017,79.4095256882596
+Los Alamos County (New Mexico),2017,83.3407436700519
+Luna County (New Mexico),2017,75.4847871855196
+McKinley County (New Mexico),2017,72.3107773885033
+Mora County (New Mexico),2017,77.5965020121454
+Otero County (New Mexico),2017,77.6653097798103
+Quay County (New Mexico),2017,75.0495646406145
+Rio Arriba County (New Mexico),2017,73.5028026232135
+Roosevelt County (New Mexico),2017,77.2261747816081
+Sandoval County (New Mexico),2017,78.8565963971519
+San Juan County (New Mexico),2017,76.3423423167744
+San Miguel County (New Mexico),2017,76.4655998733068
+Santa Fe County (New Mexico),2017,80.7734321470699
+Sierra County (New Mexico),2017,73.6168691914401
+Socorro County (New Mexico),2017,75.8360767968649
+Taos County (New Mexico),2017,78.8148247163772
+Torrance County (New Mexico),2017,76.4077000499775
+Union County (New Mexico),2017,76.8564982839
+Cibola County (New Mexico),2017,76.5417859643033
+Valencia County (New Mexico),2017,76.5417859643033
+Albany County (New York),2017,79.938072274582
+Allegany County (New York),2017,78.3365805106504
+Bronx County (New York),2017,80.0668286619434
+Broome County (New York),2017,78.6319538055794
+Cattaraugus County (New York),2017,77.6050649067866
+Cayuga County (New York),2017,79.5321779610494
+Chautauqua County (New York),2017,77.9113284213554
+Chemung County (New York),2017,77.2418403667793
+Chenango County (New York),2017,77.6342967330289
+Clinton County (New York),2017,79.2293129790583
+Columbia County (New York),2017,79.5219511583599
+Cortland County (New York),2017,78.4553195490183
+Delaware County (New York),2017,78.9146263539021
+Dutchess County (New York),2017,80.685238326004
+Erie County (New York),2017,78.322023116459
+Essex County (New York),2017,79.8096547658385
+Franklin County (New York),2017,78.8002909336
+Fulton County (New York),2017,78.0472984261311
+Genesee County (New York),2017,78.5831949381772
+Greene County (New York),2017,78.6723966145362
+Hamilton County (New York),2017,78.4959608627257
+Herkimer County (New York),2017,78.8110678365009
+Jefferson County (New York),2017,78.144228704396
+Kings County (New York),2017,82.2806868687536
+Lewis County (New York),2017,79.4186943362448
+Livingston County (New York),2017,79.9585394523158
+Madison County (New York),2017,80.3129419195098
+Monroe County (New York),2017,79.7978575404131
+Montgomery County (New York),2017,77.8210883830652
+Nassau County (New York),2017,82.6475022389346
+New York County (New York),2017,84.3724422781752
+Niagara County (New York),2017,77.7740450686122
+Oneida County (New York),2017,78.3036816347187
+Onondaga County (New York),2017,79.3795471025699
+Ontario County (New York),2017,79.864798735182
+Orange County (New York),2017,80.1226292518443
+Orleans County (New York),2017,77.9524927112065
+Oswego County (New York),2017,77.9924686914171
+Otsego County (New York),2017,80.0118079121873
+Putnam County (New York),2017,82.1594089248272
+Queens County (New York),2017,83.3823340014097
+Rensselaer County (New York),2017,78.8917446117715
+Richmond County (New York),2017,80.7418643734648
+Rockland County (New York),2017,82.7846043313871
+Saint Lawrence County (New York),2017,78.9229910629106
+Saratoga County (New York),2017,81.1262575317872
+Schenectady County (New York),2017,78.9118964340208
+Schoharie County (New York),2017,80.295510180807
+Schuyler County (New York),2017,78.5270384976407
+Seneca County (New York),2017,78.6769592663395
+Steuben County (New York),2017,78.5314073692607
+Suffolk County (New York),2017,80.6503127618509
+Sullivan County (New York),2017,77.8327200773667
+Tioga County (New York),2017,79.8333145310373
+Tompkins County (New York),2017,80.8783901915752
+Ulster County (New York),2017,79.8635734892512
+Warren County (New York),2017,79.4331036290459
+Washington County (New York),2017,78.7194164371072
+Wayne County (New York),2017,78.7569257112341
+Westchester County (New York),2017,83.237797493164
+Wyoming County (New York),2017,78.6298953282274
+Yates County (New York),2017,78.7343275169924
+Alamance County (North Carolina),2017,76.937809682991
+Alexander County (North Carolina),2017,76.9697723996716
+Alleghany County (North Carolina),2017,77.3415022695224
+Anson County (North Carolina),2017,74.0578504614242
+Ashe County (North Carolina),2017,77.4319198074158
+Avery County (North Carolina),2017,76.9382339831424
+Beaufort County (North Carolina),2017,75.6750945076657
+Bertie County (North Carolina),2017,75.5132107204518
+Bladen County (North Carolina),2017,74.6619742413309
+Brunswick County (North Carolina),2017,78.2587413788006
+Buncombe County (North Carolina),2017,78.3896150840868
+Burke County (North Carolina),2017,76.1406703226598
+Cabarrus County (North Carolina),2017,78.1635432072588
+Caldwell County (North Carolina),2017,75.6236593016813
+Camden County (North Carolina),2017,78.3633812034208
+Carteret County (North Carolina),2017,77.3880326145932
+Caswell County (North Carolina),2017,76.1094635641266
+Catawba County (North Carolina),2017,76.5074694379563
+Chatham County (North Carolina),2017,80.8218342854155
+Cherokee County (North Carolina),2017,76.2645277492912
+Chowan County (North Carolina),2017,76.4763655790244
+Clay County (North Carolina),2017,77.2762016618572
+Cleveland County (North Carolina),2017,74.2287177942467
+Columbus County (North Carolina),2017,73.4833987858047
+Craven County (North Carolina),2017,76.6697741737035
+Cumberland County (North Carolina),2017,75.7559499335067
+Currituck County (North Carolina),2017,77.4275905172165
+Dare County (North Carolina),2017,78.4710434202301
+Davidson County (North Carolina),2017,75.9312656757341
+Davie County (North Carolina),2017,77.9771427309985
+Duplin County (North Carolina),2017,77.7910237195385
+Durham County (North Carolina),2017,79.6767739659227
+Edgecombe County (North Carolina),2017,73.8133998284673
+Forsyth County (North Carolina),2017,77.6646789209061
+Franklin County (North Carolina),2017,77.3144470380592
+Gaston County (North Carolina),2017,75.1949527552766
+Gates County (North Carolina),2017,76.695093945821
+Graham County (North Carolina),2017,75.8774386528025
+Granville County (North Carolina),2017,77.6572004735816
+Greene County (North Carolina),2017,76.4442575404695
+Guilford County (North Carolina),2017,78.0725057042488
+Halifax County (North Carolina),2017,74.032303414178
+Harnett County (North Carolina),2017,76.5283618805579
+Haywood County (North Carolina),2017,77.0764553384033
+Henderson County (North Carolina),2017,78.8365086165376
+Hertford County (North Carolina),2017,75.9590618629259
+Hoke County (North Carolina),2017,76.1322351812717
+Hyde County (North Carolina),2017,75.9956125660067
+Iredell County (North Carolina),2017,77.3566297600444
+Jackson County (North Carolina),2017,78.2096442644319
+Johnston County (North Carolina),2017,77.3985740769631
+Jones County (North Carolina),2017,75.6319179621074
+Lee County (North Carolina),2017,76.3736448958367
+Lenoir County (North Carolina),2017,74.3790968742586
+Lincoln County (North Carolina),2017,77.0262703201055
+McDowell County (North Carolina),2017,76.5048263644749
+Macon County (North Carolina),2017,77.5406901232696
+Madison County (North Carolina),2017,77.3783163988207
+Martin County (North Carolina),2017,74.5771517599693
+Mecklenburg County (North Carolina),2017,80.0045801876963
+Mitchell County (North Carolina),2017,75.4328542195731
+Montgomery County (North Carolina),2017,76.2893258007353
+Moore County (North Carolina),2017,79.3055032496574
+Nash County (North Carolina),2017,75.2930135225647
+New Hanover County (North Carolina),2017,78.979066929318
+Northampton County (North Carolina),2017,76.0910376235133
+Onslow County (North Carolina),2017,76.5836201899052
+Orange County (North Carolina),2017,81.549955465178
+Pamlico County (North Carolina),2017,77.3647983574394
+Pasquotank County (North Carolina),2017,76.0907155338015
+Pender County (North Carolina),2017,77.4299498386164
+Perquimans County (North Carolina),2017,78.0120890712207
+Person County (North Carolina),2017,76.2476190474825
+Pitt County (North Carolina),2017,77.9135308983365
+Polk County (North Carolina),2017,78.9993261455622
+Randolph County (North Carolina),2017,75.9061411852501
+Richmond County (North Carolina),2017,73.5481055417599
+Robeson County (North Carolina),2017,72.730671317757
+Rockingham County (North Carolina),2017,75.0815799524293
+Rowan County (North Carolina),2017,75.0681014538026
+Rutherford County (North Carolina),2017,75.3057483183963
+Sampson County (North Carolina),2017,75.2802017161554
+Scotland County (North Carolina),2017,74.134967596912
+Stanly County (North Carolina),2017,75.824885472637
+Stokes County (North Carolina),2017,76.1817707058362
+Surry County (North Carolina),2017,75.4830011785172
+Swain County (North Carolina),2017,72.6482780314483
+Transylvania County (North Carolina),2017,79.87162478909
+Tyrrell County (North Carolina),2017,76.9571321885088
+Union County (North Carolina),2017,79.4010924944799
+Vance County (North Carolina),2017,73.9857007921373
+Wake County (North Carolina),2017,81.2684283321449
+Warren County (North Carolina),2017,76.7970018112049
+Washington County (North Carolina),2017,76.110970903345
+Watauga County (North Carolina),2017,81.3280906107058
+Wayne County (North Carolina),2017,75.8293050732963
+Wilkes County (North Carolina),2017,76.2253955039406
+Wilson County (North Carolina),2017,76.0082244342837
+Yadkin County (North Carolina),2017,76.2960046056631
+Yancey County (North Carolina),2017,77.2395408656086
+Adams County (North Dakota),2017,79.2359076234819
+Barnes County (North Dakota),2017,78.9761615598578
+Benson County (North Dakota),2017,73.1009909764769
+Bottineau County (North Dakota),2017,78.2448156707019
+Bowman County (North Dakota),2017,78.8605103124453
+Burke County (North Dakota),2017,79.4270461344442
+Burleigh County (North Dakota),2017,81.1718448894401
+Cass County (North Dakota),2017,80.8568790977155
+Cavalier County (North Dakota),2017,80.11905169146
+Dickey County (North Dakota),2017,79.2857468911128
+Divide County (North Dakota),2017,79.5319984730087
+Dunn County (North Dakota),2017,79.5484103887178
+Eddy County (North Dakota),2017,75.9991889436742
+Emmons County (North Dakota),2017,78.7467740271098
+Foster County (North Dakota),2017,79.1100313193289
+Golden Valley County (North Dakota),2017,83.2022898361922
+Grand Forks County (North Dakota),2017,79.3365982380774
+Grant County (North Dakota),2017,78.9232692208192
+Griggs County (North Dakota),2017,78.9800937935521
+Hettinger County (North Dakota),2017,79.1905598067152
+Kidder County (North Dakota),2017,80.8882268187548
+LaMoure County (North Dakota),2017,81.5670211699688
+Logan County (North Dakota),2017,79.719065661897
+McHenry County (North Dakota),2017,79.4621663837716
+McIntosh County (North Dakota),2017,79.2807688951363
+McKenzie County (North Dakota),2017,78.595958993304
+McLean County (North Dakota),2017,78.7572008063446
+Mercer County (North Dakota),2017,79.9780279729036
+Morton County (North Dakota),2017,78.6477811274231
+Mountrail County (North Dakota),2017,75.1810692832571
+Nelson County (North Dakota),2017,76.5723437140746
+Oliver County (North Dakota),2017,82.673276601479
+Pembina County (North Dakota),2017,79.7954782722541
+Pierce County (North Dakota),2017,78.7887726814331
+Ramsey County (North Dakota),2017,78.0159623608846
+Ransom County (North Dakota),2017,77.8116785016545
+Renville County (North Dakota),2017,78.6150592897229
+Richland County (North Dakota),2017,80.6522087033614
+Rolette County (North Dakota),2017,72.3600695837935
+Sargent County (North Dakota),2017,80.4616407898578
+Sheridan County (North Dakota),2017,82.3864867831582
+Sioux County (North Dakota),2017,68.0637361999356
+Stark County (North Dakota),2017,80.2959527142851
+Steele County (North Dakota),2017,81.6324175764827
+Stutsman County (North Dakota),2017,78.384355247305
+Towner County (North Dakota),2017,78.0964503470622
+Traill County (North Dakota),2017,79.7638091205015
+Walsh County (North Dakota),2017,77.624593008183
+Ward County (North Dakota),2017,80.0937469451584
+Wells County (North Dakota),2017,78.6458032553712
+Williams County (North Dakota),2017,78.2683303373485
+Adams County (Ohio),2017,73.2819116608333
+Allen County (Ohio),2017,76.8813585091244
+Ashland County (Ohio),2017,77.7993036984008
+Ashtabula County (Ohio),2017,75.2883378702036
+Athens County (Ohio),2017,77.2807617211315
+Auglaize County (Ohio),2017,78.4318372438084
+Belmont County (Ohio),2017,76.5791893777904
+Brown County (Ohio),2017,74.5476672015781
+Butler County (Ohio),2017,76.8584562961949
+Carroll County (Ohio),2017,77.3987937044499
+Champaign County (Ohio),2017,76.4078427944909
+Clark County (Ohio),2017,74.3737007682053
+Clermont County (Ohio),2017,77.603812408345
+Clinton County (Ohio),2017,75.5263272494393
+Columbiana County (Ohio),2017,75.998187354803
+Coshocton County (Ohio),2017,76.614253977031
+Crawford County (Ohio),2017,75.5444172876743
+Cuyahoga County (Ohio),2017,76.8534014355735
+Darke County (Ohio),2017,76.9095097986965
+Defiance County (Ohio),2017,77.6021512061683
+Delaware County (Ohio),2017,81.8608449016819
+Erie County (Ohio),2017,76.7525753882151
+Fairfield County (Ohio),2017,78.3465726787202
+Fayette County (Ohio),2017,73.7979474059214
+Franklin County (Ohio),2017,77.0778519730043
+Fulton County (Ohio),2017,77.7872204071499
+Gallia County (Ohio),2017,73.7101214496601
+Geauga County (Ohio),2017,81.0334659229989
+Greene County (Ohio),2017,78.9435510733234
+Guernsey County (Ohio),2017,75.5827463383216
+Hamilton County (Ohio),2017,76.5357633897808
+Hancock County (Ohio),2017,77.9386579922663
+Hardin County (Ohio),2017,76.0029889825477
+Harrison County (Ohio),2017,75.4893731778524
+Henry County (Ohio),2017,78.2533549902936
+Highland County (Ohio),2017,74.9870689416155
+Hocking County (Ohio),2017,75.9374480634474
+Holmes County (Ohio),2017,78.9816474826727
+Huron County (Ohio),2017,76.2215560121681
+Jackson County (Ohio),2017,72.7062095523364
+Jefferson County (Ohio),2017,74.4683025128288
+Knox County (Ohio),2017,77.6720813536976
+Lake County (Ohio),2017,78.2873540993486
+Lawrence County (Ohio),2017,73.0767157091736
+Licking County (Ohio),2017,77.5346842526012
+Logan County (Ohio),2017,76.3008879779996
+Lorain County (Ohio),2017,77.6454279525107
+Lucas County (Ohio),2017,75.860765320929
+Madison County (Ohio),2017,76.6394301906682
+Mahoning County (Ohio),2017,76.1141216686073
+Marion County (Ohio),2017,75.6177772483353
+Medina County (Ohio),2017,79.8610379936994
+Meigs County (Ohio),2017,74.3838860828916
+Mercer County (Ohio),2017,78.5782870159726
+Miami County (Ohio),2017,77.5385197736802
+Monroe County (Ohio),2017,77.0609161578471
+Montgomery County (Ohio),2017,75.112181331732
+Morgan County (Ohio),2017,76.7171009439442
+Morrow County (Ohio),2017,77.5078634759645
+Muskingum County (Ohio),2017,75.7789089525642
+Noble County (Ohio),2017,80.542254918214
+Ottawa County (Ohio),2017,78.2425558282812
+Paulding County (Ohio),2017,77.0359168469169
+Perry County (Ohio),2017,76.1753815673522
+Pickaway County (Ohio),2017,76.155182722847
+Pike County (Ohio),2017,73.1008767947365
+Portage County (Ohio),2017,78.1019012330538
+Preble County (Ohio),2017,75.6095301724417
+Putnam County (Ohio),2017,79.396736880139
+Richland County (Ohio),2017,76.2713683804032
+Ross County (Ohio),2017,74.9110978272677
+Sandusky County (Ohio),2017,76.7091546682708
+Scioto County (Ohio),2017,72.8668413879797
+Seneca County (Ohio),2017,77.058999787049
+Shelby County (Ohio),2017,77.8012326374218
+Stark County (Ohio),2017,77.0928152338934
+Summit County (Ohio),2017,77.0295866052372
+Trumbull County (Ohio),2017,75.8002600749146
+Tuscarawas County (Ohio),2017,77.5798553640004
+Union County (Ohio),2017,79.073550822177
+Van Wert County (Ohio),2017,77.3804977290359
+Vinton County (Ohio),2017,74.4719114668497
+Warren County (Ohio),2017,79.2687936914355
+Washington County (Ohio),2017,76.7542072250952
+Wayne County (Ohio),2017,78.0254326492606
+Williams County (Ohio),2017,77.5870809597817
+Wood County (Ohio),2017,78.5847141169072
+Wyandot County (Ohio),2017,77.395059534863
+Adair County (Oklahoma),2017,73.0339399700148
+Alfalfa County (Oklahoma),2017,77.4455349796946
+Atoka County (Oklahoma),2017,75.0545505389888
+Beaver County (Oklahoma),2017,77.6032790015472
+Beckham County (Oklahoma),2017,73.6130276780609
+Blaine County (Oklahoma),2017,74.0641326068194
+Bryan County (Oklahoma),2017,75.0984064237471
+Caddo County (Oklahoma),2017,72.4633172169884
+Canadian County (Oklahoma),2017,78.0413603974578
+Carter County (Oklahoma),2017,73.5401198480639
+Cherokee County (Oklahoma),2017,75.0993199658218
+Choctaw County (Oklahoma),2017,72.1561996510661
+Cimarron County (Oklahoma),2017,76.7173836713365
+Cleveland County (Oklahoma),2017,78.5211218509188
+Coal County (Oklahoma),2017,72.5465560059517
+Comanche County (Oklahoma),2017,75.8777630132275
+Cotton County (Oklahoma),2017,74.1903756904006
+Craig County (Oklahoma),2017,73.6718130390018
+Creek County (Oklahoma),2017,74.1925412317226
+Custer County (Oklahoma),2017,74.6168931433362
+Delaware County (Oklahoma),2017,75.7618546464794
+Dewey County (Oklahoma),2017,74.2372726531525
+Ellis County (Oklahoma),2017,75.6845223526572
+Garfield County (Oklahoma),2017,75.3107605953969
+Garvin County (Oklahoma),2017,72.9175393439696
+Grady County (Oklahoma),2017,75.7486275926235
+Grant County (Oklahoma),2017,75.2281262943051
+Greer County (Oklahoma),2017,74.9385941899222
+Harmon County (Oklahoma),2017,75.3617547813061
+Harper County (Oklahoma),2017,76.3606938685141
+Haskell County (Oklahoma),2017,73.8446561216188
+Hughes County (Oklahoma),2017,72.3742665895462
+Jackson County (Oklahoma),2017,75.1379210859459
+Jefferson County (Oklahoma),2017,73.2698606285768
+Johnston County (Oklahoma),2017,73.1967384123794
+Kay County (Oklahoma),2017,74.1989271739518
+Kingfisher County (Oklahoma),2017,76.9462063925446
+Kiowa County (Oklahoma),2017,72.1078928989461
+Latimer County (Oklahoma),2017,74.6825554737315
+Le Flore County (Oklahoma),2017,73.3625254782594
+Lincoln County (Oklahoma),2017,75.0728269568576
+Logan County (Oklahoma),2017,78.3383967763961
+Love County (Oklahoma),2017,74.9531702253289
+McClain County (Oklahoma),2017,76.2686771566097
+McCurtain County (Oklahoma),2017,72.4605868078852
+McIntosh County (Oklahoma),2017,73.4554982892398
+Major County (Oklahoma),2017,76.0360013441572
+Marshall County (Oklahoma),2017,76.199820418047
+Mayes County (Oklahoma),2017,74.4541937985356
+Murray County (Oklahoma),2017,73.4839656313348
+Muskogee County (Oklahoma),2017,72.4378614973945
+Noble County (Oklahoma),2017,75.9703875992447
+Nowata County (Oklahoma),2017,74.6440234990249
+Okfuskee County (Oklahoma),2017,71.4039201912799
+Oklahoma County (Oklahoma),2017,75.6842487034408
+Okmulgee County (Oklahoma),2017,73.0932240061274
+Osage County (Oklahoma),2017,77.3859736183432
+Ottawa County (Oklahoma),2017,72.847074821504
+Pawnee County (Oklahoma),2017,73.9996290092612
+Payne County (Oklahoma),2017,77.842249355335
+Pittsburg County (Oklahoma),2017,73.168455006744
+Pontotoc County (Oklahoma),2017,74.1845983670375
+Pottawatomie County (Oklahoma),2017,73.8549360317077
+Pushmataha County (Oklahoma),2017,73.588816853972
+Roger Mills County (Oklahoma),2017,76.8478735989629
+Rogers County (Oklahoma),2017,77.0256078901983
+Seminole County (Oklahoma),2017,71.5066364770156
+Sequoyah County (Oklahoma),2017,73.4570837399565
+Stephens County (Oklahoma),2017,74.8033583581678
+Texas County (Oklahoma),2017,76.1295965464908
+Tillman County (Oklahoma),2017,74.8485111560631
+Tulsa County (Oklahoma),2017,76.3802242849768
+Wagoner County (Oklahoma),2017,78.0627635802152
+Washington County (Oklahoma),2017,76.4808318413534
+Washita County (Oklahoma),2017,75.075218631134
+Woods County (Oklahoma),2017,76.6093874559487
+Woodward County (Oklahoma),2017,75.9814732091381
+Baker County (Oregon),2017,77.9629140051114
+Benton County (Oregon),2017,82.6740680494252
+Clackamas County (Oregon),2017,80.864929242867
+Clatsop County (Oregon),2017,78.6831739005787
+Columbia County (Oregon),2017,79.0675644770101
+Coos County (Oregon),2017,76.3660256887965
+Crook County (Oregon),2017,78.908752112312
+Curry County (Oregon),2017,76.6676859898622
+Deschutes County (Oregon),2017,81.0876158055724
+Douglas County (Oregon),2017,77.0640637132996
+Gilliam County (Oregon),2017,81.095576177268
+Grant County (Oregon),2017,79.9723879014165
+Harney County (Oregon),2017,78.3521919622831
+Hood River County (Oregon),2017,80.4677762914781
+Jackson County (Oregon),2017,78.8040149509364
+Jefferson County (Oregon),2017,77.832474117956
+Josephine County (Oregon),2017,76.48711494472
+Klamath County (Oregon),2017,76.0983958929304
+Lake County (Oregon),2017,77.8412656514756
+Lane County (Oregon),2017,79.0222283715955
+Lincoln County (Oregon),2017,77.8949476870402
+Linn County (Oregon),2017,77.931853603926
+Malheur County (Oregon),2017,77.9586161185193
+Marion County (Oregon),2017,79.2594779269319
+Morrow County (Oregon),2017,79.5975025117159
+Multnomah County (Oregon),2017,79.4327668608598
+Polk County (Oregon),2017,80.2613053948659
+Sherman County (Oregon),2017,80.8709996220437
+Tillamook County (Oregon),2017,79.0225266887114
+Umatilla County (Oregon),2017,78.4055357889015
+Union County (Oregon),2017,79.1272623173035
+Wallowa County (Oregon),2017,80.147072822847
+Wasco County (Oregon),2017,77.4729719344427
+Washington County (Oregon),2017,82.452477390427
+Wheeler County (Oregon),2017,79.2690147198928
+Yamhill County (Oregon),2017,79.8040807785057
+Adams County (Pennsylvania),2017,79.3166168617587
+Allegheny County (Pennsylvania),2017,77.9334725495949
+Armstrong County (Pennsylvania),2017,76.7330041551337
+Beaver County (Pennsylvania),2017,76.7741757845724
+Bedford County (Pennsylvania),2017,78.042620150623
+Berks County (Pennsylvania),2017,79.0582166592364
+Blair County (Pennsylvania),2017,76.8147811093122
+Bradford County (Pennsylvania),2017,77.7813376473019
+Bucks County (Pennsylvania),2017,79.7695245281358
+Butler County (Pennsylvania),2017,78.6309217778661
+Cambria County (Pennsylvania),2017,76.2656932877615
+Cameron County (Pennsylvania),2017,78.4687338672543
+Carbon County (Pennsylvania),2017,76.6254480033453
+Centre County (Pennsylvania),2017,82.447597586655
+Chester County (Pennsylvania),2017,81.1253060217383
+Clarion County (Pennsylvania),2017,77.9775509887442
+Clearfield County (Pennsylvania),2017,77.6026265398808
+Clinton County (Pennsylvania),2017,78.0822911767805
+Columbia County (Pennsylvania),2017,78.3352069258367
+Crawford County (Pennsylvania),2017,77.0659474905821
+Cumberland County (Pennsylvania),2017,79.9201448938064
+Dauphin County (Pennsylvania),2017,78.4507314316969
+Delaware County (Pennsylvania),2017,78.3651534959719
+Elk County (Pennsylvania),2017,78.0598272853476
+Erie County (Pennsylvania),2017,77.4959147639151
+Fayette County (Pennsylvania),2017,75.2594485855439
+Forest County (Pennsylvania),2017,76.3931610247921
+Franklin County (Pennsylvania),2017,79.2047300628811
+Fulton County (Pennsylvania),2017,77.6225597210443
+Greene County (Pennsylvania),2017,75.669887699931
+Huntingdon County (Pennsylvania),2017,78.7428509465571
+Indiana County (Pennsylvania),2017,78.0271388274715
+Jefferson County (Pennsylvania),2017,77.1090894675542
+Juniata County (Pennsylvania),2017,78.7783267883319
+Lackawanna County (Pennsylvania),2017,76.8047734832707
+Lancaster County (Pennsylvania),2017,80.0326237664884
+Lawrence County (Pennsylvania),2017,76.5430740060266
+Lebanon County (Pennsylvania),2017,78.7903729833157
+Lehigh County (Pennsylvania),2017,79.2240540872602
+Luzerne County (Pennsylvania),2017,76.4096978946803
+Lycoming County (Pennsylvania),2017,78.0498665326598
+McKean County (Pennsylvania),2017,76.7288342436384
+Mercer County (Pennsylvania),2017,76.8673286369705
+Mifflin County (Pennsylvania),2017,78.0591083258182
+Monroe County (Pennsylvania),2017,78.5385719564424
+Montgomery County (Pennsylvania),2017,80.5846011895232
+Montour County (Pennsylvania),2017,78.3676240001011
+Northampton County (Pennsylvania),2017,79.8137408063344
+Northumberland County (Pennsylvania),2017,77.2197592683078
+Perry County (Pennsylvania),2017,77.324245273402
+Philadelphia County (Pennsylvania),2017,75.908914485372
+Pike County (Pennsylvania),2017,80.4591750874596
+Potter County (Pennsylvania),2017,77.8801276032897
+Schuylkill County (Pennsylvania),2017,75.7498687915052
+Snyder County (Pennsylvania),2017,80.1456944843575
+Somerset County (Pennsylvania),2017,77.2990960900099
+Sullivan County (Pennsylvania),2017,75.9792949279568
+Susquehanna County (Pennsylvania),2017,77.686534559235
+Tioga County (Pennsylvania),2017,78.3764837642916
+Union County (Pennsylvania),2017,81.6721946371522
+Venango County (Pennsylvania),2017,77.2993806355589
+Warren County (Pennsylvania),2017,77.9922830246965
+Washington County (Pennsylvania),2017,76.9998440851649
+Wayne County (Pennsylvania),2017,77.89533319519
+Westmoreland County (Pennsylvania),2017,77.8030749729763
+Wyoming County (Pennsylvania),2017,76.6449895027038
+York County (Pennsylvania),2017,78.7654406446848
+Bristol County (Rhode Island),2017,80.9729112673251
+Kent County (Rhode Island),2017,79.0773516352443
+Newport County (Rhode Island),2017,81.4357329234189
+Providence County (Rhode Island),2017,79.3106902697274
+Washington County (Rhode Island),2017,80.9775072645584
+Abbeville County (South Carolina),2017,75.9393059825353
+Aiken County (South Carolina),2017,76.3850771063812
+Allendale County (South Carolina),2017,72.1783344964034
+Anderson County (South Carolina),2017,75.451262500467
+Bamberg County (South Carolina),2017,73.9647779140574
+Barnwell County (South Carolina),2017,73.1867437272465
+Beaufort County (South Carolina),2017,81.8021469166054
+Berkeley County (South Carolina),2017,77.6935185052267
+Calhoun County (South Carolina),2017,75.8450980696117
+Charleston County (South Carolina),2017,78.3908807986508
+Cherokee County (South Carolina),2017,73.2529346410475
+Chester County (South Carolina),2017,72.7991004489032
+Chesterfield County (South Carolina),2017,73.7412798969135
+Clarendon County (South Carolina),2017,75.5348992606419
+Colleton County (South Carolina),2017,72.3952863580736
+Darlington County (South Carolina),2017,72.749037162263
+Dillon County (South Carolina),2017,72.1404303448278
+Dorchester County (South Carolina),2017,77.8637446949951
+Edgefield County (South Carolina),2017,78.501444402612
+Fairfield County (South Carolina),2017,73.7754517514643
+Florence County (South Carolina),2017,73.6768678199475
+Georgetown County (South Carolina),2017,76.1138623336237
+Greenville County (South Carolina),2017,77.697963737044
+Greenwood County (South Carolina),2017,76.0170608167355
+Hampton County (South Carolina),2017,73.6214870729734
+Horry County (South Carolina),2017,76.3924677229403
+Jasper County (South Carolina),2017,76.9335489813775
+Kershaw County (South Carolina),2017,75.8574030527988
+Lancaster County (South Carolina),2017,77.376920161166
+Laurens County (South Carolina),2017,73.5501265529587
+Lee County (South Carolina),2017,71.9935999955051
+Lexington County (South Carolina),2017,77.4705657786103
+McCormick County (South Carolina),2017,76.4291440744521
+Marion County (South Carolina),2017,71.4947934424649
+Marlboro County (South Carolina),2017,71.7403403361299
+Newberry County (South Carolina),2017,75.5930955028676
+Oconee County (South Carolina),2017,76.3922747303441
+Orangeburg County (South Carolina),2017,73.4890047280342
+Pickens County (South Carolina),2017,76.4384182939198
+Richland County (South Carolina),2017,77.0372605233231
+Saluda County (South Carolina),2017,77.078852880133
+Spartanburg County (South Carolina),2017,75.4227770048422
+Sumter County (South Carolina),2017,74.8232639563161
+Union County (South Carolina),2017,73.1445435001887
+Williamsburg County (South Carolina),2017,72.5854641088965
+York County (South Carolina),2017,77.4383392652603
+Aurora County (South Dakota),2017,79.4956091252996
+Beadle County (South Dakota),2017,78.3536619497449
+Bennett County (South Dakota),2017,72.4943653516546
+Bon Homme County (South Dakota),2017,80.0786674717386
+Brookings County (South Dakota),2017,81.2653225003709
+Brown County (South Dakota),2017,80.0138142257277
+Brule County (South Dakota),2017,78.3109428572915
+Buffalo County (South Dakota),2017,69.1510508964198
+Butte County (South Dakota),2017,77.6336369715146
+Campbell County (South Dakota),2017,82.3048976449745
+Charles Mix County (South Dakota),2017,77.0770925153734
+Clark County (South Dakota),2017,79.6671842988113
+Clay County (South Dakota),2017,79.2744403576431
+Codington County (South Dakota),2017,80.4146193833571
+Corson County (South Dakota),2017,69.9432609212552
+Custer County (South Dakota),2017,79.0772074077057
+Davison County (South Dakota),2017,78.6960366557367
+Day County (South Dakota),2017,78.9902622932998
+Deuel County (South Dakota),2017,80.5097684876653
+Dewey County (South Dakota),2017,69.540289085969
+Douglas County (South Dakota),2017,79.3517488158881
+Edmunds County (South Dakota),2017,80.2121203876838
+Fall River County (South Dakota),2017,75.180853049084
+Faulk County (South Dakota),2017,80.6056637619083
+Grant County (South Dakota),2017,79.0042652513652
+Gregory County (South Dakota),2017,77.595682352003
+Haakon County (South Dakota),2017,77.049850636142
+Hamlin County (South Dakota),2017,78.6957859373518
+Hand County (South Dakota),2017,80.2809827547282
+Hanson County (South Dakota),2017,79.2507998298529
+Harding County (South Dakota),2017,80.6174461041407
+Hughes County (South Dakota),2017,79.0892897200491
+Hutchinson County (South Dakota),2017,79.3789437585389
+Hyde County (South Dakota),2017,77.9583560527608
+Jerauld County (South Dakota),2017,79.4387368832931
+Jones County (South Dakota),2017,79.0641231747692
+Kingsbury County (South Dakota),2017,78.6787682905616
+Lake County (South Dakota),2017,80.698768585686
+Lawrence County (South Dakota),2017,80.7664848903531
+Lincoln County (South Dakota),2017,83.7070044880099
+Lyman County (South Dakota),2017,76.4565761007818
+McCook County (South Dakota),2017,77.5902884647924
+McPherson County (South Dakota),2017,79.7532048210069
+Marshall County (South Dakota),2017,80.5662953588461
+Meade County (South Dakota),2017,78.9773304946124
+Mellette County (South Dakota),2017,70.9195679992034
+Miner County (South Dakota),2017,78.353775655181
+Minnehaha County (South Dakota),2017,78.840479314597
+Moody County (South Dakota),2017,79.9410118821606
+Pennington County (South Dakota),2017,79.4584607944179
+Perkins County (South Dakota),2017,78.3469706683899
+Potter County (South Dakota),2017,78.5052320694827
+Roberts County (South Dakota),2017,77.1094808506446
+Sanborn County (South Dakota),2017,78.7859927258787
+Oglala Lakota County (South Dakota),2017,65.3400210661017
+Shannon County (South Dakota),2017,65.3400210661017
+Spink County (South Dakota),2017,79.3727340541037
+Stanley County (South Dakota),2017,80.8210389747231
+Sully County (South Dakota),2017,80.8741278356465
+Todd County (South Dakota),2017,67.0880326534072
+Tripp County (South Dakota),2017,77.2923215114819
+Turner County (South Dakota),2017,78.9626446268954
+Union County (South Dakota),2017,80.7921368909553
+Walworth County (South Dakota),2017,77.1746814387322
+Yankton County (South Dakota),2017,79.3987252790124
+Ziebach County (South Dakota),2017,76.1747183218635
+Jackson County (South Dakota),2017,72.9470293099377
+Washabaugh County (South Dakota),2017,72.9470293099377
+Anderson County (Tennessee),2017,75.1769264200811
+Bedford County (Tennessee),2017,74.741770894819
+Benton County (Tennessee),2017,72.4025405457426
+Bledsoe County (Tennessee),2017,76.5559512280339
+Blount County (Tennessee),2017,76.839001929273
+Bradley County (Tennessee),2017,76.3823274795627
+Campbell County (Tennessee),2017,72.4420482664476
+Cannon County (Tennessee),2017,74.5281496181858
+Carroll County (Tennessee),2017,73.0010052077893
+Carter County (Tennessee),2017,75.4558024532222
+Cheatham County (Tennessee),2017,74.2763961929523
+Chester County (Tennessee),2017,75.7452724786127
+Claiborne County (Tennessee),2017,72.987487717369
+Clay County (Tennessee),2017,73.911005088935
+Cocke County (Tennessee),2017,72.0615621272174
+Coffee County (Tennessee),2017,74.0788260843185
+Crockett County (Tennessee),2017,74.1449087513214
+Cumberland County (Tennessee),2017,76.5459635281491
+Davidson County (Tennessee),2017,76.9247107796289
+Decatur County (Tennessee),2017,74.1374802540998
+DeKalb County (Tennessee),2017,73.540245485845
+Dickson County (Tennessee),2017,74.6659373757499
+Dyer County (Tennessee),2017,73.5969215548812
+Fayette County (Tennessee),2017,77.2795526697482
+Fentress County (Tennessee),2017,72.807928290099
+Franklin County (Tennessee),2017,75.6608615057893
+Gibson County (Tennessee),2017,73.4003015901714
+Giles County (Tennessee),2017,74.6616239190229
+Grainger County (Tennessee),2017,73.8458017469966
+Greene County (Tennessee),2017,74.0774669880397
+Grundy County (Tennessee),2017,71.3267067950531
+Hamblen County (Tennessee),2017,74.5267663035681
+Hamilton County (Tennessee),2017,77.2680094705065
+Hancock County (Tennessee),2017,72.1167621312042
+Hardeman County (Tennessee),2017,74.2278130297709
+Hardin County (Tennessee),2017,73.2550899256402
+Hawkins County (Tennessee),2017,74.4889832728215
+Haywood County (Tennessee),2017,74.1743548560096
+Henderson County (Tennessee),2017,74.0159641355893
+Henry County (Tennessee),2017,74.1401385280731
+Hickman County (Tennessee),2017,74.170119681438
+Houston County (Tennessee),2017,73.8101435326107
+Humphreys County (Tennessee),2017,73.8420252491232
+Jackson County (Tennessee),2017,73.9498434319583
+Jefferson County (Tennessee),2017,75.4451924353719
+Johnson County (Tennessee),2017,74.7957699973677
+Knox County (Tennessee),2017,76.3690931283795
+Lake County (Tennessee),2017,72.3179176567691
+Lauderdale County (Tennessee),2017,73.3189825011506
+Lawrence County (Tennessee),2017,74.142382629932
+Lewis County (Tennessee),2017,74.2078968277841
+Lincoln County (Tennessee),2017,75.0449630526018
+Loudon County (Tennessee),2017,76.915340848669
+McMinn County (Tennessee),2017,74.1142761402595
+McNairy County (Tennessee),2017,73.0349136001273
+Macon County (Tennessee),2017,73.6820014792714
+Madison County (Tennessee),2017,75.867983735355
+Marion County (Tennessee),2017,73.842462425109
+Marshall County (Tennessee),2017,75.1384108563278
+Maury County (Tennessee),2017,75.9487036939323
+Meigs County (Tennessee),2017,72.670832119886
+Monroe County (Tennessee),2017,74.5996783028746
+Montgomery County (Tennessee),2017,75.9869728409169
+Moore County (Tennessee),2017,78.4724612353386
+Morgan County (Tennessee),2017,74.260090485339
+Obion County (Tennessee),2017,74.7308629608859
+Overton County (Tennessee),2017,73.4027972264173
+Perry County (Tennessee),2017,73.0671052424018
+Pickett County (Tennessee),2017,74.9055272946264
+Polk County (Tennessee),2017,73.5466655594121
+Putnam County (Tennessee),2017,75.9047629744465
+Rhea County (Tennessee),2017,73.9898370939813
+Roane County (Tennessee),2017,74.6502966851924
+Robertson County (Tennessee),2017,75.4632447986764
+Rutherford County (Tennessee),2017,77.7707715200676
+Scott County (Tennessee),2017,72.272136373893
+Sequatchie County (Tennessee),2017,75.5093982112171
+Sevier County (Tennessee),2017,75.8049671538163
+Shelby County (Tennessee),2017,75.3481920486578
+Smith County (Tennessee),2017,74.6818492215986
+Stewart County (Tennessee),2017,74.7397868572841
+Sullivan County (Tennessee),2017,75.4887384888164
+Sumner County (Tennessee),2017,77.858447318509
+Tipton County (Tennessee),2017,74.9352666789804
+Trousdale County (Tennessee),2017,74.1446859925103
+Unicoi County (Tennessee),2017,73.8245313813821
+Union County (Tennessee),2017,73.9277655357603
+Van Buren County (Tennessee),2017,74.0052524089531
+Warren County (Tennessee),2017,73.9238197217503
+Washington County (Tennessee),2017,75.6903579678626
+Wayne County (Tennessee),2017,74.8686601964803
+Weakley County (Tennessee),2017,75.8646076641875
+White County (Tennessee),2017,73.8940828649312
+Williamson County (Tennessee),2017,81.7170957452507
+Wilson County (Tennessee),2017,78.0341141360483
+Anderson County (Texas),2017,73.2443341389649
+Andrews County (Texas),2017,75.9041651313103
+Angelina County (Texas),2017,75.6749353773363
+Aransas County (Texas),2017,75.7176514383757
+Archer County (Texas),2017,78.5768089288255
+Armstrong County (Texas),2017,76.2708355709707
+Atascosa County (Texas),2017,77.0288780657017
+Austin County (Texas),2017,78.5805481764792
+Bailey County (Texas),2017,77.8324352871385
+Bandera County (Texas),2017,79.4517306414151
+Bastrop County (Texas),2017,77.7101513044567
+Baylor County (Texas),2017,74.3929941356072
+Bee County (Texas),2017,76.4317770870053
+Bell County (Texas),2017,77.6497694310662
+Bexar County (Texas),2017,78.2814354090988
+Blanco County (Texas),2017,78.7562809492767
+Bosque County (Texas),2017,76.5315000144325
+Bowie County (Texas),2017,75.2033116976109
+Brazoria County (Texas),2017,78.7619351098853
+Brazos County (Texas),2017,80.3268327268414
+Brewster County (Texas),2017,80.8690748647635
+Briscoe County (Texas),2017,77.9110198037367
+Brooks County (Texas),2017,75.6546947144434
+Brown County (Texas),2017,74.7639799458867
+Burleson County (Texas),2017,76.9387425505537
+Burnet County (Texas),2017,78.4056197038383
+Caldwell County (Texas),2017,77.5575745317538
+Calhoun County (Texas),2017,77.2707531380458
+Callahan County (Texas),2017,76.0423649582873
+Cameron County (Texas),2017,79.9320412813641
+Camp County (Texas),2017,74.7834003474696
+Carson County (Texas),2017,78.0472202775382
+Cass County (Texas),2017,74.8813328312694
+Castro County (Texas),2017,78.1646893516522
+Chambers County (Texas),2017,77.3424114273815
+Cherokee County (Texas),2017,76.0450612687625
+Childress County (Texas),2017,75.696721626727
+Clay County (Texas),2017,77.0093635632384
+Cochran County (Texas),2017,74.8244708228425
+Coke County (Texas),2017,76.1703956171654
+Coleman County (Texas),2017,74.4051748521855
+Collin County (Texas),2017,82.0389502554063
+Collingsworth County (Texas),2017,74.8694968551814
+Colorado County (Texas),2017,77.188279414942
+Comal County (Texas),2017,79.2061995012181
+Comanche County (Texas),2017,76.7507966276629
+Concho County (Texas),2017,78.0289900666767
+Cooke County (Texas),2017,76.799161609935
+Coryell County (Texas),2017,77.076965582378
+Cottle County (Texas),2017,75.6609617650547
+Crane County (Texas),2017,75.6741236226188
+Crockett County (Texas),2017,76.7643824074694
+Crosby County (Texas),2017,75.5814587457375
+Culberson County (Texas),2017,78.6130216553036
+Dallam County (Texas),2017,76.7495829195604
+Dallas County (Texas),2017,78.4937432618444
+Dawson County (Texas),2017,75.5747802696624
+Deaf Smith County (Texas),2017,76.7845940634834
+Delta County (Texas),2017,75.0923000870637
+Denton County (Texas),2017,81.3058228079594
+DeWitt County (Texas),2017,76.098938114056
+Dickens County (Texas),2017,76.753847670077
+Dimmit County (Texas),2017,77.4492733419696
+Donley County (Texas),2017,75.6827970329195
+Duval County (Texas),2017,74.8694006176048
+Eastland County (Texas),2017,74.7363007152606
+Ector County (Texas),2017,74.6345930566336
+Edwards County (Texas),2017,78.1000521432534
+Ellis County (Texas),2017,78.0322004895677
+El Paso County (Texas),2017,79.3955564856555
+Erath County (Texas),2017,78.4264835888974
+Falls County (Texas),2017,76.2929651705468
+Fannin County (Texas),2017,75.1487095293047
+Fayette County (Texas),2017,78.7424008785078
+Fisher County (Texas),2017,77.6696494370996
+Floyd County (Texas),2017,77.0297951230383
+Foard County (Texas),2017,76.1924643176444
+Fort Bend County (Texas),2017,82.1191634711516
+Franklin County (Texas),2017,77.4666921805349
+Freestone County (Texas),2017,76.3371473820092
+Frio County (Texas),2017,76.7565559827024
+Gaines County (Texas),2017,77.0841343926269
+Galveston County (Texas),2017,77.4399750017816
+Garza County (Texas),2017,76.3887657834274
+Gillespie County (Texas),2017,80.5042609448216
+Glasscock County (Texas),2017,80.8505459153723
+Goliad County (Texas),2017,78.551183886316
+Gonzales County (Texas),2017,76.245622232426
+Gray County (Texas),2017,74.1727353261129
+Grayson County (Texas),2017,75.9136249196235
+Gregg County (Texas),2017,75.018807755304
+Grimes County (Texas),2017,76.4456702570827
+Guadalupe County (Texas),2017,79.374993180098
+Hale County (Texas),2017,76.5134517404439
+Hall County (Texas),2017,75.2631836359844
+Hamilton County (Texas),2017,75.8167432383701
+Hansford County (Texas),2017,75.8328184623498
+Hardeman County (Texas),2017,76.7412518949997
+Hardin County (Texas),2017,75.5597785367796
+Harris County (Texas),2017,79.1257204735641
+Harrison County (Texas),2017,75.8848042276519
+Hartley County (Texas),2017,79.7517532556309
+Haskell County (Texas),2017,75.6727072268293
+Hays County (Texas),2017,80.2142083952195
+Hemphill County (Texas),2017,77.0349032869269
+Henderson County (Texas),2017,74.9549609204019
+Hidalgo County (Texas),2017,80.8295291937896
+Hill County (Texas),2017,76.0674683360914
+Hockley County (Texas),2017,75.6668713382381
+Hood County (Texas),2017,77.9017490434484
+Hopkins County (Texas),2017,75.9899449744048
+Houston County (Texas),2017,76.0278058221727
+Howard County (Texas),2017,74.1884306873579
+Hudspeth County (Texas),2017,81.2517062873548
+Hunt County (Texas),2017,75.8650079727174
+Hutchinson County (Texas),2017,74.5719460525734
+Irion County (Texas),2017,79.5224042417603
+Jack County (Texas),2017,75.7039752913451
+Jackson County (Texas),2017,76.6906645551729
+Jasper County (Texas),2017,74.8842617399371
+Jeff Davis County (Texas),2017,83.2215081798879
+Jefferson County (Texas),2017,75.743525621938
+Jim Hogg County (Texas),2017,76.1156971407818
+Jim Wells County (Texas),2017,74.9041457159954
+Johnson County (Texas),2017,76.7354295113914
+Jones County (Texas),2017,76.5692572787311
+Karnes County (Texas),2017,76.5180302337789
+Kaufman County (Texas),2017,76.308792325996
+Kendall County (Texas),2017,80.4712813511503
+Kerr County (Texas),2017,77.6054410266438
+Kimble County (Texas),2017,77.9632114679789
+Kinney County (Texas),2017,78.7648845604489
+Kleberg County (Texas),2017,75.7597326178178
+Knox County (Texas),2017,75.7134957244507
+Lamar County (Texas),2017,74.7691537062498
+Lamb County (Texas),2017,75.5706699592785
+Lampasas County (Texas),2017,77.1915062474284
+La Salle County (Texas),2017,77.6493312702783
+Lavaca County (Texas),2017,78.3216904078822
+Lee County (Texas),2017,77.8113991266465
+Leon County (Texas),2017,76.1893300396539
+Liberty County (Texas),2017,73.9043730659397
+Limestone County (Texas),2017,75.1781242406486
+Lipscomb County (Texas),2017,77.3685527786518
+Live Oak County (Texas),2017,78.4631311009812
+Llano County (Texas),2017,78.345966723313
+Lubbock County (Texas),2017,76.1580677795763
+Lynn County (Texas),2017,76.6303993476743
+McCulloch County (Texas),2017,76.0539228002185
+McLennan County (Texas),2017,77.414175748433
+Madison County (Texas),2017,76.4446677258115
+Marion County (Texas),2017,73.800694724117
+Martin County (Texas),2017,76.2337468085726
+Mason County (Texas),2017,78.8436140612226
+Matagorda County (Texas),2017,75.9214636284609
+Maverick County (Texas),2017,77.8605259982448
+Medina County (Texas),2017,78.278675069163
+Menard County (Texas),2017,77.5015120990679
+Midland County (Texas),2017,78.2686276976067
+Milam County (Texas),2017,76.1696094544823
+Mills County (Texas),2017,77.0997115986208
+Mitchell County (Texas),2017,74.8326085167682
+Montague County (Texas),2017,74.2733042924087
+Montgomery County (Texas),2017,79.1520257999091
+Moore County (Texas),2017,77.4276472049687
+Morris County (Texas),2017,73.8146706954501
+Motley County (Texas),2017,76.5486555378042
+Nacogdoches County (Texas),2017,76.3808745056801
+Navarro County (Texas),2017,75.3504474477962
+Newton County (Texas),2017,74.9019050007328
+Nolan County (Texas),2017,74.6589299677611
+Nueces County (Texas),2017,77.6645775215508
+Ochiltree County (Texas),2017,75.8879501271214
+Oldham County (Texas),2017,77.7310090397861
+Orange County (Texas),2017,73.8713101502492
+Palo Pinto County (Texas),2017,75.3483075506774
+Panola County (Texas),2017,74.9920924916339
+Parker County (Texas),2017,77.7201463130091
+Parmer County (Texas),2017,78.304525029119
+Pecos County (Texas),2017,77.2743189187755
+Polk County (Texas),2017,72.4994267912631
+Potter County (Texas),2017,73.70301607242
+Presidio County (Texas),2017,84.7984196530829
+Rains County (Texas),2017,75.9315876096953
+Randall County (Texas),2017,78.5177885029607
+Reagan County (Texas),2017,76.54149856877
+Real County (Texas),2017,75.8715379331704
+Red River County (Texas),2017,73.9635811932425
+Reeves County (Texas),2017,77.0212391491249
+Refugio County (Texas),2017,75.9258024706705
+Robertson County (Texas),2017,76.0775498467682
+Rockwall County (Texas),2017,80.0502929287825
+Runnels County (Texas),2017,75.90750757917
+Rusk County (Texas),2017,76.1162520522743
+Sabine County (Texas),2017,74.9742417870594
+San Augustine County (Texas),2017,74.4184673053391
+San Jacinto County (Texas),2017,76.034411100317
+San Patricio County (Texas),2017,75.6080365429952
+San Saba County (Texas),2017,77.4913876092386
+Schleicher County (Texas),2017,76.7993902999335
+Scurry County (Texas),2017,76.2220577752316
+Shackelford County (Texas),2017,77.8766082812089
+Shelby County (Texas),2017,74.1441236931891
+Sherman County (Texas),2017,77.1251289571464
+Smith County (Texas),2017,77.6111115387791
+Somervell County (Texas),2017,77.4730537514136
+Starr County (Texas),2017,77.9365965078053
+Stephens County (Texas),2017,75.8515894105803
+Sterling County (Texas),2017,76.5090914645689
+Stonewall County (Texas),2017,76.4551988429796
+Sutton County (Texas),2017,78.0291001537282
+Swisher County (Texas),2017,76.500171691896
+Tarrant County (Texas),2017,78.7267789892224
+Taylor County (Texas),2017,75.4618714418363
+Terry County (Texas),2017,75.3713396416476
+Throckmorton County (Texas),2017,76.7515010892425
+Titus County (Texas),2017,76.3496647247617
+Tom Green County (Texas),2017,77.3767022197162
+Travis County (Texas),2017,81.2325365155515
+Trinity County (Texas),2017,73.9356893216644
+Tyler County (Texas),2017,75.1673680631216
+Upshur County (Texas),2017,74.9942247391989
+Upton County (Texas),2017,76.5208715352924
+Uvalde County (Texas),2017,77.4522505409299
+Val Verde County (Texas),2017,78.3327436624789
+Van Zandt County (Texas),2017,75.9318639472979
+Victoria County (Texas),2017,77.4743654447178
+Walker County (Texas),2017,77.9293093289586
+Waller County (Texas),2017,78.4940620818385
+Ward County (Texas),2017,75.2468697830642
+Washington County (Texas),2017,79.2069680185884
+Webb County (Texas),2017,79.2960928031664
+Wharton County (Texas),2017,77.0016183970866
+Wheeler County (Texas),2017,74.7213941210792
+Wichita County (Texas),2017,75.164145374763
+Wilbarger County (Texas),2017,74.7351278375772
+Willacy County (Texas),2017,77.7771388446928
+Williamson County (Texas),2017,81.4391049635912
+Wilson County (Texas),2017,78.6817476045966
+Winkler County (Texas),2017,73.6633313615583
+Wise County (Texas),2017,76.3804476808227
+Wood County (Texas),2017,75.8588979425487
+Yoakum County (Texas),2017,77.0474519956082
+Young County (Texas),2017,74.5031499407449
+Zapata County (Texas),2017,78.1186247581777
+Zavala County (Texas),2017,76.3043611791556
+Beaver County (Utah),2017,76.5879646459849
+Box Elder County (Utah),2017,78.797321735465
+Cache County (Utah),2017,81.3173216501736
+Carbon County (Utah),2017,75.4357258004577
+Daggett County (Utah),2017,79.325537840435
+Davis County (Utah),2017,80.3216651536104
+Duchesne County (Utah),2017,76.4603013081415
+Emery County (Utah),2017,76.6271926745768
+Garfield County (Utah),2017,79.1835886896775
+Grand County (Utah),2017,78.2249572662966
+Iron County (Utah),2017,78.6139538270785
+Juab County (Utah),2017,77.6897146429349
+Kane County (Utah),2017,78.3329574849493
+Millard County (Utah),2017,79.5593949292801
+Morgan County (Utah),2017,81.1642467191155
+Piute County (Utah),2017,77.9524224631585
+Rich County (Utah),2017,81.2361986830784
+Salt Lake County (Utah),2017,79.3239313134086
+San Juan County (Utah),2017,77.9462233583188
+Sanpete County (Utah),2017,78.9073661966125
+Sevier County (Utah),2017,76.9791271010375
+Summit County (Utah),2017,83.0386339973403
+Tooele County (Utah),2017,77.9425021217234
+Uintah County (Utah),2017,76.5034611527936
+Utah County (Utah),2017,80.32134904431
+Wasatch County (Utah),2017,81.1770015915513
+Washington County (Utah),2017,81.3695209908991
+Wayne County (Utah),2017,78.406580984017
+Weber County (Utah),2017,77.9518602868496
+Addison County (Vermont),2017,80.5369719949627
+Bennington County (Vermont),2017,78.553843255677
+Caledonia County (Vermont),2017,78.7385058941037
+Chittenden County (Vermont),2017,81.5187424736523
+Essex County (Vermont),2017,78.5168795794619
+Franklin County (Vermont),2017,78.5671669165533
+Grand Isle County (Vermont),2017,79.9149758409265
+Lamoille County (Vermont),2017,79.9820188076191
+Orange County (Vermont),2017,79.4548961355649
+Orleans County (Vermont),2017,78.0110274887303
+Rutland County (Vermont),2017,78.0694918376482
+Washington County (Vermont),2017,80.1457659004654
+Windham County (Vermont),2017,78.965129851217
+Windsor County (Vermont),2017,79.7675793290889
+Accomack County (Virginia),2017,75.4625664894611
+Amelia County (Virginia),2017,76.0593718315848
+Amherst County (Virginia),2017,77.3180234066433
+Appomattox County (Virginia),2017,77.043308831494
+Arlington County (Virginia),2017,84.5013828036087
+Bath County (Virginia),2017,75.9357720762665
+Bland County (Virginia),2017,75.2602019114634
+Botetourt County (Virginia),2017,79.0546907583585
+Brunswick County (Virginia),2017,75.3541883875331
+Buchanan County (Virginia),2017,72.7632144841734
+Buckingham County (Virginia),2017,77.3207373334508
+Campbell County (Virginia),2017,78.357163026605
+Caroline County (Virginia),2017,77.1420252097193
+Carroll County (Virginia),2017,76.9725694770338
+Charles City County (Virginia),2017,76.5168959664827
+Charlotte County (Virginia),2017,75.1318185029561
+Chesterfield County (Virginia),2017,79.1177595367906
+Clarke County (Virginia),2017,78.6622242827495
+Craig County (Virginia),2017,78.0722296266816
+Culpeper County (Virginia),2017,77.815516362535
+Cumberland County (Virginia),2017,78.4507135600623
+Dickenson County (Virginia),2017,72.6867819573316
+Dinwiddie County (Virginia),2017,76.8257197124199
+Essex County (Virginia),2017,76.2688798218828
+Fauquier County (Virginia),2017,79.4611875033423
+Floyd County (Virginia),2017,78.8086661328198
+Fluvanna County (Virginia),2017,80.5394967111617
+Franklin County (Virginia),2017,77.9999859775673
+Frederick County (Virginia),2017,79.2437406978987
+Giles County (Virginia),2017,75.1370537054295
+Gloucester County (Virginia),2017,77.0050418997042
+Goochland County (Virginia),2017,80.1807262980879
+Grayson County (Virginia),2017,76.1567499379523
+Greene County (Virginia),2017,79.0379952155059
+Hanover County (Virginia),2017,79.3831995889117
+Henrico County (Virginia),2017,79.0457822582258
+Henry County (Virginia),2017,75.3699958359555
+Highland County (Virginia),2017,79.2749367997156
+Isle of Wight County (Virginia),2017,78.3757020623098
+King and Queen County (Virginia),2017,76.9468585342326
+King George County (Virginia),2017,78.6730633273891
+King William County (Virginia),2017,76.8637416186994
+Lancaster County (Virginia),2017,77.0401817614722
+Lee County (Virginia),2017,74.1973592921761
+Loudoun County (Virginia),2017,83.9061215343121
+Louisa County (Virginia),2017,78.0818061009228
+Lunenburg County (Virginia),2017,75.6024504971381
+Madison County (Virginia),2017,78.1632506652458
+Mathews County (Virginia),2017,78.5594098899913
+Mecklenburg County (Virginia),2017,75.3915109782403
+Middlesex County (Virginia),2017,76.8574720000925
+Montgomery County (Virginia),2017,79.7502749098842
+Nelson County (Virginia),2017,77.8679108218622
+New Kent County (Virginia),2017,78.5024626550055
+Northampton County (Virginia),2017,75.5667079152072
+Northumberland County (Virginia),2017,79.0465737269632
+Nottoway County (Virginia),2017,74.7386810990788
+Orange County (Virginia),2017,77.6029157319652
+Page County (Virginia),2017,76.5119101901615
+Patrick County (Virginia),2017,76.0165107946825
+Powhatan County (Virginia),2017,80.0851935941863
+Prince Edward County (Virginia),2017,76.9155891171149
+Prince George County (Virginia),2017,79.542954598696
+Pulaski County (Virginia),2017,75.5145902051655
+Rappahannock County (Virginia),2017,80.004668674295
+Richmond County (Virginia),2017,76.4143016301754
+Roanoke County (Virginia),2017,79.0811009132794
+Russell County (Virginia),2017,74.3603243859548
+Scott County (Virginia),2017,74.9886685686641
+Shenandoah County (Virginia),2017,78.3950682821043
+Smyth County (Virginia),2017,74.3696494151698
+Stafford County (Virginia),2017,80.0231739810106
+Surry County (Virginia),2017,77.0165718931412
+Sussex County (Virginia),2017,74.5464091245214
+Tazewell County (Virginia),2017,73.0502082354613
+Warren County (Virginia),2017,76.4798691557132
+Washington County (Virginia),2017,76.8200560553834
+Westmoreland County (Virginia),2017,76.5914705642058
+Wise County (Virginia),2017,72.9040363850888
+Wythe County (Virginia),2017,75.3785313203347
+Alexandria City (Virginia),2017,83.2079253264305
+Bristol City (Virginia),2017,73.0659347138769
+Chesapeake City (Virginia),2017,78.2146526082588
+Colonial Heights City (Virginia),2017,75.0541795257489
+Covington City (Virginia),2017,71.416059872276
+Falls Church City (Virginia),2017,81.6034311910821
+Galax City (Virginia),2017,70.3182811717938
+Hampton City (Virginia),2017,76.5004124979844
+Hopewell City (Virginia),2017,71.6105949694145
+Lexington City (Virginia),2017,76.8057788134345
+Lynchburg City (Virginia),2017,76.4647906456294
+Martinsville City (Virginia),2017,68.4673155831136
+Norfolk City (Virginia),2017,75.3008229825164
+Norton City (Virginia),2017,74.1174787475517
+Petersburg City (Virginia),2017,69.1202139971658
+Poquoson City (Virginia),2017,79.5342481340469
+Portsmouth City (Virginia),2017,73.9845571479428
+Radford City (Virginia),2017,76.9305238409159
+Richmond City (Virginia),2017,76.7208559290136
+Roanoke City (Virginia),2017,74.163901908278
+Salem City (Virginia),2017,75.5069740444181
+Suffolk City (Virginia),2017,77.3624266409238
+Virginia Beach City (Virginia),2017,79.9634763383812
+Winchester City (Virginia),2017,77.3189074944668
+Fairfax County (Virginia),2017,84.5420818957753
+Fairfax City (Virginia),2017,84.5420818957753
+Rockingham County (Virginia),2017,80.3639630983668
+Harrisonburg City (Virginia),2017,80.3639630983668
+James City County (Virginia),2017,81.5247747465168
+Williamsburg City (Virginia),2017,81.5247747465168
+Prince William County (Virginia),2017,81.5209380918863
+Manassas City (Virginia),2017,81.5209380918863
+Manassas Park City (Virginia),2017,81.5209380918863
+Rockbridge County (Virginia),2017,78.6665550542775
+Buena Vista City (Virginia),2017,78.6665550542775
+Spotsylvania County (Virginia),2017,79.068390018454
+Fredericksburg City (Virginia),2017,79.068390018454
+Augusta County (Virginia),2017,77.9541651385276
+Staunton City (Virginia),2017,77.9541651385276
+Waynesboro City (Virginia),2017,77.9541651385276
+Pittsylvania County (Virginia),2017,74.8262023881608
+Danville City (Virginia),2017,74.8262023881608
+Greensville County (Virginia),2017,73.9492314014141
+Emporia City (Virginia),2017,73.9492314014141
+Albemarle County (Virginia),2017,81.4325589160464
+Charlottesville City (Virginia),2017,81.4325589160464
+Bedford County (Virginia),2017,78.793567537194
+Bedford City (Virginia),2017,78.793567537194
+Halifax County (Virginia),2017,75.3972149293055
+South Boston City (Virginia),2017,75.3972149293055
+Southampton County (Virginia),2017,75.6528436135065
+Franklin City (Virginia),2017,75.6528436135065
+Alleghany County (Virginia),2017,75.4245594617841
+Clifton Forge City (Virginia),2017,75.4245594617841
+York County (Virginia),2017,77.7609941287732
+Newport News City (Virginia),2017,77.7609941287732
+Adams County (Washington),2017,79.01824127658
+Asotin County (Washington),2017,79.0113135848488
+Benton County (Washington),2017,80.0286486250759
+Chelan County (Washington),2017,80.3410994630139
+Clallam County (Washington),2017,78.5765135209617
+Clark County (Washington),2017,79.8688567995655
+Columbia County (Washington),2017,79.3739955686519
+Cowlitz County (Washington),2017,76.9693448468525
+Douglas County (Washington),2017,81.0567094049108
+Ferry County (Washington),2017,77.8557048435155
+Franklin County (Washington),2017,80.6629103212852
+Garfield County (Washington),2017,80.630047731898
+Grant County (Washington),2017,78.997619967118
+Grays Harbor County (Washington),2017,76.6320707020811
+Island County (Washington),2017,81.4750839813812
+Jefferson County (Washington),2017,81.3493239358558
+King County (Washington),2017,82.0490245290503
+Kitsap County (Washington),2017,79.8419308778887
+Kittitas County (Washington),2017,81.3837956169655
+Klickitat County (Washington),2017,81.2034271379807
+Lewis County (Washington),2017,77.5288762620298
+Lincoln County (Washington),2017,80.1333611504602
+Mason County (Washington),2017,78.3235959919157
+Okanogan County (Washington),2017,78.0150743767372
+Pacific County (Washington),2017,76.9355185412773
+Pend Oreille County (Washington),2017,77.8997582450937
+Pierce County (Washington),2017,78.7616553771314
+San Juan County (Washington),2017,84.294588259295
+Skagit County (Washington),2017,79.7919300590838
+Skamania County (Washington),2017,81.2329860636602
+Snohomish County (Washington),2017,80.2217549110859
+Spokane County (Washington),2017,78.3844273065326
+Stevens County (Washington),2017,78.5100840952829
+Thurston County (Washington),2017,80.0424659671914
+Wahkiakum County (Washington),2017,79.5434551104177
+Walla Walla County (Washington),2017,79.7559153563203
+Whatcom County (Washington),2017,80.8747242800225
+Whitman County (Washington),2017,80.8558553877112
+Yakima County (Washington),2017,77.8069488299297
+Barbour County (West Virginia),2017,75.8539353684608
+Berkeley County (West Virginia),2017,75.662266062905
+Boone County (West Virginia),2017,71.1981600452838
+Braxton County (West Virginia),2017,75.5740508753948
+Brooke County (West Virginia),2017,75.6380188203488
+Cabell County (West Virginia),2017,72.4245974346246
+Calhoun County (West Virginia),2017,75.9718099878915
+Clay County (West Virginia),2017,73.2839946368751
+Doddridge County (West Virginia),2017,77.7417104500257
+Fayette County (West Virginia),2017,72.7452535108991
+Gilmer County (West Virginia),2017,76.5271752540157
+Grant County (West Virginia),2017,77.7180793954728
+Greenbrier County (West Virginia),2017,75.1025989926794
+Hampshire County (West Virginia),2017,76.5186624843024
+Hancock County (West Virginia),2017,75.016704519703
+Hardy County (West Virginia),2017,77.1625748496729
+Harrison County (West Virginia),2017,75.1520631657607
+Jackson County (West Virginia),2017,75.7157932171169
+Jefferson County (West Virginia),2017,77.7133739062143
+Kanawha County (West Virginia),2017,73.6266528880823
+Lewis County (West Virginia),2017,73.6592946137817
+Lincoln County (West Virginia),2017,71.724412701683
+Logan County (West Virginia),2017,69.7564753431037
+McDowell County (West Virginia),2017,68.1679556684428
+Marion County (West Virginia),2017,76.1691560176845
+Marshall County (West Virginia),2017,76.3117519542463
+Mason County (West Virginia),2017,73.7687703826201
+Mercer County (West Virginia),2017,72.6143122412024
+Mineral County (West Virginia),2017,76.1240221558632
+Mingo County (West Virginia),2017,69.958315296558
+Monongalia County (West Virginia),2017,79.2626157539666
+Monroe County (West Virginia),2017,76.1295565107339
+Morgan County (West Virginia),2017,75.8477367453995
+Nicholas County (West Virginia),2017,73.8415567597111
+Ohio County (West Virginia),2017,76.3043636221217
+Pendleton County (West Virginia),2017,78.5383084499513
+Pleasants County (West Virginia),2017,75.1856699122453
+Pocahontas County (West Virginia),2017,76.4171895537834
+Preston County (West Virginia),2017,76.8351081958562
+Putnam County (West Virginia),2017,76.2453102491475
+Raleigh County (West Virginia),2017,72.7602014771212
+Randolph County (West Virginia),2017,75.9078116038228
+Ritchie County (West Virginia),2017,75.9922791305566
+Roane County (West Virginia),2017,73.6934687349806
+Summers County (West Virginia),2017,74.2332407367945
+Taylor County (West Virginia),2017,76.5582921501707
+Tucker County (West Virginia),2017,77.2304074050641
+Tyler County (West Virginia),2017,76.0162526626571
+Upshur County (West Virginia),2017,76.4787711273943
+Wayne County (West Virginia),2017,74.6779787020897
+Webster County (West Virginia),2017,73.9294455952103
+Wetzel County (West Virginia),2017,75.4003688842629
+Wirt County (West Virginia),2017,75.637868472475
+Wood County (West Virginia),2017,75.3533566060241
+Wyoming County (West Virginia),2017,70.6011139145134
+Adams County (Wisconsin),2017,77.5203182294726
+Ashland County (Wisconsin),2017,76.6481825903794
+Barron County (Wisconsin),2017,78.9956597825209
+Bayfield County (Wisconsin),2017,79.8730327354129
+Brown County (Wisconsin),2017,79.7620116783683
+Buffalo County (Wisconsin),2017,80.144123939002
+Burnett County (Wisconsin),2017,79.0371186414264
+Calumet County (Wisconsin),2017,80.2274940419592
+Chippewa County (Wisconsin),2017,79.355121340669
+Clark County (Wisconsin),2017,78.7810131711099
+Columbia County (Wisconsin),2017,78.8245209678645
+Crawford County (Wisconsin),2017,79.3312572005459
+Dane County (Wisconsin),2017,81.5154860275098
+Dodge County (Wisconsin),2017,78.5645387585289
+Door County (Wisconsin),2017,80.4748857547327
+Douglas County (Wisconsin),2017,78.4598641617667
+Dunn County (Wisconsin),2017,80.6225406367522
+Eau Claire County (Wisconsin),2017,79.6361050835665
+Florence County (Wisconsin),2017,77.4338418508754
+Fond du Lac County (Wisconsin),2017,79.9967986946266
+Forest County (Wisconsin),2017,76.8499167192053
+Grant County (Wisconsin),2017,79.3944010244248
+Green County (Wisconsin),2017,79.9367336718871
+Green Lake County (Wisconsin),2017,78.3400316715381
+Iowa County (Wisconsin),2017,79.8643646409361
+Iron County (Wisconsin),2017,78.3471410450659
+Jackson County (Wisconsin),2017,77.9931552136971
+Jefferson County (Wisconsin),2017,79.7701824603817
+Juneau County (Wisconsin),2017,77.5862808002522
+Kenosha County (Wisconsin),2017,77.9447577371041
+Kewaunee County (Wisconsin),2017,81.2730507023335
+La Crosse County (Wisconsin),2017,80.0196364976168
+Lafayette County (Wisconsin),2017,80.6652352615098
+Langlade County (Wisconsin),2017,78.610468724167
+Lincoln County (Wisconsin),2017,78.5311952878332
+Manitowoc County (Wisconsin),2017,79.0738811338751
+Marathon County (Wisconsin),2017,80.0167260442132
+Marinette County (Wisconsin),2017,77.6657454674098
+Marquette County (Wisconsin),2017,77.9004803669924
+Menominee County (Wisconsin),2017,72.6690715647744
+Milwaukee County (Wisconsin),2017,76.8652376242481
+Monroe County (Wisconsin),2017,78.305289941199
+Oconto County (Wisconsin),2017,78.791806332527
+Oneida County (Wisconsin),2017,78.6873377097619
+Outagamie County (Wisconsin),2017,79.9844452730006
+Ozaukee County (Wisconsin),2017,81.7046864821011
+Pepin County (Wisconsin),2017,80.8145584647154
+Pierce County (Wisconsin),2017,80.8916330684287
+Polk County (Wisconsin),2017,78.8930141543607
+Portage County (Wisconsin),2017,80.926541683083
+Price County (Wisconsin),2017,78.195306705973
+Racine County (Wisconsin),2017,78.2474880425416
+Richland County (Wisconsin),2017,80.1975111684344
+Rock County (Wisconsin),2017,78.1481005248775
+Rusk County (Wisconsin),2017,77.9257408652639
+Saint Croix County (Wisconsin),2017,80.4779787733397
+Sauk County (Wisconsin),2017,78.9296787553042
+Sawyer County (Wisconsin),2017,77.180051237248
+Shawano County (Wisconsin),2017,78.5397530073766
+Sheboygan County (Wisconsin),2017,79.3246244147923
+Taylor County (Wisconsin),2017,80.7232540799274
+Trempealeau County (Wisconsin),2017,79.183516290107
+Vernon County (Wisconsin),2017,79.6667342579279
+Vilas County (Wisconsin),2017,78.3793595729041
+Walworth County (Wisconsin),2017,79.1880021205789
+Washburn County (Wisconsin),2017,78.1481816675727
+Washington County (Wisconsin),2017,80.714187343308
+Waukesha County (Wisconsin),2017,81.443978654315
+Waupaca County (Wisconsin),2017,77.4612379345334
+Waushara County (Wisconsin),2017,78.6802820980016
+Winnebago County (Wisconsin),2017,79.6064389549513
+Wood County (Wisconsin),2017,79.4331465748946
+Albany County (Wyoming),2017,80.5534100061728
+Big Horn County (Wyoming),2017,76.214768126384
+Campbell County (Wyoming),2017,77.6507972274584
+Carbon County (Wyoming),2017,77.3602055879581
+Converse County (Wyoming),2017,77.9352117055521
+Crook County (Wyoming),2017,79.5770253294442
+Fremont County (Wyoming),2017,74.6397978389747
+Goshen County (Wyoming),2017,79.245837146717
+Hot Springs County (Wyoming),2017,75.6124041180806
+Johnson County (Wyoming),2017,79.0513638359084
+Laramie County (Wyoming),2017,78.1928099994884
+Lincoln County (Wyoming),2017,79.6974249914786
+Natrona County (Wyoming),2017,77.1359585473938
+Niobrara County (Wyoming),2017,77.959731217091
+Park County (Wyoming),2017,79.996801961862
+Platte County (Wyoming),2017,78.3413539542418
+Sheridan County (Wyoming),2017,77.8605519813174
+Sublette County (Wyoming),2017,81.5650922362281
+Sweetwater County (Wyoming),2017,77.5863985912384
+Teton County (Wyoming),2017,84.9334216134012
+Uinta County (Wyoming),2017,77.2860211628857
+Washakie County (Wyoming),2017,78.0273577292463
+Weston County (Wyoming),2017,78.7946246052291

@@ -228,15 +228,15 @@ Analyze demographic features to identify and remove redundant variables using co
 6. **Median Age**: Moderate correlation with education metrics, VIF=8.9
 
 ### Variables Retained (9 total)
-1. Population Total
-2. Poverty Rate (%)
-3. Unemployment Rate (%)
-4. Bachelor's Degree or Higher (%)
-5. Black Population (%)
-6. Housing Tenure (% owner-occupied)
-7. Population Density
-8. Health Insurance Coverage (%)
-9. Foreign Born (%)
+1. Total Population
+2. Poverty Rate
+3. Unemployment Rate
+4. Disability Rate
+5. Bachelor's Degree or Higher (%)
+6. Hispanic Population (%)
+7. Black Population (%)
+8. Households with No Vehicle (%)
+9. Single Mother Families (%)
 
 ### Output
 - **Figures**: 
@@ -288,25 +288,6 @@ Analyze weather features to identify and remove irrelevant and redundant variabl
    - Assessed relationship with life expectancy
    - Retained features with |r| > 0.1 or theoretical importance
 
-### Weather Variables Removed (82 total)
-- **Irrelevant**: 67 variables (Phase 1)
-- **Redundant**: 15 variables (Phase 2)
-  - Multiple temperature metrics (min, max highly correlated with mean)
-  - Redundant precipitation measures
-  - Highly correlated humidity metrics
-  - Duplicate solar radiation variables
-  - Correlated wind speed measures
-
-### Weather Variables Retained (~21 final)
-Key retained variables include:
-- Mean Temperature
-- Precipitation Total
-- Relative Humidity
-- Solar Radiation
-- Vapor Pressure Deficit
-- Temperature Variability (std)
-- Seasonal metrics
-- Extreme weather indicators
 
 ### Output
 - **Figures**:
@@ -366,33 +347,52 @@ Generate the final dataset by removing redundant features and applying consisten
 ### Feature Categories in Final Dataset
 
 #### Demographics (9 features)
-1. Population Total
-2. Poverty Rate (%)
-3. Unemployment Rate (%)
-4. Bachelor's Degree or Higher (%)
-5. Black Population (%)
-6. Housing Tenure (% owner-occupied)
-7. Population Density
-8. Health Insurance Coverage (%)
-9. Foreign Born (%)
 
-#### Weather (~21 features)
-- Temperature metrics (mean, variability)
-- Precipitation measures
-- Humidity indicators
-- Solar radiation
-- Vapor pressure
-- Seasonal measures
+1. Poverty Rate
+2. Bachelor's Degree or Higher (%)
+3. Disability Rate
+4. Total Population
+5. Unemployment Rate
+6. Hispanic Population (%)
+7. Black Population (%)
+8. Households with No Vehicle (%)
+9. Single Mother Families (%)
+
+#### Weather (~28 features)
+1. 10m wind speed
+2. Black carbon AOD at 550 nm
+3. Dust AOD at 550 nm
+4. FoT Carbonmonoxide above75ᵗʰ percentile
+5. FoT Ethane above75ᵗʰ percentile
+6. FoT Formaldehyde above75ᵗʰ percentile
+8. FoT Hydroxyl radical above75ᵗʰ percentile
+9. FoT Isoprene above75ᵗʰ percentile
+10. FoT Nitric acid above75ᵗʰ percentile
+11. FoT Nitrogen dioxide above75ᵗʰ percentile
+12. FoT Nitrogen monoxide above75ᵗʰ percentile
+13. FoT Ozone above75ᵗʰ percentile
+14. FoT PM$_{2.5}$ above75ᵗʰ percentile
+16. FoT Propane above75ᵗʰ percentile
+17. FoT Sulphur dioxide above75ᵗʰ percentile
+19. Land-sea mask
+20. Leaf area index, high vegetation
+21. Leaf area index, low vegetation
+22. Mean sea level pressure
+23. Organic matter AOD at 550 nm
+24. Relative humidity
+25. Sea salt AOD at 550 nm
+27. Snow depth
+28. Sulphate AOD at 550 nm
 
 #### Livestock (8 features)
-1. Cattle Total
-2. Cattle on Feed
-3. Milk Cows
-4. Broiler Chickens
-5. Layer Chickens
-6. Hogs
-7. Sheep
-8. Livestock density
+1. Buffalo
+2. Cattle
+3. Chicken
+4. Duck
+5. Goat
+6. Horse
+7. Pig
+8. Sheep
 
 ### Output
 - **File**: `data_cleaned/combined_final/final_combined_all_variables_reduced.csv`
@@ -458,10 +458,9 @@ Train XGBoost regression models with Bayesian hyperparameter optimization across
 #### Performance Metrics
 | Metric | Training Set | Test Set |
 |--------|--------------|----------|
-| R² Score | ~0.95-0.98 | ~0.93-0.95 |
-| Adjusted R² | ~0.95-0.97 | ~0.92-0.94 |
-| RMSE | ~0.8-1.0 years | ~1.0-1.2 years |
-| MAE | ~0.6-0.8 years | ~0.7-0.9 years |
+| R² Score | 0.999 | 0.962 |
+| RMSE | 0.090 years | 0.489 years |
+| MAE | 0.068 years | 0.360 years |
 
 #### Analyses Performed
 1. **Scatter Plot** (Fig 1): Predictions vs. Actual
@@ -474,20 +473,11 @@ Train XGBoost regression models with Bayesian hyperparameter optimization across
    - Assesses prediction distribution alignment
 
 3. **Permutation Importance** (Fig 3): Top 25 features
-   - Poverty Rate, Population Density, Education typically most important
 
 4. **SHAP Analysis**:
    - **Summary Plot** (Fig 4): Feature importance with directionality
    - **Bar Plot** (Fig 5): Mean absolute SHAP values
    - **Dependence Plots** (Fig 6): Top 3 features showing non-linear relationships
-
-#### Key Features Identified
-Top 5 predictors (typical):
-1. Poverty Rate (%)
-2. Population Density
-3. Bachelor's Degree or Higher (%)
-4. Black Population (%)
-5. Temperature/Weather metrics
 
 ---
 
@@ -500,10 +490,9 @@ Top 5 predictors (typical):
 #### Performance Metrics
 | Metric | Training Set | Test Set |
 |--------|--------------|----------|
-| R² Score | ~0.94-0.96 | ~0.92-0.94 |
-| Adjusted R² | ~0.94-0.96 | ~0.91-0.93 |
-| RMSE | ~0.9-1.1 years | ~1.1-1.3 years |
-| MAE | ~0.7-0.8 years | ~0.8-1.0 years |
+| R² Score | 1.000 | 0.969 |
+| RMSE | 0.009 years | 0.442 years |
+| MAE | 0.007 years | 0.321 years |
 
 #### Analyses Performed
 1. **Correlation Heatmap** (Fig 7A): Full square matrix without annotations
@@ -521,9 +510,10 @@ Top 5 predictors (typical):
 7. **Cross-Validation** (Fig 14): R² and RMSE distributions
 
 #### Key Findings
-- Minimal performance degradation from All Features model
-- 50% fewer features with <2% R² loss
-- Improved interpretability
+- **Best performing model** across all configurations
+- Achieves near-perfect training fit (R² = 1.000) with excellent generalization (Test R² = 0.969)
+- 50% fewer features than All Features model with improved test performance
+- Optimal balance of complexity and accuracy
 - Consistent cross-validation performance
 
 ---
@@ -537,10 +527,9 @@ Top 5 predictors (typical):
 #### Performance Metrics
 | Metric | Training Set | Test Set |
 |--------|--------------|----------|
-| R² Score | ~0.92-0.94 | ~0.90-0.92 |
-| Adjusted R² | ~0.91-0.93 | ~0.89-0.91 |
-| RMSE | ~1.0-1.2 years | ~1.2-1.4 years |
-| MAE | ~0.8-0.9 years | ~0.9-1.1 years |
+| R² Score | 0.999 | 0.953 |
+| RMSE | 0.070 years | 0.545 years |
+| MAE | 0.050 years | 0.399 years |
 
 #### Analyses Performed
 1. **Correlation Heatmap** (Fig 15A): Full square WITH annotations
@@ -555,8 +544,8 @@ Top 5 predictors (typical):
 
 #### Key Findings
 - Excellent balance between simplicity and performance
-- R² only ~3-5% lower than All Features model
-- Highly interpretable with 10 features
+- Test R² only 1.6% lower than Top 20 model (0.953 vs 0.969)
+- Highly interpretable with minimal features
 - All features have clear theoretical relevance
 
 ---
@@ -570,10 +559,9 @@ Top 5 predictors (typical):
 #### Performance Metrics
 | Metric | Training Set | Test Set |
 |--------|--------------|----------|
-| R² Score | ~0.88-0.90 | ~0.86-0.88 |
-| Adjusted R² | ~0.87-0.89 | ~0.85-0.87 |
-| RMSE | ~1.3-1.5 years | ~1.5-1.7 years |
-| MAE | ~1.0-1.2 years | ~1.1-1.3 years |
+| R² Score | 0.948 | 0.801 |
+| RMSE | 0.577 years | 1.121 years |
+| MAE | 0.438 years | 0.851 years |
 
 #### Analyses Performed
 1. **Scatter Plot** (Fig 21): Performance visualization
@@ -585,18 +573,12 @@ Top 5 predictors (typical):
    - Dependence Plots (Fig 26): Top 3 features
 5. **Cross-Validation** (Fig 27): R² and RMSE distributions
 
-#### Top 5 Features (Typical)
-1. Poverty Rate (%)
-2. Bachelor's Degree or Higher (%)
-3. Population Density
-4. Black Population (%)
-5. Mean Temperature or Livestock metric
-
 #### Key Findings
-- Performance degradation noticeable but model still useful
-- R² ~7-10% lower than All Features model
+- Significant performance degradation with only 5 features
+- Test R² drops to 0.801 (16.8% lower than Top 20 model)
+- RMSE increases to 1.121 years - still reasonable prediction accuracy
 - Maximum interpretability with minimal features
-- Demonstrates diminishing returns of additional features
+- Demonstrates diminishing returns and importance of feature diversity
 
 ---
 
@@ -607,27 +589,25 @@ Quantify the trade-off between model complexity (number of features) and predict
 
 #### Results Summary Table (Table 5)
 
-| Feature Set | Num Features | Train R² | Test R² | Train RMSE | Test RMSE | Test MAE |
-|-------------|--------------|----------|---------|------------|-----------|----------|
-| All Features | ~38 | ~0.96 | ~0.94 | ~0.9 | ~1.1 | ~0.8 |
-| Top 20 | 20 | ~0.95 | ~0.93 | ~1.0 | ~1.2 | ~0.9 |
-| Top 10 | 10 | ~0.93 | ~0.91 | ~1.1 | ~1.3 | ~1.0 |
-| Top 5 | 5 | ~0.89 | ~0.87 | ~1.4 | ~1.6 | ~1.2 |
-
-*Note: Exact values depend on Bayesian optimization results*
+| Feature Set | Num Features | Train R² | Test R² | Train RMSE | Test RMSE | Train MAE | Test MAE |
+|-------------|--------------|----------|---------|------------|-----------|-----------|----------|
+| All Features | 41 | 0.999 | 0.962 | 0.090 | 0.489 | 0.068 | 0.360 |
+| Top 20 | 20 | 1.000 | 0.969 | 0.009 | 0.442 | 0.007 | 0.321 |
+| Top 10 | 10 | 0.999 | 0.953 | 0.070 | 0.545 | 0.050 | 0.399 |
+| Top 5 | 5 | 0.948 | 0.801 | 0.577 | 1.121 | 0.438 | 0.851 |
 
 #### Ablation Plot (Fig 28)
 - **Dual-axis plot**: R² (blue) and RMSE (red) vs. Number of Features
-- **X-axis**: Number of features (5, 10, 20, 38)
+- **X-axis**: Number of features (5, 10, 20, 41)
 - **Y-axis (left)**: R² Score
 - **Y-axis (right)**: RMSE (years)
 - **Annotations**: Feature counts labeled on plot
 
 #### Key Insights
-1. **Diminishing Returns**: Performance gain decreases with additional features
-2. **Optimal Range**: 10-20 features capture most predictive power
-3. **Pareto Principle**: ~50% of features explain ~95% of variance
-4. **Practical Trade-off**: Top 10 model offers best balance for deployment
+1. **Sweet Spot Identified**: Top 20 features achieve the best test performance (R² = 0.969)
+2. **Diminishing Returns**: Adding features beyond 20 provides no benefit (All Features: R² = 0.962)
+3. **Pareto Efficiency**: 20 features (49% of total) capture 97% of achievable variance
+4. **Practical Trade-off**: Top 20 model recommended for deployment - highest accuracy with significant dimensionality reduction
 
 ---
 
@@ -697,24 +677,17 @@ All outputs saved to: `data_cleaned/outputs_cleaned/modeling/xgboost/`
 - **Counties**: ~3,000 U.S. counties
 
 ### Model Performance Summary
-- **Best Model**: All Features (~38 features)
-  - Test R²: ~0.94
-  - Test RMSE: ~1.1 years
+- **Best Model**: Top 20 Features
+  - Test R²: 0.969
+  - Test RMSE: 0.442 years
+  - Train R²: 1.000
+  - Achieves highest test accuracy with 50% feature reduction
   
-- **Recommended Model**: Top 10 Features
-  - Test R²: ~0.91
-  - Test RMSE: ~1.3 years
-  - Optimal balance of performance and interpretability
-
-### Key Predictive Features (Across All Models)
-1. **Poverty Rate (%)** - Strongest single predictor
-2. **Bachelor's Degree or Higher (%)** - Education indicator
-3. **Population Density** - Urbanization proxy
-4. **Black Population (%)** - Health disparity indicator
-5. **Temperature Metrics** - Climate factors
-6. **Livestock Density** - Rural health proxy
-7. **Health Insurance Coverage (%)** - Healthcare access
-8. **Unemployment Rate (%)** - Economic indicator
+- **Alternative Model**: Top 10 Features
+  - Test R²: 0.953
+  - Test RMSE: 0.545 years
+  - Only 1.6% R² loss from Top 20 with 75% feature reduction
+  - Excellent balance of performance and interpretability
 
 ### Feature Category Importance
 - **Demographics**: Most important overall (~60% of SHAP importance)

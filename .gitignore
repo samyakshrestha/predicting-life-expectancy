@@ -1,0 +1,13 @@
+# Large data files
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.pkl
+*.joblib
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store

@@ -1,0 +1,16 @@
+Variable,Correlation with Target
+Median Household Income,0.653324230152406
+Poverty Rate,-0.6479477597353025
+Disability Rate,-0.640858022489069
+Bachelor's Degree or Higher (%),0.6375632115443468
+High School Degree or Higher (%),0.5519478693663113
+Unemployment Rate,-0.43996451102706574
+Single Mother Families (%),-0.4273209240912949
+Black Population (%),-0.38351437510528397
+White Population (%),0.3351922122647391
+Households with No Vehicle (%),-0.2851393986510084
+Gini Index,-0.27813452373868436
+Total Population,0.20286558489276119
+Hispanic Population (%),0.14995324936130983
+Median Age,0.07514142578249153
+Rent Burden (+50% of HI),0.019499018417654782

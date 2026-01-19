@@ -1,0 +1,46 @@
+Variable,Correlation with Target
+FoT Formaldehyde above75ᵗʰ percentile,-0.564069830007999
+FoT Isoprene above75ᵗʰ percentile,-0.5305716041249067
+Isoprene,-0.5065528193927465
+FoT Peroxyacetyl Nitrate above75ᵗʰ percentile,-0.49928463498678016
+Wet bulb temperature,-0.472694785634297
+FoT Temperature below25ᵗʰ percentile,0.45029488468092976
+FoT Temperature above75ᵗʰ percentile,-0.43409279792763006
+Sulphate AOD at 550 nm,-0.4319424679709608
+Snow albedo,-0.4173954928182005
+FoT Hydrogen peroxide above75ᵗʰ percentile,-0.40512005428132797
+Dust AOD at 550 nm,-0.35017310575462146
+Mean sea level pressure,-0.33051927922115926
+Sulphate aerosol mixing ratio,-0.31480231820093035
+Dust aerosol (0.55-0.9 µm) mixing ratio,-0.30803163448757587
+Hydroxyl radical,0.3061761788895732
+FoT Nitrogen monoxide above75ᵗʰ percentile,0.30067783648152124
+FoT Ozone above75ᵗʰ percentile,-0.29227513450648557
+"Leaf area index, low vegetation",-0.28647259601377306
+Surface pressure,-0.2778773734524444
+Black carbon AOD at 550 nm,0.2729105039980378
+"Leaf area index, high vegetation",-0.25261153707760614
+Hydrophilic black carbon aerosol mixing ratio,0.24439498196939538
+Snow depth,0.2365191480952474
+Ethane,0.19531016264859954
+10m wind speed,0.19456202853419316
+FoT PM$_{2.5}$ above75ᵗʰ percentile,-0.1765850180114281
+Land-sea mask,-0.17236267294468316
+Hydrophilic organic matter aerosol mixing ratio,0.15980571046455977
+FoT Hydroxyl radical above75ᵗʰ percentile,0.14687607338206965
+Hydrophobic organic matter aerosol mixing ratio,0.12301719819008758
+FoT Ethane above75ᵗʰ percentile,0.12030423729516883
+Hydrophobic black carbon aerosol mixing ratio,0.11398588388392028
+Sea salt aerosol (5-20 µm) mixing ratio,0.10901773823593001
+FoT Sulphur dioxide above75ᵗʰ percentile,-0.10762960501013055
+FoT Propane above75ᵗʰ percentile,0.10732415729329584
+Sea salt AOD at 550 nm,-0.08646183660044476
+Organic matter AOD at 550 nm,0.08483441264192648
+FoT Carbonmonoxide above75ᵗʰ percentile,-0.07776244174624695
+Relative humidity,-0.06682636837513
+Sea salt aerosol (0.5-5 µm) mixing ratio,0.053385089959435514
+FoT Nitrogen dioxide above75ᵗʰ percentile,0.05008929640559255
+Sea salt aerosol (0.03-0.5 µm) mixing ratio,0.04389650310404748
+Carbon monoxide,0.02989643488804574
+FoT Nitric acid above75ᵗʰ percentile,0.00832473825523206
+Dust aerosol (0.9-20 µm) mixing ratio,0.002410973887744265

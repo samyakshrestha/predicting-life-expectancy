@@ -1,0 +1,2 @@
+Correlated Pair,Correlation,Keep,Drop,Reason
+White Population (%) <-> Black Population (%),-0.8522274670689477,Black Population (%),White Population (%),Higher target correlation (0.384 vs 0.335)

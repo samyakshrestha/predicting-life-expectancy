@@ -1,0 +1,46 @@
+Variable,VIF
+Mean sea level pressure,21997.235362240044
+Surface pressure,9093.120696121849
+Snow albedo,8546.449696994674
+Organic matter AOD at 550 nm,1406.1966572613624
+Hydrophilic organic matter aerosol mixing ratio,1227.396672359365
+Ethane,1139.054821011205
+Carbon monoxide,1125.3459805103173
+Hydrophobic organic matter aerosol mixing ratio,528.7737041052886
+Sea salt aerosol (0.03-0.5 µm) mixing ratio,480.3907208009721
+Relative humidity,441.7299040162805
+Sulphate AOD at 550 nm,412.07112628640687
+FoT Temperature above75ᵗʰ percentile,394.44653669750403
+FoT Temperature below25ᵗʰ percentile,331.45459016658015
+FoT Hydroxyl radical above75ᵗʰ percentile,330.7922698826221
+Land-sea mask,298.56193451279256
+Hydroxyl radical,262.4129347387171
+Wet bulb temperature,260.8120103481232
+Sulphate aerosol mixing ratio,245.46362489926835
+FoT Ozone above75ᵗʰ percentile,236.9260035082047
+Black carbon AOD at 550 nm,233.9572300623772
+FoT Carbonmonoxide above75ᵗʰ percentile,209.77088286952792
+FoT PM$_{2.5}$ above75ᵗʰ percentile,196.41109331748217
+FoT Hydrogen peroxide above75ᵗʰ percentile,195.64437548220178
+Hydrophilic black carbon aerosol mixing ratio,186.4404570317434
+FoT Peroxyacetyl Nitrate above75ᵗʰ percentile,179.53518096342594
+FoT Formaldehyde above75ᵗʰ percentile,168.25281049127346
+Sea salt aerosol (0.5-5 µm) mixing ratio,160.91918236130203
+FoT Ethane above75ᵗʰ percentile,145.26825448157518
+FoT Nitrogen dioxide above75ᵗʰ percentile,125.04256127107263
+Dust aerosol (0.55-0.9 µm) mixing ratio,106.4278391676813
+FoT Nitric acid above75ᵗʰ percentile,75.03920248340407
+Sea salt AOD at 550 nm,69.64187231542988
+FoT Isoprene above75ᵗʰ percentile,63.940403228941975
+Dust AOD at 550 nm,54.08353622492661
+FoT Nitrogen monoxide above75ᵗʰ percentile,46.286743336615025
+Sea salt aerosol (5-20 µm) mixing ratio,42.55440660316918
+Isoprene,40.87624156234195
+FoT Propane above75ᵗʰ percentile,36.314814353682856
+Hydrophobic black carbon aerosol mixing ratio,34.413258845322716
+"Leaf area index, high vegetation",18.29031520780816
+FoT Sulphur dioxide above75ᵗʰ percentile,17.306970891433227
+"Leaf area index, low vegetation",16.800414593456278
+10m wind speed,15.33501305941524
+Dust aerosol (0.9-20 µm) mixing ratio,7.613759298390564
+Snow depth,3.609768100480503

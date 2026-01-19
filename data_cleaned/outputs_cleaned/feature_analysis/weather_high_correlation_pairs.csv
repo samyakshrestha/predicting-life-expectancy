@@ -1,0 +1,27 @@
+Variable 1,Variable 2,Correlation
+Sea salt aerosol (0.03-0.5 µm) mixing ratio,Sea salt aerosol (0.5-5 µm) mixing ratio,0.9996370161552595
+Wet bulb temperature,FoT Temperature below25ᵗʰ percentile,-0.9672763402148203
+FoT Temperature above75ᵗʰ percentile,FoT Temperature below25ᵗʰ percentile,-0.9543401709082036
+Isoprene,FoT Isoprene above75ᵗʰ percentile,0.9432423338713726
+Sea salt aerosol (0.5-5 µm) mixing ratio,Sea salt aerosol (5-20 µm) mixing ratio,0.9371211154939848
+FoT Formaldehyde above75ᵗʰ percentile,FoT Isoprene above75ᵗʰ percentile,0.9346948858498866
+Wet bulb temperature,FoT Temperature above75ᵗʰ percentile,0.9334750762582916
+Sea salt aerosol (0.03-0.5 µm) mixing ratio,Sea salt aerosol (5-20 µm) mixing ratio,0.9314413078327572
+FoT Hydrogen peroxide above75ᵗʰ percentile,FoT Temperature above75ᵗʰ percentile,0.9305227456464832
+Hydrophilic organic matter aerosol mixing ratio,Hydrophobic organic matter aerosol mixing ratio,0.9298706819445653
+FoT Formaldehyde above75ᵗʰ percentile,FoT Peroxyacetyl Nitrate above75ᵗʰ percentile,0.9193764463844738
+Dust AOD at 550 nm,Dust aerosol (0.55-0.9 µm) mixing ratio,0.9151636160199699
+Hydroxyl radical,FoT Hydroxyl radical above75ᵗʰ percentile,0.8930194596962183
+Sea salt AOD at 550 nm,Sea salt aerosol (0.03-0.5 µm) mixing ratio,0.8858403030978258
+Ethane,Hydrophobic organic matter aerosol mixing ratio,0.8856261832844385
+Sea salt AOD at 550 nm,Sea salt aerosol (0.5-5 µm) mixing ratio,0.8812026129925132
+Ethane,Hydrophobic black carbon aerosol mixing ratio,0.880629204647305
+FoT Ethane above75ᵗʰ percentile,FoT Propane above75ᵗʰ percentile,0.8769529925799212
+FoT Hydrogen peroxide above75ᵗʰ percentile,FoT Temperature below25ᵗʰ percentile,-0.8731809229902612
+Dust AOD at 550 nm,FoT Hydrogen peroxide above75ᵗʰ percentile,0.8695371689345981
+Isoprene,FoT Formaldehyde above75ᵗʰ percentile,0.8676142966036455
+Sulphate AOD at 550 nm,Sulphate aerosol mixing ratio,0.8656495202019194
+Carbon monoxide,Ethane,0.8631933887957183
+Carbon monoxide,Hydrophobic organic matter aerosol mixing ratio,0.8573557425472319
+Hydrophobic black carbon aerosol mixing ratio,Hydrophobic organic matter aerosol mixing ratio,0.8560576735301649
+Wet bulb temperature,FoT Hydrogen peroxide above75ᵗʰ percentile,0.853367354358924

@@ -1,32 +1,32 @@
 # County-Level Life Expectancy Prediction in the United States
 
-A comprehensive machine learning project predicting county-level life expectancy (2012-2019) using demographic, weather, and livestock features with XGBoost regression models optimized through Bayesian hyperparameter tuning.
+A machine learning project predicting county-level life expectancy (2012-2019) using socioeconomic, atmospheric, and livestock features with XGBoost regression models optimized through Bayesian hyperparameter tuning.
 
 ## Project Overview
 
-This project develops predictive models for U.S. county-level life expectancy by integrating multi-source data and applying advanced feature selection techniques. Through systematic feature reduction from 126 to 42 variables and ablation studies across four model configurations, we achieve high predictive accuracy (R² ≈ 0.95-0.97) while maintaining interpretability.
+This project develops predictive models for U.S. county-level life expectancy by integrating multi-source data and applying advanced feature selection techniques. Through systematic feature reduction from 100+ to 40 variables and ablation studies across four model configurations, we achieve strong predictive accuracy (R² = 0.844) while maintaining interpretability. County-level cross-validation (GroupKFold) ensures the model generalizes to geographically unseen counties.
 
 **Key Findings:**
-- Top 20 features achieve exceptional performance with R² = 0.97
-- Formaldehyde emerged as a top predictor, revealing important environmental health implications
-- 67% feature reduction achieved with minimal performance loss
-- Environmental factors play a more significant role than previously recognized
+- Top 20 features achieve R² = 0.844 with RMSE = 1.00 years on held-out counties
+- Formaldehyde exposure ranked 3rd overall, revealing important environmental health implications
+- Wet-bulb temperature ranked 5th, indicating heat stress as a health determinant
+- 50% feature reduction achieved with no performance loss
 
 ## Dataset
 
-**Temporal Scope:** 2012-2019  
-**Geographic Coverage:** ~3,000 U.S. counties  
-**Total Observations:** ~24,000 county-year pairs  
-**Final Features:** 42 (after systematic reduction)
+**Temporal Scope:** 2012-2019
+**Geographic Coverage:** ~3,100 U.S. counties
+**Total Observations:** 24,487 county-year pairs
+**Final Features:** 40 (after systematic reduction)
 
 ### Data Sources
 
 | Category | Source | Variables |
 |----------|--------|-----------|
-| **Demographics** | U.S. Census Bureau (ACS 5-Year) | Poverty rate, education, population density, etc. (9 features) |
-| **Weather** | CAMS ECMWF | Temperature, precipitation, humidity, solar radiation (~21 features) |
-| **Livestock** | FAO GLM | Cattle, poultry, hogs, sheep inventory (8 features) |
-| **Target** | IHME | County-level mean life expectancy |
+| **Socioeconomic** | U.S. Census Bureau (ACS 5-Year) | Poverty rate, education, disability rate, etc. (10 features) |
+| **Atmospheric** | CAMS/ERA5 | Pollutants, temperature, humidity, aerosols (23 features) |
+| **Livestock** | FAO GLW | Cattle, poultry, hogs, sheep, horses, etc. (7 features) |
+| **Target** | IHME | County-level life expectancy at birth |
 
 ## Quick Start
 
@@ -58,7 +58,7 @@ jupyter notebook notebooks_clean/
 │   ├── weather/                  # Weather variables
 │   ├── livestock/                # Livestock inventory data
 │   ├── processed/                # Intermediate processed datasets
-│   ├── combined_final/           # Final reduced dataset (42 features)
+│   ├── combined_final/           # Final reduced dataset (40 features)
 │   └── outputs_cleaned/          # Model outputs and figures
 ├── notebooks_clean/               # Analysis pipeline (02-09)
 │   ├── 02_fetch_merge_acs_variables.ipynb
@@ -81,42 +81,42 @@ jupyter notebook notebooks_clean/
 - Clean and validate combined dataset
 
 ### 2. Feature Selection (Notebooks 06-08)
-- **Correlation Analysis:** Identify highly correlated features (|r| > 0.7)
-- **VIF Analysis:** Remove multicollinear features (VIF > 10)
+- **Correlation Analysis:** Identify highly correlated features (|r| > 0.85)
+- **Hierarchical Clustering:** Remove redundant atmospheric variables
 - **Domain Filtering:** Exclude irrelevant variables
-- **Result:** 88 features removed (6 demographics + 82 weather)
+- **Result:** Reduced from ~100 features to 40 final predictors
 
 ### 3. Modeling (Notebook 09)
 - **Algorithm:** XGBoost Regressor
-- **Optimization:** Bayesian hyperparameter search (30 iterations, 5-fold CV)
-- **Configurations:** All Features (38), Top 20, Top 10, Top 5
+- **Optimization:** Bayesian hyperparameter search (30 iterations, 5-fold GroupKFold CV)
+- **Cross-Validation:** County-level grouping (GroupShuffleSplit for train/test, GroupKFold for CV) to prevent data leakage
+- **Configurations:** All Features (40), Top 20, Top 10, Top 5
 - **Evaluation:** RMSE, R², MAE, permutation importance, SHAP analysis
 
 ## Results
 
 ### Model Performance Comparison
 
-| Model | Features | Train R² | Test R² | Train RMSE | Test RMSE | Train MAE | Test MAE |
-|-------|----------|----------|---------|------------|-----------|-----------|----------|
-| **All Features** | 41 | 0.999 | 0.962 | 0.090 | 0.489 | 0.068 | 0.360 |
-| **Top 20** | 20 | 1.000 | 0.969 | 0.009 | 0.442 | 0.007 | 0.321 |
-| **Top 10** | 10 | 0.999 | 0.953 | 0.070 | 0.545 | 0.050 | 0.399 |
-| **Top 5** | 5 | 0.948 | 0.801 | 0.577 | 1.121 | 0.438 | 0.851 |
+| Model | Features | Train R² | Test R² | Train RMSE | Test RMSE | Test MAE |
+|-------|----------|----------|---------|------------|-----------|----------|
+| **All Features** | 40 | 0.939 | 0.844 | 0.63 | 1.00 | 0.76 |
+| **Top 20** | 20 | 0.985 | 0.844 | 0.31 | 1.00 | 0.76 |
+| **Top 10** | 10 | 0.922 | 0.803 | 0.71 | 1.13 | 0.87 |
+| **Top 5** | 5 | 0.851 | 0.756 | 0.98 | 1.25 | 0.95 |
 
-**Recommended model:** Top 20 features - achieves the best test performance (R² = 0.969) with significant dimensionality reduction.
+**Recommended model:** Top 20 features - achieves equivalent test performance (R² = 0.844) to the full model with 50% fewer features. Test metrics reflect county-level cross-validation, where the model predicts life expectancy for counties not seen during training.
 
-### Key Finding: Formaldehyde as a Top Predictor
+### Key Finding: Formaldehyde and Wet-Bulb Temperature as Top Predictors
 
-A notable discovery from this analysis is that **Formaldehyde concentration** emerged as one of the strongest predictors of life expectancy. This finding has important environmental health implications, suggesting that air quality and indoor/outdoor pollutant exposure may play a more significant role in population health outcomes than traditionally recognized in county-level mortality studies. This result warrants further investigation into the sources and pathways of formaldehyde exposure across U.S. counties and their relationship to public health interventions.
+**Formaldehyde exposure** ranked 3rd overall in SHAP importance and 2nd in permutation importance, surpassing several traditional socioeconomic indicators. This finding suggests that air quality plays a more significant role in population health than traditionally recognized. **Wet-bulb temperature**, a physiological measure of heat stress, ranked 5th overall, indicating that climate-related factors capture health-relevant information beyond standard temperature measurements.
 
 ### Visualizations
 
-The project generates 28 publication-ready figures including:
+The project generates publication-ready figures including:
 - Prediction scatter plots with performance metrics
-- Q-Q plots for distribution validation
+- Residual analysis plots
 - Permutation importance rankings
-- SHAP summary and dependence plots
-- Correlation heatmaps
+- SHAP summary (beeswarm) and dependence plots
 - Ablation study showing performance vs. feature count trade-offs
 
 *All outputs saved to: `data_cleaned/outputs_cleaned/modeling/xgboost/`*
@@ -132,7 +132,9 @@ The project generates 28 publication-ready figures including:
 
 ### Data Sources
 - **Life Expectancy:** Institute for Health Metrics and Evaluation (IHME)
-- **Demographics:** U.S. Census Bureau, American Community Survey
+- **Socioeconomic:** U.S. Census Bureau, American Community Survey (ACS 5-Year)
+- **Atmospheric:** Copernicus Atmosphere Monitoring Service (CAMS), ERA5 Reanalysis
+- **Livestock:** FAO Gridded Livestock of the World (GLW)
 
 ## Documentation
 

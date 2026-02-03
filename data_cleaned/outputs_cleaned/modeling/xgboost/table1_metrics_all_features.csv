@@ -1,6 +1,6 @@
 Metric,Training Set,Test Set
-R² Score,0.939,0.844
-Adjusted R²,0.939,0.843
-RMSE (years),0.63,1.00
-MAE (years),0.49,0.76
+R² Score,0.989,0.854
+Adjusted R²,0.989,0.853
+RMSE (years),0.26,0.97
+MAE (years),0.20,0.73
 Sample Size,"19,583","4,904"

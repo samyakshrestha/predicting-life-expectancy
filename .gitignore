@@ -14,6 +14,6 @@
 
 # Paper drafts and outputs
 paper/
-notebooks_cvd/
+#notebooks_cvd/
 data_cvd/
 schematic_env/

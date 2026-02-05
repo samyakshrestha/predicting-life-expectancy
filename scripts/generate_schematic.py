@@ -40,13 +40,13 @@ def draw_box(ax, x, y, width, height, color, title, subtitle='', border_color='#
 
     # Title
     ax.text(x + width/2, y + height/2 + 0.15, title,
-            ha='center', va='center', fontsize=10, fontweight='bold',
+            ha='center', va='center', fontsize=11, fontweight='bold',
             color=colors['text'])
 
     # Subtitle
     if subtitle:
         ax.text(x + width/2, y + height/2 - 0.25, subtitle,
-                ha='center', va='center', fontsize=8,
+                ha='center', va='center', fontsize=9,
                 color='#666666', style='italic')
 
 def draw_arrow(ax, start, end, color='#888888'):
@@ -72,42 +72,42 @@ draw_box(ax, 0.3, 1.0, 2.0, 1.2, colors['fao'], 'Livestock', '7 Variables')
 
 # Processing box
 draw_box(ax, 3.8, 2.8, 2.4, 3.0, colors['process'], '', '')
-ax.text(5.0, 5.2, 'Feature', ha='center', va='center', fontsize=10,
+ax.text(5.0, 5.2, 'Feature', ha='center', va='center', fontsize=11,
         fontweight='bold', color=colors['text'])
-ax.text(5.0, 4.8, 'Engineering', ha='center', va='center', fontsize=10,
+ax.text(5.0, 4.8, 'Engineering', ha='center', va='center', fontsize=11,
         fontweight='bold', color=colors['text'])
 ax.text(5.0, 4.1, '• County aggregation', ha='center', va='center',
-        fontsize=8, color='#666666')
+        fontsize=9, color='#666666')
 ax.text(5.0, 3.7, '• Correlation filtering', ha='center', va='center',
-        fontsize=8, color='#666666')
+        fontsize=9, color='#666666')
 ax.text(5.0, 3.3, '• 43 final features', ha='center', va='center',
-        fontsize=8, color='#666666')
+        fontsize=9, color='#666666')
 
 # Model box
 draw_box(ax, 7.0, 2.8, 3.0, 3.0, colors['model'], '', '')
-ax.text(8.5, 5.2, 'XGBoost', ha='center', va='center', fontsize=10,
+ax.text(8.5, 5.2, 'XGBoost', ha='center', va='center', fontsize=11,
         fontweight='bold', color=colors['text'])
-ax.text(8.5, 4.8, 'Regression', ha='center', va='center', fontsize=10,
+ax.text(8.5, 4.8, 'Regression', ha='center', va='center', fontsize=11,
         fontweight='bold', color=colors['text'])
 ax.text(8.5, 4.1, '• Bayesian optimization', ha='center', va='center',
-        fontsize=8, color='#666666')
+        fontsize=9, color='#666666')
 ax.text(8.5, 3.7, '• GroupKFold CV', ha='center', va='center',
-        fontsize=8, color='#666666')
+        fontsize=9, color='#666666')
 ax.text(8.5, 3.3, '• SHAP interpretation', ha='center', va='center',
-        fontsize=8, color='#666666')
+        fontsize=9, color='#666666')
 
 # Results box
 draw_box(ax, 10.7, 2.8, 2.6, 3.0, colors['results'], '', '')
-ax.text(12.0, 5.2, 'Key Findings', ha='center', va='center', fontsize=10,
+ax.text(12.0, 5.2, 'Key Findings', ha='center', va='center', fontsize=11,
         fontweight='bold', color=colors['text'])
 ax.text(12.0, 4.4, '#1 Education', ha='center', va='center',
-        fontsize=9, color='#444444')
+        fontsize=10, color='#444444')
 ax.text(12.0, 4.0, '#2 Formaldehyde', ha='center', va='center',
-        fontsize=9, fontweight='bold', color='#c41e3a')  # Highlighted
+        fontsize=10, fontweight='bold', color='#c41e3a')  # Highlighted
 ax.text(12.0, 3.6, '#3 Poverty Rate', ha='center', va='center',
-        fontsize=9, color='#444444')
+        fontsize=10, color='#444444')
 ax.text(12.0, 3.2, 'Test R² = 0.854', ha='center', va='center',
-        fontsize=8, color='#666666', style='italic')
+        fontsize=9, color='#666666', style='italic')
 
 # Arrows from data sources to processing
 draw_arrow(ax, (2.3, 6.4), (3.8, 4.8))

@@ -1,0 +1,9 @@
+{
+  "base_rows": 24487,
+  "merged_rows": 24487,
+  "missing_smoking": 1947,
+  "complete_case_rows": 22540,
+  "sample_loss_fraction": 0.07951157757177278,
+  "complete_case_unique_counties": 3061,
+  "model_b_feature_count": 45
+}

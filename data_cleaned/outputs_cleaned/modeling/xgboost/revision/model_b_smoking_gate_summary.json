@@ -1,0 +1,10 @@
+{
+  "sample_loss_fraction": 0.07951157757177278,
+  "r2_drop_vs_run4": -0.008862892978645065,
+  "formaldehyde_rank_model_b": 2,
+  "trigger_sample_loss_gt_10pct": false,
+  "trigger_r2_drop_gt_0_02": false,
+  "trigger_formaldehyde_rank_gt_5": false,
+  "run_imputation_sensitivity": false,
+  "canonical_revised_model": "complete_case_model_b"
+}

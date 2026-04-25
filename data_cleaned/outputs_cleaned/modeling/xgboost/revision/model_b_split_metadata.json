@@ -1,0 +1,9 @@
+{
+  "train_rows": 18028,
+  "test_rows": 4512,
+  "train_counties": 2448,
+  "test_counties": 613,
+  "county_overlap": 0,
+  "random_state": 42,
+  "test_size": 0.2
+}
